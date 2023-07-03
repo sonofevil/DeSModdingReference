@@ -1,0 +1,149 @@
+Detailed info on selected functions.
+Copied and reformatted from 
+https://github.com/Wulf2k/DeS-FunctionCall/blob/master/DeS-FunctionCall/DeS-FunctionCall.vb
+
+AddClearCount(<No Parameters>)
+	- Increases NG+ count.
+AddDeathCount(<No Parameters>)
+	- Increases death count.
+AddHelpWhiteGhost(<No Parameters>)
+	- Increases white ghosts helped count.
+AddInventoryItem(<Item ID>, <Category>, <Count>) 
+    [IDs: 0 = Weapons, 268435456 = Armor, 536870912 = Accessories, 1073741824 = Goods]
+	- Add an item to the player's inventory.
+AddKillBlackGhost(<No Parameters>)
+	- Increases number of black phantoms killed.
+AddTrueDeathCount(<No Parameters>)
+	- Increases your number of TrueDeaths (inactive feature).
+CamReset(<Creature ID>, <0/1>)
+	- Reset camera to default.
+ChangeModel(<Object ID>, <Model I>)
+	- Unknown Function
+ClearBossGauge(<No Parameters>)
+	- Remove large boss HP bars.
+CloseMenu(<No Parameters>)
+	- Close the Start menu.
+CreateCamSfx(<Unknown ID>, <Unknown value (0 in examples)>)
+	- Unknown function.
+DisableHpGauge(<Creature ID>, <0/1>)
+	- Turn off floating HP bar.
+DisableMapHit(<Creature ID>, <0/1>)
+	- Turn off map collisions for creature.
+DisableMove(<Creature ID>, <0/1>)
+	- Disable creature movement.
+EnableLogic(<Creature ID>, <0/1>)
+	- Enable or disable logic on target creature.
+EraseEventSpecialEffect_2(<Creature ID>, <Special Effect ID>)
+	- Remove special effect from creature.
+ForceDead(<Creature ID>)
+	- Force a creature to die.
+GetBlockId(<No Parameters>)
+	- Return current area's block ID.
+GetBossCount(<No Parameters>)
+	- Unsure on usage.
+GetClearCount(<No Parameters>)
+	- Return number of times game has been cleared.
+GetFloorMaterial(<Creature I>)
+	- Return the material type of floor under target creature.
+GetGlobalQWC(<Unknown ID (0-2>)
+	- Return queued QWC value.
+GetHostPlayerNo(<No Parameters>)
+	- Get Host's Creature ID.
+GetItem(<Item ID>, <Category>)
+	- Give item to player.  (Appears non-functional.)
+GetLocalPlayerChrType(<No Parameters>)
+	- Gets local player's ghost type.
+GetLocalPlayerId(<No Parameters>)
+	- Gets ID of local player.
+GetLocalPlayerSoulLv(<No Parameters>)
+	- Gets soul level of local player.
+GetLocalQWC(<Unknown ID>)
+	- Gets local tendency of target area.
+GetTargetChrID(<Creature I>)
+	- Gets target creature ID for specified creature.
+GetQWC(<Unsure (0-2)>)
+	- Gets the specified tendency.
+IsOnline(<No Parameters>)
+	- Returns online status.
+IsOnlineMode(<No Parameters>)
+	- Returns status of online mode.
+LockSession(<No Parameter>)
+	- Locks session>, <disabling MP.
+NotNetMessage_begin(<No Parameters>)
+	- Unknown
+NotNetMessage_end(<No Parameters>)
+	- Unknown
+OpenCampMenu(<No Parameters>)
+	- Open the Start menu.
+PauseTutorial(<No Parameters>)
+	- Unknown Function.
+PlayAnimation(<Creature ID>, <Animation ID>)
+	- Force selected creature into specific animation.
+PlayLoopAnimation(<CreatureID>, <AnimationI>)
+	- Force selected creature into a loop of a specific animation
+RecvGlobalQwc(<No Parameters>)
+	- Set queued tendencies to be active.
+RequestUnlockTrophy(<Trophy ID>)
+	- Unlocks specified trophy.
+ReturnMapSelect(<No parameters>)
+	- Return to main menu.
+SaveRequest(<No Parameters>)
+	- Save the game.
+SaveRequest_Profile(<No Parameters>)
+	- Save the profile.  (Unsure if different from regular SaveRequest).
+SetBallista(<Unknown ID>, <Creature ID>)
+	- Unknown function.
+SetBossGauge(<Creature ID>, <Bar #>, <Name ID>)
+	- Assign creature's HP bar to large boss health gauge.
+SetColiEnable(<Object/Creature ID>, <0/1>)
+	- Enable or disable creature collision for target object or creature.
+SetDeadMode(<Creature ID>, <0/1>)
+	- Prevent creature from dying.
+SetDisable(<Creature ID>, <0/1>)
+	- Remove target creature.
+SetDisableBackread_forEvent(<Creature ID>, <0/1>)
+	- Part of disabling a creature>, <exact function uncertain.
+SetDisableGravity(<Creature ID>, <0/1>)
+	- Enable or disable gravity for target creature.
+SetDrawEnable(<Object/Creature ID>, <0/1>)
+	- Enable or disable drawing target object or creature.
+SetEventSpecialEffect_2(<Creature ID>, <Special Effect ID>)
+	- Apply special effect to creature.
+SetHp(<Creature ID>, <0-1 percentage of HP>)
+	- Set creature's current HP.
+SetIgnoreHit(<Creature ID>, <0/1>)
+	- Disable all of creature's collision.
+SetMenuBrake(<No Parameters>)
+	- Disable the start menu.  (Is immediately overridden.)
+SetPartyRestrictNum(<Max players>)
+	- Sets maximum party size.
+SetSubMenuBrake(<0/1>)
+	- Disable Select menu in multiplayer.
+SetSuperArmor(<Creature ID>, <0/1>)
+	- Enable Super Armor on creature.
+SetTeamType(<Creature ID>, <Team ID>)
+	- Set creature's team type.
+SetTextEffect(<TextEffect ID>)
+	- Display selcted text banner across screen.
+ShowGenDialog(<Message ID>, <Prompt ID>, <Prompt Type>, <Unknown>)
+	- Show Dialog Box.
+StopPlayer(<No Parameters>)
+	- Disable player movement.  Use EnableLogic to re-enable.
+SummonBlackRequest(<Area ID>)
+	- Believed to request a black invader, like Old Monk.
+SummonedMapReload(<No Parameters>)
+	- Unknown Effect.
+Tutorial_begin(<No Parameters>)
+	- Enter Tutorial mode.  Disable autosaving.
+Tutorial_end(<No Parameters>)
+	- Exit Tutorial mode.  Does not seem to re-enable autosaving.
+UnLockSession(<No Parameters>)
+	- Re-enable MP capabilities.
+Warp(<Creature ID>, <Warp ID>)
+	- Warp creature to area.
+WarpSelfBloodMark(<0/1>)
+	- Warp yourself to the map containing your bloodstain.  Parameter appears to be ignored.
+WarpNextStage(<World ID>, <Level ID>, <Area ID>, <Subarea ID>, <Warp I>)
+	- Warp player to new map.
+WarpRestart(<Creature ID>, <Unknown ID>)
+	- Warp creature to area.
