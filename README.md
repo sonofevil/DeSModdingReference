@@ -8,6 +8,8 @@ Detailed info on selected LUA functions. Copied and reformatted from
 
 https://github.com/Wulf2k/DeS-FunctionCall/blob/master/DeS-FunctionCall/DeS-FunctionCall.vb
 
+All credit goes to Wulf2k.
+
 functionlist.txt
 -
 
