@@ -12,3 +12,9 @@ functionlist.txt
 -
 
 Comprehensive list of functions used in DeS LUAs. Includes rudimentary info about arguments.
+
+translations
+-
+
+/script: Lua files with (machine-translated) English comments.
+
