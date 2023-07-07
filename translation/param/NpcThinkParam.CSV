@@ -1,0 +1,197 @@
+ID#Name
+0#for testing
+1#for doing nothing
+500#Hirai Test Knight
+501#Hirai Test Knight 2
+520#NPC Player Test
+600#homing test general soldier_sword
+601#Homecoming test General soldier_sword (flame)
+602#homing test general soldier_bow
+603#Returning Test Knight_Sword
+103000#fat daemon tutorial
+103001#Fat Demon main story
+200000#Slave soldier_sword
+200001#Slave soldier_sword (only)
+200003#Slave trader
+200004#Slave soldier_Sword (I like Chew Guard)
+200005#Slave soldier_sword (tutorial/weak)
+200006#Slave soldier_sword
+200007#Slave soldier_sword (prince siege)
+200010#General soldier_sword (tutorial)
+200011#General soldier_Bow (tutorial)
+200012#General soldier_sword (flame)
+200020#Knight_Sword (Tutorial)
+200021#Knight_Sword (Tutorial/Exclusive)
+201000#General soldier_sword
+201001#General soldier_sword (flame)
+201002#General soldier_Bow (fixed)
+201003#General soldier_Bow
+201004#General soldier_sword (only)
+201005#General soldier_sword (flame, no sound reaction)
+201006#General soldier_Spear
+201007#General soldier_Ax
+201008#General soldier_Halvard
+201009#General Soldier_Spear
+201010#General Soldier_Aksu
+201011#General Soldier_Halvard
+201012#General soldier_Bow (fixed/standing only)
+202000#Knight_Sword
+202001#Knight_Sword (Exclusive)
+202002#Knight_Claymore
+202003#Knight_Spear
+202004#Knight_Claymore
+202005#Knight_Spear
+203000#assassin
+207000#captive
+207001#Prisoner (Kamisama follower)
+207002#Prisoner (prison castle 2)
+207003#Prisoner (Stab/Spear)
+207004#Prisoner (stab/poison)
+207500#Prisoner ball (prison castle 1)
+207501#Prisoner ball (prison castle 2)
+208000#jailman
+208001#Prisoner (No sound response)
+208002#Prisoner (cudgeon) Tunnel I don't see the area
+208003#Prisoner (club) Tunnel View area 2165
+208004#Prisoner (club) Tunnel View area 2166
+208005#Prisoner (club) Tunnel View area 2167
+209000#former aristocratic lady
+210000#Corruption
+210002#Corrupted human (spear)
+210003#Corrupted Human (Magician)
+210004#Corruption Human Impure 2
+210005#Corruption Human Impure 3
+210100#Large rot human
+211000#scale miner (ice ax)
+211001#Scale miner (bag)
+211002#scale miner (stiletto)
+211003#scale miner (great sword)
+211004#scale miner
+211006#Scale Miner (Hammer)
+211007#Scale miner (bare hands)
+211008#scale miner (attack ice ax)
+211009#scale miner (rock throwing bare hand)
+211010#scale miner (rock throwing bare hands 2)
+211011#scale miner (rock throwing bare hands 3)
+211012#scale miner (rock throwing bare hands 4)
+212000#Kagejin
+212001#Shadow (strong light)
+212002#Shadow (Exclusive)
+213000#Kagejo (Area A 2460)
+213001#Kagejo (Area B 2461)
+301000#military dog
+301001#Military Dog Mine Remodeling
+303000#hawk
+304000#Chimera
+305000#Gargoyle (Sword) Prison See no territory
+305001#Gargoyle(Bow)
+305094#Gargoyle (sword) Prison See area 2265
+305095#Gargoyle (Sword) Prison See area 2264
+305096#Gargoyle (Sword) Prison See area 2263
+305097#Gargoyle (Sword) Prison See area 2262
+305098#Gargoyle (Sword) Prison See area 2261
+305099#Gargoyle (Sword) Prison See area 2260
+306000#Plague Rat
+307000#Big slug
+307100#Large slug (light)
+308000#cloudy jellyfish
+309000#Big Mosquito
+310000#Rock worm
+310001#Rock worm (lava shower)
+310002#Rock earthworm (non-throwing Ver.)
+311000#crystal lizard
+311001#Crystal lizard (for event)
+311010#Crystal lizard (general purpose)
+312000#magma gecko
+313000#ocean bear
+313001#Okutamushi (for event)
+313002#Okutamushi (for maze)
+313004#Feather tardigrade
+313006#Feather tardigrade (for specific position)
+318000#Big blood tick
+400000#fail
+401000#Wizard (Exclusive)
+401001#Wizard (exclusively slow response)
+402003#Gold skeleton
+402004#Gold Skeleton (Exclusive)
+402100#White skeleton_sword
+402101#White Skeleton_Bow
+402102#White Skeleton_Sword (narrow)
+402103#White Skeleton_Sword (Exclusive)
+402104#White Skeleton_Bow (Fixed)
+402200#Black skeleton_Dual wielding
+402201#Black Skeleton_Two Swords (Exclusive)
+403000#octopus man
+405000#flame monster
+500000#Phalanx (Chibi)
+500001#Phalanx (Chibi) for strays
+500100#Phalanx (body)
+501000#King's Shield
+502000#King's sword
+503000#storm beast
+503100#child stingray for boss fight
+503101#baby ray single use
+503102#child ray single use (high-rise)
+503103#Child ray single use (middle layer)
+503104#child ray single use (low-rise)
+504000#Referee
+506000#Kamisama
+506001#Fake God
+507000#chimera ball
+507100#Chimera ball
+508000#flies
+509000#leech demon
+510000#big spider
+511000#Ore Spirit
+512000#flying dragon
+513000#Wyvern's family
+602000#storm warrior
+604000#Saint Libra
+604100#Unclean
+605000#Dragon Demon (Tutorial)
+605001#Dragon Demon (Mine Tunnel)
+708000#VIP
+710000#beggar
+711000#beggar (female)
+713000#Blacksmith (pit)
+713100#Blacksmith (Pillar)
+715000#heroine
+723000#King Lendl
+801000#Royal Castle 4 Three Musketeers A
+802000#Royal Castle 4 Three Musketeers B
+803000#Royal Castle 4 Three Musketeers C
+804000#Old Fort 2 Uru-sama's confined warrior
+805000#broken warrior
+807000#Prince Lendl
+807001#Prince Lendl (Black Ghost)
+808000#bjorngrum
+808001#Björn Grum (for fighting flying dragons)
+809000#patch (pit)
+810000#Patch (Old Fort)
+811000#Prisoner of Water Prison (Blige)
+814000#Ulbane
+815000#half hand
+816000#Gargold Run
+817000#sage logan
+818000#Yurt, Lord of Silence
+819000#Sir Villaidel in Black
+819002#Lord Villaidel in Black・Black
+820000#Princess Knight Selene
+820002#Princess Knight Selene Black
+821000#witch
+822000#old king Doran
+823000#Magician
+824000#God's follower 1
+825000#God's Follower Part 2
+826000#God's Follower Part 3
+828000#savvy
+829000#Thomas the Big Bag
+830000#Master Satsuki
+831000#Mephistopheles
+832000#miralda the condemned
+832002#Miralda Black the Condemned
+833000#Prison Castle 3 Older summoning NPC
+834000#Tunnel 2 Barbarian Warrior Black
+835000#for tutorial wandering ghost
+836000#Prison 1 Warrior in front of the church Black
+837000#Unclean 1Black Ghost

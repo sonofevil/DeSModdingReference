@@ -1,0 +1,1839 @@
+ID#Name
+1#All-purpose catalyst (For Debugging/For both Magic & Miracles)
+2#All-purpose catalyst (For Menu Dummy)
+10000#Dagger
+10001#Dagger+1
+10002#Dagger+2
+10003#Dagger+3
+10004#Dagger+4
+10005#Dagger+5
+10006#Dagger+6
+10007#Dagger+7
+10008#Dagger+8
+10009#Dagger+9
+10010#Dagger+10
+10011#Quality Dagger+1
+10012#Quality Dagger+2
+10013#Quality Dagger+3
+10014#Quality Dagger+4
+10015#Quality Dagger+5
+10021#Mercury Dagger+1
+10022#Mercury Dagger+2
+10023#Mercury Dagger+3
+10024#Mercury Dagger+4
+10025#Mercury Dagger+5
+10031#Sharp Dagger+1
+10032#Sharp Dagger+2
+10033#Sharp Dagger+3
+10034#Sharp Dagger+4
+10035#Sharp Dagger+5
+10041#Fatal Dagger+1
+10042#Fatal Dagger+2
+10043#Fatal Dagger+3
+10044#Fatal Dagger+4
+10045#Fatal Dagger+5
+10051#Crescent Dagger+1
+10052#Crescent Dagger+2
+10053#Crescent Dagger+3
+10054#Crescent Dagger+4
+10055#Crescent Dagger+5
+10100#Parrying Dagger
+10101#Parrying Dagger+1
+10102#Parrying Dagger+2
+10103#Parrying Dagger+3
+10104#Parrying Dagger+4
+10105#Parrying Dagger+5
+10106#Parrying Dagger+6
+10107#Parrying Dagger+7
+10108#Parrying Dagger+8
+10109#Parrying Dagger+9
+10110#Parrying Dagger+10
+10111#Quality Parrying Dagger+1
+10112#Quality Parrying Dagger+2
+10113#Quality Parrying Dagger+3
+10114#Quality Parrying Dagger+4
+10115#Quality Parrying Dagger+5
+10121#Mercury Parrying Dagger+1
+10122#Mercury Parrying Dagger+2
+10123#Mercury Parrying Dagger+3
+10124#Mercury Parrying Dagger+4
+10125#Mercury Parrying Dagger+5
+10131#Fatal Parrying Dagger+1
+10132#Fatal Parrying Dagger+2
+10133#Fatal Parrying Dagger+3
+10134#Fatal Parrying Dagger+4
+10135#Fatal Parrying Dagger+5
+10141#Sharp Parrying Dagger+1
+10142#Sharp Parrying Dagger+2
+10143#Sharp Parrying Dagger+3
+10144#Sharp Parrying Dagger+4
+10145#Sharp Parrying Dagger+5
+10151#Crescent Parrying Dagger+1
+10152#Crescent Parrying Dagger+2
+10153#Crescent Parrying Dagger+3
+10154#Crescent Parrying Dagger+4
+10155#Crescent Parrying Dagger+5
+10200#Mail Breaker
+10201#Mail Breaker+1
+10202#Mail Breaker+2
+10203#Mail Breaker+3
+10204#Mail Breaker+4
+10205#Mail Breaker+5
+10206#Mail Breaker+6
+10207#Mail Breaker+7
+10208#Mail Breaker+8
+10209#Mail Breaker+9
+10210#Mail Breaker+10
+10211#Quality Mail Breaker+1
+10212#Quality Mail Breaker+2
+10213#Quality Mail Breaker+3
+10214#Quality Mail Breaker+4
+10215#Quality Mail Breaker+5
+10221#Mercury Mail Breaker+1
+10222#Mercury Mail Breaker+2
+10223#Mercury Mail Breaker+3
+10224#Mercury Mail Breaker+4
+10225#Mercury Mail Breaker+5
+10231#Fatal Mail Breaker+1
+10232#Fatal Mail Breaker+2
+10233#Fatal Mail Breaker+3
+10234#Fatal Mail Breaker+4
+10235#Fatal Mail Breaker+5
+10241#Sharp Mail Breaker+1
+10242#Sharp Mail Breaker+2
+10243#Sharp Mail Breaker+3
+10244#Sharp Mail Breaker+4
+10245#Sharp Mail Breaker+5
+10251#Crescent Mail Breaker+1
+10252#Crescent Mail Breaker+2
+10253#Crescent Mail Breaker+3
+10254#Crescent Mail Breaker+4
+10255#Crescent Mail Breaker+5
+10400#Baby's Nail
+10401#Baby's Nail+1
+10402#Baby's Nail+2
+10403#Baby's Nail+3
+10404#Baby's Nail+4
+10405#Baby's Nail+5
+10500#Geri's Stiletto
+10501#Geri's Stiletto+1
+10502#Geri's Stiletto+2
+10503#Geri's Stiletto+3
+10504#Geri's Stiletto+4
+10505#Geri's Stiletto+5
+10600#Kris Blade
+10601#Kris Blade+1
+10602#Kris Blade+2
+10603#Kris Blade+3
+10604#Kris Blade+4
+10605#Kris Blade+5
+10700#Secret Dagger
+10701#Secret Dagger+1
+10702#Secret Dagger+2
+10703#Secret Dagger+3
+10704#Secret Dagger+4
+10705#Secret Dagger+5
+10706#Secret Dagger+6
+10707#Secret Dagger+7
+10708#Secret Dagger+8
+10709#Secret Dagger+9
+10710#Secret Dagger+10
+10711#Sharp Secret Dagger+1
+10712#Sharp Secret Dagger+2
+10713#Sharp Secret Dagger+3
+10714#Sharp Secret Dagger+4
+10715#Sharp Secret Dagger+5
+10721#Tearing Dagger+1
+10722#Tearing Dagger+2
+10723#Tearing Dagger+3
+10731#Crescent Secret Dagger+1
+10732#Crescent Secret Dagger+2
+10733#Crescent Secret Dagger+3
+10734#Crescent Secret Dagger+4
+10735#Crescent Secret Dagger+5
+10741#Quality Secret Dagger+1
+10742#Quality Secret Dagger+2
+10743#Quality Secret Dagger+3
+10744#Quality Secret Dagger+4
+10745#Quality Secret Dagger+5
+10751#Mercury Secret Dagger+1
+10752#Mercury Secret Dagger+2
+10753#Mercury Secret Dagger+3
+10754#Mercury Secret Dagger+4
+10755#Mercury Secret Dagger+5
+10761#Fatal Secret Dagger+1
+10762#Fatal Secret Dagger+2
+10763#Fatal Secret Dagger+3
+10764#Fatal Secret Dagger+4
+10765#Fatal Secret Dagger+5
+19000#prowling dagger
+20000#Short Sword
+20001#Short Sword+1
+20002#Short Sword+2
+20003#Short Sword+3
+20004#Short Sword+4
+20005#Short Sword+5
+20006#Short Sword+6
+20007#Short Sword+7
+20008#Short Sword+8
+20009#Short Sword+9
+20010#Short Sword+10
+20011#Quality Short Sword+1
+20012#Quality Short Sword+2
+20013#Quality Short Sword+3
+20014#Quality Short Sword+4
+20015#Quality Short Sword+5
+20021#Dragon Short Sword+1
+20022#Dragon Short Sword+2
+20023#Dragon Short Sword+3
+20024#Dragon Short Sword+4
+20025#Dragon Short Sword+5
+20031#Moon Short Sword+1
+20032#Moon Short Sword+2
+20033#Moon Short Sword+3
+20034#Moon Short Sword+4
+20035#Moon Short Sword+5
+20041#Crushing Short Sword+1
+20042#Crushing Short Sword+2
+20043#Crushing Short Sword+3
+20044#Crushing Short Sword+4
+20045#Crushing Short Sword+5
+20051#Blessed Short Sword+1
+20052#Blessed Short Sword+2
+20053#Blessed Short Sword+3
+20054#Blessed Short Sword+4
+20055#Blessed Short Sword+5
+20100#Broadsword
+20101#Broadsword+1
+20102#Broadsword+2
+20103#Broadsword+3
+20104#Broadsword+4
+20105#Broadsword+5
+20106#Broadsword+6
+20107#Broadsword+7
+20108#Broadsword+8
+20109#Broadsword+9
+20110#Broadsword+10
+20111#Sharp Broadsword+1
+20112#Sharp Broadsword+2
+20113#Sharp Broadsword+3
+20114#Sharp Broadsword+4
+20115#Sharp Broadsword+5
+20121#Tearing Broadsword+1
+20122#Tearing Broadsword+2
+20123#Tearing Broadsword+3
+20124#Tearing Broadsword+4
+20125#Tearing Broadsword+5
+20131#Crescent Broadsword+1
+20132#Crescent Broadsword+2
+20133#Crescent Broadsword+3
+20134#Crescent Broadsword+4
+20135#Crescent Broadsword+5
+20141#Quality Broadsword+1
+20142#Quality Broadsword+2
+20143#Quality Broadsword+3
+20144#Quality Broadsword+4
+20145#Quality Broadsword+5
+20151#Mercury Broadsword+1
+20152#Mercury Broadsword+2
+20153#Mercury Broadsword+3
+20154#Mercury Broadsword+4
+20155#Mercury Broadsword+5
+20161#Moon Broadsword+1
+20162#Moon Broadsword+2
+20163#Moon Broadsword+3
+20164#Moon Broadsword+4
+20165#Moon Broadsword+5
+20200#Long Sword
+20201#Long Sword+1
+20202#Long Sword+2
+20203#Long Sword+3
+20204#Long Sword+4
+20205#Long Sword+5
+20206#Long Sword+6
+20207#Long Sword+7
+20208#Long Sword+8
+20209#Long Sword+9
+20210#Long Sword+10
+20211#Quality Long Sword+1
+20212#Quality Long Sword+2
+20213#Quality Long Sword+3
+20214#Quality Long Sword+4
+20215#Quality Long Sword+5
+20221#Dragon Long Sword+1
+20222#Dragon Long Sword+2
+20223#Dragon Long Sword+3
+20224#Dragon Long Sword+4
+20225#Dragon Long Sword+5
+20231#Moon Long Sword+1
+20232#Moon Long Sword+2
+20233#Moon Long Sword+3
+20234#Moon Long Sword+4
+20235#Moon Long Sword+5
+20241#Crushing Long Sword+1
+20242#Crushing Long Sword+2
+20243#Crushing Long Sword+3
+20244#Crushing Long Sword+4
+20245#Crushing Long Sword+5
+20251#Blessed Long Sword+1
+20252#Blessed Long Sword+2
+20253#Blessed Long Sword+3
+20254#Blessed Long Sword+4
+20255#Blessed Long Sword+5
+20300#Flamberge
+20301#Flamberge+1
+20302#Flamberge+2
+20303#Flamberge+3
+20304#Flamberge+4
+20305#Flamberge+5
+20306#Flamberge+6
+20307#Flamberge+7
+20308#Flamberge+8
+20309#Flamberge+9
+20310#Flamberge+10
+20311#Sharp Flamberge+1
+20312#Sharp Flamberge+2
+20313#Sharp Flamberge+3
+20314#Sharp Flamberge+4
+20315#Sharp Flamberge+5
+20321#Tearing Flamberge+1
+20322#Tearing Flamberge+2
+20323#Tearing Flamberge+3
+20324#Tearing Flamberge+4
+20325#Tearing Flamberge+5
+20331#Crescent Flamberge+1
+20332#Crescent Flamberge+2
+20333#Crescent Flamberge+3
+20334#Crescent Flamberge+4
+20335#Crescent Flamberge+5
+20341#Quality Flamberge+1
+20342#Quality Flamberge+2
+20343#Quality Flamberge+3
+20344#Quality Flamberge+4
+20345#Quality Flamberge+5
+20351#Mercury Flamberge+1
+20352#Mercury Flamberge+2
+20353#Mercury Flamberge+3
+20354#Mercury Flamberge+4
+20355#Mercury Flamberge+5
+20361#Moon Flamberge+1
+20362#Moon Flamberge+2
+20363#Moon Flamberge+3
+20364#Moon Flamberge+4
+20365#Moon Flamberge+5
+20400#Bastard Sword
+20401#Bastard Sword+1
+20402#Bastard Sword+2
+20403#Bastard Sword+3
+20404#Bastard Sword+4
+20405#Bastard Sword+5
+20406#Bastard Sword+6
+20407#Bastard Sword+7
+20408#Bastard Sword+8
+20409#Bastard Sword+9
+20410#Bastard Sword+10
+20411#Quality Bastard Sword+1
+20412#Quality Bastard Sword+2
+20413#Quality Bastard Sword+3
+20414#Quality Bastard Sword+4
+20415#Quality Bastard Sword+5
+20421#Dragon Bastard Sword+1
+20422#Dragon Bastard Sword+2
+20423#Dragon Bastard Sword+3
+20424#Dragon Bastard Sword+4
+20425#Dragon Bastard Sword+5
+20431#Moon Bastard Sword+1
+20432#Moon Bastard Sword+2
+20433#Moon Bastard Sword+3
+20434#Moon Bastard Sword+4
+20435#Moon Bastard Sword+5
+20441#Crushing Bastard Sword+1
+20442#Crushing Bastard Sword+2
+20443#Crushing Bastard Sword+3
+20444#Crushing Bastard Sword+4
+20445#Crushing Bastard Sword+5
+20451#Blessed Bastard Sword+1
+20452#Blessed Bastard Sword+2
+20453#Blessed Bastard Sword+3
+20454#Blessed Bastard Sword+4
+20455#Blessed Bastard Sword+5
+20500#Claymore
+20501#Claymore+1
+20502#Claymore+2
+20503#Claymore+3
+20504#Claymore+4
+20505#Claymore+5
+20506#Claymore+6
+20507#Claymore+7
+20508#Claymore+8
+20509#Claymore+9
+20510#Claymore+10
+20511#Quality Claymore+1
+20512#Quality Claymore+2
+20513#Quality Claymore+3
+20514#Quality Claymore+4
+20515#Quality Claymore+5
+20521#Dragon Claymore+1
+20522#Dragon Claymore+2
+20523#Dragon Claymore+3
+20524#Dragon Claymore+4
+20525#Dragon Claymore+5
+20531#Moon Claymore+1
+20532#Moon Claymore+2
+20533#Moon Claymore+3
+20534#Moon Claymore+4
+20535#Moon Claymore+5
+20541#Crushing Claymore+1
+20542#Crushing Claymore+2
+20543#Crushing Claymore+3
+20544#Crushing Claymore+4
+20545#Crushing Claymore+5
+20551#Blessed Claymore+1
+20552#Blessed Claymore+2
+20553#Blessed Claymore+3
+20554#Blessed Claymore+4
+20555#Blessed Claymore+5
+20600#Great Sword
+20601#Great Sword+1
+20602#Great Sword+2
+20603#Great Sword+3
+20604#Great Sword+4
+20605#Great Sword+5
+20606#Great Sword+6
+20607#Great Sword+7
+20608#Great Sword+8
+20609#Great Sword+9
+20610#Great Sword+10
+20611#Quality Great Sword+1
+20612#Quality Great Sword+2
+20613#Quality Great Sword+3
+20614#Quality Great Sword+4
+20615#Quality Great Sword+5
+20621#Dragon Great Sword+1
+20622#Dragon Great Sword+2
+20623#Dragon Great Sword+3
+20624#Dragon Great Sword+4
+20625#Dragon Great Sword+5
+20631#Moon Great Sword+1
+20632#Moon Great Sword+2
+20633#Moon Great Sword+3
+20634#Moon Great Sword+4
+20635#Moon Great Sword+5
+20641#Crushing Great Sword+1
+20642#Crushing Great Sword+2
+20643#Crushing Great Sword+3
+20644#Crushing Great Sword+4
+20645#Crushing Great Sword+5
+20651#Blessed Great Sword+1
+20652#Blessed Great Sword+2
+20653#Blessed Great Sword+3
+20654#Blessed Great Sword+4
+20655#Blessed Great Sword+5
+20700#Dragon Bone Smasher
+20701#Dragon Bone Smasher+1
+20702#Dragon Bone Smasher+2
+20703#Dragon Bone Smasher+3
+20704#Dragon Bone Smasher+4
+20705#Dragon Bone Smasher+5
+20800#Rune Sword
+20801#Rune Sword+1
+20802#Rune Sword+2
+20803#Rune Sword+3
+20804#Rune Sword+4
+20805#Rune Sword+5
+20900#Soulbrandt
+21000#Demonbrandt
+21100#Storm Ruler
+21101#Storm Ruler
+21102#Storm Ruler
+21103#Storm Ruler
+21104#Storm Ruler
+21105#Storm Ruler
+21106#Storm Ruler
+21107#Storm Ruler
+21300#Knight Sword
+21301#Knight Sword+1
+21302#Knight Sword+2
+21303#Knight Sword+3
+21304#Knight Sword+4
+21305#Knight Sword+5
+21306#Knight Sword+6
+21307#Knight Sword+7
+21308#Knight Sword+8
+21309#Knight Sword+9
+21310#Knight Sword+10
+21311#Quality Knight Sword+1
+21312#Quality Knight Sword+2
+21313#Quality Knight Sword+3
+21314#Quality Knight Sword+4
+21315#Quality Knight Sword+5
+21321#Dragon Knight Sword+1
+21322#Dragon Knight Sword+2
+21323#Dragon Knight Sword+3
+21324#Dragon Knight Sword+4
+21325#Dragon Knight Sword+5
+21331#Moon Knight Sword+1
+21332#Moon Knight Sword+2
+21333#Moon Knight Sword+3
+21334#Moon Knight Sword+4
+21335#Moon Knight Sword+5
+21341#Crushing Knight Sword+1
+21342#Crushing Knight Sword+2
+21343#Crushing Knight Sword+3
+21344#Crushing Knight Sword+4
+21345#Crushing Knight Sword+5
+21351#Blessed Knight Sword+1
+21352#Blessed Knight Sword+2
+21353#Blessed Knight Sword+3
+21354#Blessed Knight Sword+4
+21355#Blessed Knight Sword+5
+21400#Broken Sword
+21500#Northern Regalia
+21501#Northern Regalia
+21600#Large Sword of Moonlight
+21601#Large Sword of Moonlight+1
+21602#Large Sword of Moonlight+2
+21603#Large Sword of Moonlight+3
+21604#Large Sword of Moonlight+4
+21605#Large Sword of Moonlight+5
+21699#Moonlight for Gold Run
+21700#Blueblood Sword
+21800#Penetrating Sword
+21801#Penetrating Sword+1
+21802#Penetrating Sword+2
+21803#Penetrating Sword+3
+21804#Penetrating Sword+4
+21805#Penetrating Sword+5
+21900#Morion Blade
+21901#Morion Blade
+21902#Morion Blade
+21903#Morion Blade
+21904#Morion Blade
+21905#Morion Blade
+29000#Prowling Straight Sword
+30000#Rapier
+30001#Rapier+1
+30002#Rapier+2
+30003#Rapier+3
+30004#Rapier+4
+30005#Rapier+5
+30006#Rapier+6
+30007#Rapier+7
+30008#Rapier+8
+30009#Rapier+9
+30010#Rapier+10
+30011#Quality Rapier+1
+30012#Quality Rapier+2
+30013#Quality Rapier+3
+30014#Quality Rapier+4
+30015#Quality Rapier+5
+30021#Mercury Rapier+1
+30022#Mercury Rapier+2
+30023#Mercury Rapier+3
+30024#Mercury Rapier+4
+30025#Mercury Rapier+5
+30031#Fatal Rapier+1
+30032#Fatal Rapier+2
+30033#Fatal Rapier+3
+30034#Fatal Rapier+4
+30035#Fatal Rapier+5
+30041#Sharp Rapier+1
+30042#Sharp Rapier+2
+30043#Sharp Rapier+3
+30044#Sharp Rapier+4
+30045#Sharp Rapier+5
+30051#Crescent Rapier+1
+30052#Crescent Rapier+2
+30053#Crescent Rapier+3
+30054#Crescent Rapier+4
+30055#Crescent Rapier+5
+30100#Estoc
+30101#Estoc+1
+30102#Estoc+2
+30103#Estoc+3
+30104#Estoc+4
+30105#Estoc+5
+30106#Estoc+6
+30107#Estoc+7
+30108#Estoc+8
+30109#Estoc+9
+30110#Estoc+10
+30111#Quality Estoc+1
+30112#Quality Estoc+2
+30113#Quality Estoc+3
+30114#Quality Estoc+4
+30115#Quality Estoc+5
+30121#Mercury Estoc+1
+30122#Mercury Estoc+2
+30123#Mercury Estoc+3
+30124#Mercury Estoc+4
+30125#Mercury Estoc+5
+30131#Fatal Estoc+1
+30132#Fatal Estoc+2
+30133#Fatal Estoc+3
+30134#Fatal Estoc+4
+30135#Fatal Estoc+5
+30141#Sharp Estoc+1
+30142#Sharp Estoc+2
+30143#Sharp Estoc+3
+30144#Sharp Estoc+4
+30145#Sharp Estoc+5
+30151#Crescent Estoc+1
+30152#Crescent Estoc+2
+30153#Crescent Estoc+3
+30154#Crescent Estoc+4
+30155#Crescent Estoc+5
+30200#Epee Rapier
+30201#Epee Rapier+1
+30202#Epee Rapier+2
+30203#Epee Rapier+3
+30204#Epee Rapier+4
+30205#Epee Rapier+5
+30300#Spiral Rapier
+30301#Spiral Rapier+1
+30302#Spiral Rapier+2
+30303#Spiral Rapier+3
+30304#Spiral Rapier+4
+30305#Spiral Rapier+5
+30306#Spiral Rapier+6
+30307#Spiral Rapier+7
+30308#Spiral Rapier+8
+30309#Spiral Rapier+9
+30310#Spiral Rapier+10
+30311#Quality Spiral Rapier+1
+30312#Quality Spiral Rapier+2
+30313#Quality Spiral Rapier+3
+30314#Quality Spiral Rapier+4
+30315#Quality Spiral Rapier+5
+30321#Mercury Spiral Rapier+1
+30322#Mercury Spiral Rapier+2
+30323#Mercury Spiral Rapier+3
+30324#Mercury Spiral Rapier+4
+30325#Mercury Spiral Rapier+5
+30331#Fatal Spiral Rapier+1
+30332#Fatal Spiral Rapier+2
+30333#Fatal Spiral Rapier+3
+30334#Fatal Spiral Rapier+4
+30335#Fatal Spiral Rapier+5
+30341#Sharp Spiral Rapier+1
+30342#Sharp Spiral Rapier+2
+30343#Sharp Spiral Rapier+3
+30344#Sharp Spiral Rapier+4
+30345#Sharp Spiral Rapier+5
+30351#Crescent Spiral Rapier+1
+30352#Crescent Spiral Rapier+2
+30353#Crescent Spiral Rapier+3
+30354#Crescent Spiral Rapier+4
+30355#Crescent Spiral Rapier+5
+30400#Needle of Eternal Agony
+30401#Needle of Eternal Agony
+30402#Needle of Eternal Agony
+30403#Needle of Eternal Agony
+30404#Needle of Eternal Agony
+30405#Needle of Eternal Agony
+30406#Needle of Eternal Agony
+30407#Needle of Eternal Agony
+39000#Wandering Stabbing Sword
+40000#Scimitar
+40001#Scimitar+1
+40002#Scimitar+2
+40003#Scimitar+3
+40004#Scimitar+4
+40005#Scimitar+5
+40006#Scimitar+6
+40007#Scimitar+7
+40008#Scimitar+8
+40009#Scimitar+9
+40010#Scimitar+10
+40011#Sharp Scimitar+1
+40012#Sharp Scimitar+2
+40013#Sharp Scimitar+3
+40014#Sharp Scimitar+4
+40015#Sharp Scimitar+5
+40021#Tearing Scimitar+1
+40022#Tearing Scimitar+2
+40023#Tearing Scimitar+3
+40024#Tearing Scimitar+4
+40025#Tearing Scimitar+5
+40031#Crescent Scimitar+1
+40032#Crescent Scimitar+2
+40033#Crescent Scimitar+3
+40034#Crescent Scimitar+4
+40035#Crescent Scimitar+5
+40041#Quality Scimitar+1
+40042#Quality Scimitar+2
+40043#Quality Scimitar+3
+40044#Quality Scimitar+4
+40045#Quality Scimitar+5
+40051#Mercury Scimitar+1
+40052#Mercury Scimitar+2
+40053#Mercury Scimitar+3
+40054#Mercury Scimitar+4
+40055#Mercury Scimitar+5
+40061#Moon Scimitar+1
+40062#Moon Scimitar+2
+40063#Moon Scimitar+3
+40064#Moon Scimitar+4
+40065#Moon Scimitar+5
+40100#Kilij
+40101#Kilij+1
+40102#Kilij+2
+40103#Kilij+3
+40104#Kilij+4
+40105#Kilij+5
+40106#Kilij+6
+40107#Kilij+7
+40108#Kilij+8
+40109#Kilij+9
+40110#Kilij+10
+40111#Sharp Kilij+1
+40112#Sharp Kilij+2
+40113#Sharp Kilij+3
+40114#Sharp Kilij+4
+40115#Sharp Kilij+5
+40121#Tearing Kilij+1
+40122#Tearing Kilij+2
+40123#Tearing Kilij+3
+40124#Tearing Kilij+4
+40125#Tearing Kilij+5
+40131#Crescent Kilij+1
+40132#Crescent Kilij+2
+40133#Crescent Kilij+3
+40134#Crescent Kilij+4
+40135#Crescent Kilij+5
+40141#Quality Kilij+1
+40142#Quality Kilij+2
+40143#Quality Kilij+3
+40144#Quality Kilij+4
+40145#Quality Kilij+5
+40151#Mercury Kilij+1
+40152#Mercury Kilij+2
+40153#Mercury Kilij+3
+40154#Mercury Kilij+4
+40155#Mercury Kilij+5
+40161#Moon Kilij+1
+40162#Moon Kilij+2
+40163#Moon Kilij+3
+40164#Moon Kilij+4
+40165#Moon Kilij+5
+40200#Shotel
+40201#Shotel+1
+40202#Shotel+2
+40203#Shotel+3
+40204#Shotel+4
+40205#Shotel+5
+40206#Shotel+6
+40207#Shotel+7
+40208#Shotel+8
+40209#Shotel+9
+40210#Shotel+10
+40211#Sharp Shotel+1
+40212#Sharp Shotel+2
+40213#Sharp Shotel+3
+40214#Sharp Shotel+4
+40215#Sharp Shotel+5
+40221#Tearing Shotel+1
+40222#Tearing Shotel+2
+40223#Tearing Shotel+3
+40224#Tearing Shotel+4
+40225#Tearing Shotel+5
+40231#Quality Shotel+1
+40232#Quality Shotel+2
+40233#Quality Shotel+3
+40234#Quality Shotel+4
+40235#Quality Shotel+5
+40241#Mercury Shotel+1
+40242#Mercury Shotel+2
+40243#Mercury Shotel+3
+40244#Mercury Shotel+4
+40245#Mercury Shotel+5
+40251#Moon Shotel+1
+40252#Moon Shotel+2
+40253#Moon Shotel+3
+40254#Moon Shotel+4
+40255#Moon Shotel+5
+40261#Crescent Shotel+1
+40262#Crescent Shotel+2
+40263#Crescent Shotel+3
+40264#Crescent Shotel+4
+40265#Crescent Shotel+5
+40300#Falchion
+40301#Falchion+1
+40302#Falchion+2
+40303#Falchion+3
+40304#Falchion+4
+40305#Falchion+5
+40306#Falchion+6
+40307#Falchion+7
+40308#Falchion+8
+40309#Falchion+9
+40310#Falchion+10
+40311#Sharp Falchion+1
+40312#Sharp Falchion+2
+40313#Sharp Falchion+3
+40314#Sharp Falchion+4
+40315#Sharp Falchion+5
+40321#Tearing Falchion+1
+40322#Tearing Falchion+2
+40323#Tearing Falchion+3
+40324#Tearing Falchion+4
+40325#Tearing Falchion+5
+40331#Crescent Falchion+1
+40332#Crescent Falchion+2
+40333#Crescent Falchion+3
+40334#Crescent Falchion+4
+40335#Crescent Falchion+5
+40341#Quality Falchion+1
+40342#Quality Falchion+2
+40343#Quality Falchion+3
+40344#Quality Falchion+4
+40345#Quality Falchion+5
+40351#Mercury Falchion+1
+40352#Mercury Falchion+2
+40353#Mercury Falchion+3
+40354#Mercury Falchion+4
+40355#Mercury Falchion+5
+40361#Moon Falchion+1
+40362#Moon Falchion+2
+40363#Moon Falchion+3
+40364#Moon Falchion+4
+40365#Moon Falchion+5
+40400#Uchigatana
+40401#Uchigatana+1
+40402#Uchigatana+2
+40403#Uchigatana+3
+40404#Uchigatana+4
+40405#Uchigatana+5
+40406#Uchigatana+6
+40407#Uchigatana+7
+40408#Uchigatana+8
+40409#Uchigatana+9
+40410#Uchigatana+10
+40411#Sharp Uchigatana+1
+40412#Sharp Uchigatana+2
+40413#Sharp Uchigatana+3
+40414#Sharp Uchigatana+4
+40415#Sharp Uchigatana+5
+40421#Tearing Uchigatana+1
+40422#Tearing Uchigatana+2
+40423#Tearing Uchigatana+3
+40424#Tearing Uchigatana+4
+40425#Tearing Uchigatana+5
+40431#Crescent Uchigatana+1
+40432#Crescent Uchigatana+2
+40433#Crescent Uchigatana+3
+40434#Crescent Uchigatana+4
+40435#Crescent Uchigatana+5
+40441#Quality Uchigatana+1
+40442#Quality Uchigatana+2
+40443#Quality Uchigatana+3
+40444#Quality Uchigatana+4
+40445#Quality Uchigatana+5
+40451#Mercury Uchigatana+1
+40452#Mercury Uchigatana+2
+40453#Mercury Uchigatana+3
+40454#Mercury Uchigatana+4
+40455#Mercury Uchigatana+5
+40461#Moon Uchigatana+1
+40462#Moon Uchigatana+2
+40463#Moon Uchigatana+3
+40464#Moon Uchigatana+4
+40465#Moon Uchigatana+5
+40500#Hiltless
+40501#Hiltless+1
+40502#Hiltless+2
+40503#Hiltless+3
+40504#Hiltless+4
+40505#Hiltless+5
+40600#Blind
+40601#Blind+1
+40602#Blind+2
+40603#Blind+3
+40604#Blind+4
+40605#Blind+5
+40700#Magic Sword \"Makoto\"
+40701#Magic Sword \"Makoto\"+1
+40702#Magic Sword \"Makoto\"+2
+40703#Magic Sword \"Makoto\"+3
+40704#Magic Sword \"Makoto\"+4
+40705#Magic Sword \"Makoto\"+5
+40900#Large Sword of Searching
+40901#Large Sword of Searching
+40902#Large Sword of Searching
+40903#Large Sword of Searching
+40904#Large Sword of Searching
+40905#Large Sword of Searching
+40906#Large Sword of Searching
+40907#Large Sword of Searching
+40908#Large Sword of Searching
+49000#prowling curved sword
+50000#Battle Axe
+50001#Battle Axe+1
+50002#Battle Axe+2
+50003#Battle Axe+3
+50004#Battle Axe+4
+50005#Battle Axe+5
+50006#Battle Axe+6
+50007#Battle Axe+7
+50008#Battle Axe+8
+50009#Battle Axe+9
+50010#Battle Axe+10
+50011#Crushing Battle Axe+1
+50012#Crushing Battle Axe+2
+50013#Crushing Battle Axe+3
+50014#Crushing Battle Axe+4
+50015#Crushing Battle Axe+5
+50021#Dragon Battle Axe+1
+50022#Dragon Battle Axe+2
+50023#Dragon Battle Axe+3
+50024#Dragon Battle Axe+4
+50025#Dragon Battle Axe+5
+50031#Moon Battle Axe+1
+50032#Moon Battle Axe+2
+50033#Moon Battle Axe+3
+50034#Moon Battle Axe+4
+50035#Moon Battle Axe+5
+50041#Quality Battle Axe+1
+50042#Quality Battle Axe+2
+50043#Quality Battle Axe+3
+50044#Quality Battle Axe+4
+50045#Quality Battle Axe+5
+50051#Blessed Battle Axe+1
+50052#Blessed Battle Axe+2
+50053#Blessed Battle Axe+3
+50054#Blessed Battle Axe+4
+50055#Blessed Battle Axe+5
+50200#Great Axe
+50201#Great Axe+1
+50202#Great Axe+2
+50203#Great Axe+3
+50204#Great Axe+4
+50205#Great Axe+5
+50206#Great Axe+6
+50207#Great Axe+7
+50208#Great Axe+8
+50209#Great Axe+9
+50210#Great Axe+10
+50211#Crushing Great Axe+1
+50212#Crushing Great Axe+2
+50213#Crushing Great Axe+3
+50214#Crushing Great Axe+4
+50215#Crushing Great Axe+5
+50221#Dragon Great Axe+1
+50222#Dragon Great Axe+2
+50223#Dragon Great Axe+3
+50224#Dragon Great Axe+4
+50225#Dragon Great Axe+5
+50231#Moon Great Axe+1
+50232#Moon Great Axe+2
+50233#Moon Great Axe+3
+50234#Moon Great Axe+4
+50235#Moon Great Axe+5
+50241#Quality Great Axe+1
+50242#Quality Great Axe+2
+50243#Quality Great Axe+3
+50244#Quality Great Axe+4
+50245#Quality Great Axe+5
+50251#Blessed Great Axe+1
+50252#Blessed Great Axe+2
+50253#Blessed Great Axe+3
+50254#Blessed Great Axe+4
+50255#Blessed Great Axe+5
+50300#Crescent Axe
+50301#Crescent Axe+1
+50302#Crescent Axe+2
+50303#Crescent Axe+3
+50304#Crescent Axe+4
+50305#Crescent Axe+5
+50306#Crescent Axe+6
+50307#Crescent Axe+7
+50308#Crescent Axe+8
+50309#Crescent Axe+9
+50310#Crescent Axe+10
+50311#Crushing Crescent Axe+1
+50312#Crushing Crescent Axe+2
+50313#Crushing Crescent Axe+3
+50314#Crushing Crescent Axe+4
+50315#Crushing Crescent Axe+5
+50321#Dragon Crescent Axe+1
+50322#Dragon Crescent Axe+2
+50323#Dragon Crescent Axe+3
+50324#Dragon Crescent Axe+4
+50325#Dragon Crescent Axe+5
+50331#Moon Crescent Axe+1
+50332#Moon Crescent Axe+2
+50333#Moon Crescent Axe+3
+50334#Moon Crescent Axe+4
+50335#Moon Crescent Axe+5
+50341#Quality Crescent Axe+1
+50342#Quality Crescent Axe+2
+50343#Quality Crescent Axe+3
+50344#Quality Crescent Axe+4
+50345#Quality Crescent Axe+5
+50351#Blessed Crescent Axe+1
+50352#Blessed Crescent Axe+2
+50353#Blessed Crescent Axe+3
+50354#Blessed Crescent Axe+4
+50355#Blessed Crescent Axe+5
+50400#Guillotine Axe
+50401#Guillotine Axe+1
+50402#Guillotine Axe+2
+50403#Guillotine Axe+3
+50404#Guillotine Axe+4
+50405#Guillotine Axe+5
+50406#Guillotine Axe+6
+50407#Guillotine Axe+7
+50408#Guillotine Axe+8
+50409#Guillotine Axe+9
+50410#Guillotine Axe+10
+50411#Crushing Guillotine Axe+1
+50412#Crushing Guillotine Axe+2
+50413#Crushing Guillotine Axe+3
+50414#Crushing Guillotine Axe+4
+50415#Crushing Guillotine Axe+5
+50421#Dragon Guillotine Axe+1
+50422#Dragon Guillotine Axe+2
+50423#Dragon Guillotine Axe+3
+50424#Dragon Guillotine Axe+4
+50425#Dragon Guillotine Axe+5
+50431#Moon Guillotine Axe+1
+50432#Moon Guillotine Axe+2
+50433#Moon Guillotine Axe+3
+50434#Moon Guillotine Axe+4
+50435#Moon Guillotine Axe+5
+50441#Quality Guillotine Axe+1
+50442#Quality Guillotine Axe+2
+50443#Quality Guillotine Axe+3
+50444#Quality Guillotine Axe+4
+50445#Quality Guillotine Axe+5
+50451#Blessed Guillotine Axe+1
+50452#Blessed Guillotine Axe+2
+50453#Blessed Guillotine Axe+3
+50454#Blessed Guillotine Axe+4
+50455#Blessed Guillotine Axe+5
+50500#Dozer Axe
+50501#Dozer Axe
+50502#Dozer Axe
+50503#Dozer Axe
+50504#Dozer Axe
+59000#prowling axe
+60000#Club
+60001#Crushing Club+1
+60002#Crushing Club+2
+60003#Crushing Club+3
+60004#Crushing Club+4
+60005#Crushing Club+5
+60011#Blessed Club+1
+60012#Blessed Club+2
+60013#Blessed Club+3
+60014#Blessed Club+4
+60015#Blessed Club+5
+60100#Mace
+60101#Crushing Mace+1
+60102#Crushing Mace+2
+60103#Crushing Mace+3
+60104#Crushing Mace+4
+60105#Crushing Mace+5
+60111#Blessed Mace+1
+60112#Blessed Mace+2
+60113#Blessed Mace+3
+60114#Blessed Mace+4
+60115#Blessed Mace+5
+60121#Mace+1
+60122#Mace+2
+60123#Mace+3
+60124#Mace+4
+60125#Mace+5
+60126#Mace+6
+60127#Mace+7
+60128#Mace+8
+60129#Mace+9
+60130#Mace+10
+60131#Quality Mace+1
+60132#Quality Mace+2
+60133#Quality Mace+3
+60134#Quality Mace+4
+60135#Quality Mace+5
+60141#Dragon Mace+1
+60142#Dragon Mace+2
+60143#Dragon Mace+3
+60144#Dragon Mace+4
+60145#Dragon Mace+5
+60151#Moon Mace+1
+60152#Moon Mace+2
+60153#Moon Mace+3
+60154#Moon Mace+4
+60155#Moon Mace+5
+60200#War Pick
+60201#War Pick+1
+60202#War Pick+2
+60203#War Pick+3
+60204#War Pick+4
+60205#War Pick+5
+60206#War Pick+6
+60207#War Pick+7
+60208#War Pick+8
+60209#War Pick+9
+60210#War Pick+10
+60211#Quality War Pick+1
+60212#Quality War Pick+2
+60213#Quality War Pick+3
+60214#Quality War Pick+4
+60215#Quality War Pick+5
+60221#Mercury War Pick+1
+60222#Mercury War Pick+2
+60223#Mercury War Pick+3
+60224#Mercury War Pick+4
+60225#Mercury War Pick+5
+60231#Sharp War Pick+1
+60232#Sharp War Pick+2
+60233#Sharp War Pick+3
+60234#Sharp War Pick+4
+60235#Sharp War Pick+5
+60241#Tearing War Pick+1
+60242#Tearing War Pick+2
+60243#Tearing War Pick+3
+60244#Tearing War Pick+4
+60245#Tearing War Pick+5
+60251#Moon War Pick+1
+60252#Moon War Pick+2
+60253#Moon War Pick+3
+60254#Moon War Pick+4
+60255#Moon War Pick+5
+60300#Morning Star
+60301#Crushing Morning Star+1
+60302#Crushing Morning Star+2
+60303#Crushing Morning Star+3
+60304#Crushing Morning Star+4
+60305#Crushing Morning Star+5
+60311#Blessed Morning Star+1
+60312#Blessed Morning Star+2
+60313#Blessed Morning Star+3
+60314#Blessed Morning Star+4
+60315#Blessed Morning Star+5
+60321#Morning Star+1
+60322#Morning Star+2
+60323#Morning Star+3
+60324#Morning Star+4
+60325#Morning Star+5
+60326#Morning Star+6
+60327#Morning Star+7
+60328#Morning Star+8
+60329#Morning Star+9
+60330#Morning Star+10
+60331#Quality Morning Star+1
+60332#Quality Morning Star+2
+60333#Quality Morning Star+3
+60334#Quality Morning Star+4
+60335#Quality Morning Star+5
+60341#Dragon Morning Star+1
+60342#Dragon Morning Star+2
+60343#Dragon Morning Star+3
+60344#Dragon Morning Star+4
+60345#Dragon Morning Star+5
+60351#Moon Morning Star+1
+60352#Moon Morning Star+2
+60353#Moon Morning Star+3
+60354#Moon Morning Star+4
+60355#Moon Morning Star+5
+60400#Great Club
+60401#Crushing Great Club+1
+60402#Crushing Great Club+2
+60403#Crushing Great Club+3
+60404#Crushing Great Club+4
+60405#Crushing Great Club+5
+60411#Blessed Great Club+1
+60412#Blessed Great Club+2
+60413#Blessed Great Club+3
+60414#Blessed Great Club+4
+60415#Blessed Great Club+5
+60500#Bramd
+60501#Bramd+1
+60502#Bramd+2
+60503#Bramd+3
+60504#Bramd+4
+60505#Bramd+5
+60600#Pickaxe
+60601#Pickaxe+1
+60602#Pickaxe+2
+60603#Pickaxe+3
+60604#Pickaxe+4
+60605#Pickaxe+5
+60606#Pickaxe+6
+60607#Pickaxe+7
+60608#Pickaxe+8
+60609#Pickaxe+9
+60610#Pickaxe+10
+60611#Quality Pickaxe+1
+60612#Quality Pickaxe+2
+60613#Quality Pickaxe+3
+60614#Quality Pickaxe+4
+60615#Quality Pickaxe+5
+60621#Mercury Pickaxe+1
+60622#Mercury Pickaxe+2
+60623#Mercury Pickaxe+3
+60624#Mercury Pickaxe+4
+60625#Mercury Pickaxe+5
+60631#Sharp Pickaxe+1
+60632#Sharp Pickaxe+2
+60633#Sharp Pickaxe+3
+60634#Sharp Pickaxe+4
+60635#Sharp Pickaxe+5
+60641#Tearing Pickaxe+1
+60642#Tearing Pickaxe+2
+60643#Tearing Pickaxe+3
+60644#Tearing Pickaxe+4
+60645#Tearing Pickaxe+5
+60651#Moon Pickaxe+1
+60652#Moon Pickaxe+2
+60653#Moon Pickaxe+3
+60654#Moon Pickaxe+4
+60655#Moon Pickaxe+5
+60700#Meat Cleaver
+60701#Meat Cleaver
+60702#Meat Cleaver
+60703#Meat Cleaver
+60704#Meat Cleaver
+60705#Meat Cleaver
+60706#Meat Cleaver
+60707#Meat Cleaver
+69000#prowling hammer
+70000#Short Spear
+70001#Short Spear+1
+70002#Short Spear+2
+70003#Short Spear+3
+70004#Short Spear+4
+70005#Short Spear+5
+70006#Short Spear+6
+70007#Short Spear+7
+70008#Short Spear+8
+70009#Short Spear+9
+70010#Short Spear+10
+70011#Quality Short Spear+1
+70012#Quality Short Spear+2
+70013#Quality Short Spear+3
+70014#Quality Short Spear+4
+70015#Quality Short Spear+5
+70021#Mercury Short Spear+1
+70022#Mercury Short Spear+2
+70023#Mercury Short Spear+3
+70024#Mercury Short Spear+4
+70025#Mercury Short Spear+5
+70031#Sharp Short Spear+1
+70032#Sharp Short Spear+2
+70033#Sharp Short Spear+3
+70034#Sharp Short Spear+4
+70035#Sharp Short Spear+5
+70041#Fatal Short Spear+1
+70042#Fatal Short Spear+2
+70043#Fatal Short Spear+3
+70044#Fatal Short Spear+4
+70045#Fatal Short Spear+5
+70051#Moon Short Spear+1
+70052#Moon Short Spear+2
+70053#Moon Short Spear+3
+70054#Moon Short Spear+4
+70055#Moon Short Spear+5
+70100#Winged Spear
+70101#Winged Spear+1
+70102#Winged Spear+2
+70103#Winged Spear+3
+70104#Winged Spear+4
+70105#Winged Spear+5
+70106#Winged Spear+6
+70107#Winged Spear+7
+70108#Winged Spear+8
+70109#Winged Spear+9
+70110#Winged Spear+10
+70111#Quality Winged Spear+1
+70112#Quality Winged Spear+2
+70113#Quality Winged Spear+3
+70114#Quality Winged Spear+4
+70115#Quality Winged Spear+5
+70121#Mercury Winged Spear+1
+70122#Mercury Winged Spear+2
+70123#Mercury Winged Spear+3
+70124#Mercury Winged Spear+4
+70125#Mercury Winged Spear+5
+70131#Sharp Winged Spear+1
+70132#Sharp Winged Spear+2
+70133#Sharp Winged Spear+3
+70134#Sharp Winged Spear+4
+70135#Sharp Winged Spear+5
+70141#Fatal Winged Spear+1
+70142#Fatal Winged Spear+2
+70143#Fatal Winged Spear+3
+70144#Fatal Winged Spear+4
+70145#Fatal Winged Spear+5
+70151#Moon Winged Spear+1
+70152#Moon Winged Spear+2
+70153#Moon Winged Spear+3
+70154#Moon Winged Spear+4
+70155#Moon Winged Spear+5
+70300#Istarelle
+70301#Istarelle+1
+70302#Istarelle+2
+70303#Istarelle+3
+70304#Istarelle+4
+70305#Istarelle+5
+70400#Scraping Spear
+70401#Scraping Spear
+70402#Scraping Spear
+70403#Scraping Spear
+70404#Scraping Spear
+70405#Scraping Spear
+79000#prowling spear
+80000#War Scythe
+80001#War Scythe+1
+80002#War Scythe+2
+80003#War Scythe+3
+80004#War Scythe+4
+80005#War Scythe+5
+80006#War Scythe+6
+80007#War Scythe+7
+80008#War Scythe+8
+80009#War Scythe+9
+80010#War Scythe+10
+80011#Sharp War Scythe+1
+80012#Sharp War Scythe+2
+80013#Sharp War Scythe+3
+80014#Sharp War Scythe+4
+80015#Sharp War Scythe+5
+80021#Tearing War Scythe+1
+80022#Tearing War Scythe+2
+80023#Tearing War Scythe+3
+80024#Tearing War Scythe+4
+80025#Tearing War Scythe+5
+80031#Crescent War Scythe+1
+80032#Crescent War Scythe+2
+80033#Crescent War Scythe+3
+80034#Crescent War Scythe+4
+80035#Crescent War Scythe+5
+80041#Quality War Scythe+1
+80042#Quality War Scythe+2
+80043#Quality War Scythe+3
+80044#Quality War Scythe+4
+80045#Quality War Scythe+5
+80051#Mercury War Scythe+1
+80052#Mercury War Scythe+2
+80053#Mercury War Scythe+3
+80054#Mercury War Scythe+4
+80055#Mercury War Scythe+5
+80061#Moon War Scythe+1
+80062#Moon War Scythe+2
+80063#Moon War Scythe+3
+80064#Moon War Scythe+4
+80065#Moon War Scythe+5
+80100#Mirdan Hammer
+80101#Mirdan Hammer+1
+80102#Mirdan Hammer+2
+80103#Mirdan Hammer+3
+80104#Mirdan Hammer+4
+80105#Mirdan Hammer+5
+80106#Mirdan Hammer+6
+80107#Mirdan Hammer+7
+80108#Mirdan Hammer+8
+80109#Mirdan Hammer+9
+80110#Mirdan Hammer+10
+80111#Quality Mirdan Hammer+1
+80112#Quality Mirdan Hammer+2
+80113#Quality Mirdan Hammer+3
+80114#Quality Mirdan Hammer+4
+80115#Quality Mirdan Hammer+5
+80121#Mercury Mirdan Hammer+1
+80122#Mercury Mirdan Hammer+2
+80123#Mercury Mirdan Hammer+3
+80131#Crushing Mirdan Hammer+1
+80132#Crushing Mirdan Hammer+2
+80133#Crushing Mirdan Hammer+3
+80134#Crushing Mirdan Hammer+4
+80135#Crushing Mirdan Hammer+5
+80141#Dragon Mirdan Hammer+1
+80142#Dragon Mirdan Hammer+2
+80143#Dragon Mirdan Hammer+3
+80144#Dragon Mirdan Hammer+4
+80145#Dragon Mirdan Hammer+5
+80151#Moon Mirdan Hammer+1
+80152#Moon Mirdan Hammer+2
+80153#Moon Mirdan Hammer+3
+80154#Moon Mirdan Hammer+4
+80155#Moon Mirdan Hammer+5
+80161#Blessed Mirdan Hammer+1
+80162#Blessed Mirdan Hammer+2
+80163#Blessed Mirdan Hammer+3
+80164#Blessed Mirdan Hammer+4
+80165#Blessed Mirdan Hammer+5
+80200#Halberd
+80201#Halberd+1
+80202#Halberd+2
+80203#Halberd+3
+80204#Halberd+4
+80205#Halberd+5
+80206#Halberd+6
+80207#Halberd+7
+80208#Halberd+8
+80209#Halberd+9
+80210#Halberd+10
+80211#Quality Halberd+1
+80212#Quality Halberd+2
+80213#Quality Halberd+3
+80214#Quality Halberd+4
+80215#Quality Halberd+5
+80221#Mercury Halberd+1
+80222#Mercury Halberd+2
+80223#Mercury Halberd+3
+80231#Crushing Halberd+1
+80232#Crushing Halberd+2
+80233#Crushing Halberd+3
+80234#Crushing Halberd+4
+80235#Crushing Halberd+5
+80241#Dragon Halberd+1
+80242#Dragon Halberd+2
+80243#Dragon Halberd+3
+80244#Dragon Halberd+4
+80245#Dragon Halberd+5
+80251#Moon Halberd+1
+80252#Moon Halberd+2
+80253#Moon Halberd+3
+80254#Moon Halberd+4
+80255#Moon Halberd+5
+80261#Blessed Halberd+1
+80262#Blessed Halberd+2
+80263#Blessed Halberd+3
+80264#Blessed Halberd+4
+80265#Blessed Halberd+5
+80300#Phosphorescent Pole
+80301#Phosphorescent Pole+1
+80302#Phosphorescent Pole+2
+80303#Phosphorescent Pole+3
+80304#Phosphorescent Pole+4
+80305#Phosphorescent Pole+5
+89000#Wandering pole
+90000#Wooden Catalyst
+90001#Crushing Wooden Catalyst+1
+90002#Crushing Wooden Catalyst+2
+90003#Crushing Wooden Catalyst+3
+90004#Crushing Wooden Catalyst+4
+90005#Crushing Wooden Catalyst+5
+90100#Silver Catalyst
+90101#Crushing Silver Catalyst+1
+90102#Crushing Silver Catalyst+2
+90103#Crushing Silver Catalyst+3
+90104#Crushing Silver Catalyst+4
+90105#Crushing Silver Catalyst+5
+90200#Insanity Catalyst
+90201#Insanity Catalyst
+90400#Talisman of God
+90500#Talisman of Beasts
+99000#wandering catalyst
+100000#Iron Knuckles
+100001#Crushing Iron Knuckles+1
+100002#Crushing Iron Knuckles+2
+100003#Crushing Iron Knuckles+3
+100004#Crushing Iron Knuckles+4
+100005#Crushing Iron Knuckles+5
+100011#Blessed Iron Knuckles+1
+100012#Blessed Iron Knuckles+2
+100013#Blessed Iron Knuckles+3
+100014#Blessed Iron Knuckles+4
+100015#Blessed Iron Knuckles+5
+100021#Iron Knuckles+1
+100022#Iron Knuckles+2
+100023#Iron Knuckles+3
+100024#Iron Knuckles+4
+100025#Iron Knuckles+5
+100026#Iron Knuckles+6
+100027#Iron Knuckles+7
+100028#Iron Knuckles+8
+100029#Iron Knuckles+9
+100030#Iron Knuckles+10
+100031#Quality Iron Knuckles+1
+100032#Quality Iron Knuckles+2
+100033#Quality Iron Knuckles+3
+100034#Quality Iron Knuckles+4
+100035#Quality Iron Knuckles+5
+100041#Dragon Iron Knuckles+1
+100042#Dragon Iron Knuckles+2
+100043#Dragon Iron Knuckles+3
+100044#Dragon Iron Knuckles+4
+100045#Dragon Iron Knuckles+5
+100051#Moon Iron Knuckles+1
+100052#Moon Iron Knuckles+2
+100053#Moon Iron Knuckles+3
+100054#Moon Iron Knuckles+4
+100055#Moon Iron Knuckles+5
+100100#Claws
+100101#Claws+1
+100102#Claws+2
+100103#Claws+3
+100104#Claws+4
+100105#Claws+5
+100106#Claws+6
+100107#Claws+7
+100108#Claws+8
+100109#Claws+9
+100110#Claws+10
+100111#Sharp Claws+1
+100112#Sharp Claws+2
+100113#Sharp Claws+3
+100114#Sharp Claws+4
+100115#Sharp Claws+5
+100121#Tearing Claws+1
+100122#Tearing Claws+2
+100123#Tearing Claws+3
+100124#Tearing Claws+4
+100125#Tearing Claws+5
+100131#Crescent Claws+1
+100132#Crescent Claws+2
+100133#Crescent Claws+3
+100134#Crescent Claws+4
+100135#Crescent Claws+5
+100141#Quality Claws+1
+100142#Quality Claws+2
+100143#Quality Claws+3
+100144#Quality Claws+4
+100145#Quality Claws+5
+100151#Mercury Claws+1
+100152#Mercury Claws+2
+100153#Mercury Claws+3
+100154#Mercury Claws+4
+100155#Mercury Claws+5
+100161#Moon Claws+1
+100162#Moon Claws+2
+100163#Moon Claws+3
+100164#Moon Claws+4
+100165#Moon Claws+5
+100200#Hands of God
+100201#Hands of God+1
+100202#Hands of God+2
+100203#Hands of God+3
+100204#Hands of God+4
+100205#Hands of God+5
+100300#No Equipment
+109000#prowling fist
+130000#Short Bow
+130001#Short Bow+1
+130002#Short Bow+2
+130003#Short Bow+3
+130004#Short Bow+4
+130005#Short Bow+5
+130006#Short Bow+6
+130007#Short Bow+7
+130008#Short Bow+8
+130009#Short Bow+9
+130010#Short Bow+10
+130011#rigid Short Bow+1
+130012#rigid Short Bow+2
+130013#rigid Short Bow+3
+130014#rigid Short Bow+4
+130015#rigid Short Bow+5
+130021#Sticky Short Bow+1
+130022#Sticky Short Bow+2
+130023#Sticky Short Bow+3
+130024#Sticky Short Bow+4
+130025#Sticky Short Bow+5
+130031#Quality Short Bow+1
+130032#Quality Short Bow+2
+130033#Quality Short Bow+3
+130034#Quality Short Bow+4
+130035#Quality Short Bow+5
+130100#Compound Short Bow
+130101#Compound Short Bow+1
+130102#Compound Short Bow+2
+130103#Compound Short Bow+3
+130104#Compound Short Bow+4
+130105#Compound Short Bow+5
+130106#Compound Short Bow+6
+130107#Compound Short Bow+7
+130108#Compound Short Bow+8
+130109#Compound Short Bow+9
+130110#Compound Short Bow+10
+130111#rigid Compound Short Bow+1
+130112#rigid Compound Short Bow+2
+130113#rigid Compound Short Bow+3
+130114#rigid Compound Short Bow+4
+130115#rigid Compound Short Bow+5
+130121#Sticky Compound Short Bow+1
+130122#Sticky Compound Short Bow+2
+130123#Sticky Compound Short Bow+3
+130124#Sticky Compound Short Bow+4
+130125#Sticky Compound Short Bow+5
+130131#Quality Compound Short Bow+1
+130132#Quality Compound Short Bow+2
+130133#Quality Compound Short Bow+3
+130134#Quality Compound Short Bow+4
+130135#Quality Compound Short Bow+5
+130200#Long Bow
+130201#Long Bow+1
+130202#Long Bow+2
+130203#Long Bow+3
+130204#Long Bow+4
+130205#Long Bow+5
+130206#Long Bow+6
+130207#Long Bow+7
+130208#Long Bow+8
+130209#Long Bow+9
+130210#Long Bow+10
+130211#rigid Long Bow+1
+130212#rigid Long Bow+2
+130213#rigid Long Bow+3
+130214#rigid Long Bow+4
+130215#rigid Long Bow+5
+130221#Sticky Long Bow+1
+130222#Sticky Long Bow+2
+130223#Sticky Long Bow+3
+130224#Sticky Long Bow+4
+130225#Sticky Long Bow+5
+130231#Quality Long Bow+1
+130232#Quality Long Bow+2
+130233#Quality Long Bow+3
+130234#Quality Long Bow+4
+130235#Quality Long Bow+5
+130300#Compound Long Bow
+130301#Compound Long Bow+1
+130302#Compound Long Bow+2
+130303#Compound Long Bow+3
+130304#Compound Long Bow+4
+130305#Compound Long Bow+5
+130306#Compound Long Bow+6
+130307#Compound Long Bow+7
+130308#Compound Long Bow+8
+130309#Compound Long Bow+9
+130310#Compound Long Bow+10
+130311#rigid Compound Long Bow+1
+130312#rigid Compound Long Bow+2
+130313#rigid Compound Long Bow+3
+130314#rigid Compound Long Bow+4
+130315#rigid Compound Long Bow+5
+130321#Sticky Compound Long Bow+1
+130322#Sticky Compound Long Bow+2
+130323#Sticky Compound Long Bow+3
+130324#Sticky Compound Long Bow+4
+130325#Sticky Compound Long Bow+5
+130331#Quality Compound Long Bow+1
+130332#Quality Compound Long Bow+2
+130333#Quality Compound Long Bow+3
+130334#Quality Compound Long Bow+4
+130335#Quality Compound Long Bow+5
+130400#White Bow
+130401#White Bow+1
+130402#White Bow+2
+130403#White Bow+3
+130404#White Bow+4
+130405#White Bow+5
+130500#Lava Bow
+130501#Lava Bow
+130502#Lava Bow
+130503#Lava Bow
+139000#prowling bow
+140000#Light Crossbow
+140100#Heavy Crossbow
+140200#Gargoyle Crossbow
+149000#prowling crossbow
+150000#Buckler
+150001#Buckler+1
+150002#Buckler+2
+150003#Buckler+3
+150004#Buckler+4
+150005#Buckler+5
+150006#Buckler+6
+150007#Buckler+7
+150008#Buckler+8
+150009#Buckler+9
+150010#Buckler+10
+150011#repelling Buckler+1
+150012#repelling Buckler+2
+150013#repelling Buckler+3
+150014#repelling Buckler+4
+150015#repelling Buckler+5
+150021#Dark Buckler+1
+150022#Dark Buckler+2
+150023#Dark Buckler+3
+150024#Dark Buckler+4
+150025#Dark Buckler+5
+150100#Wooden Shield
+150200#Kite Shield
+150201#Kite Shield+1
+150202#Kite Shield+2
+150203#Kite Shield+3
+150204#Kite Shield+4
+150205#Kite Shield+5
+150206#Kite Shield+6
+150207#Kite Shield+7
+150208#Kite Shield+8
+150209#Kite Shield+9
+150210#Kite Shield+10
+150211#repelling Kite Shield+1
+150212#repelling Kite Shield+2
+150213#repelling Kite Shield+3
+150214#repelling Kite Shield+4
+150215#repelling Kite Shield+5
+150221#Dark Kite Shield+1
+150222#Dark Kite Shield+2
+150223#Dark Kite Shield+3
+150224#Dark Kite Shield+4
+150225#Dark Kite Shield+5
+150300#Heater Shield
+150301#Heater Shield+1
+150302#Heater Shield+2
+150303#Heater Shield+3
+150304#Heater Shield+4
+150305#Heater Shield+5
+150306#Heater Shield+6
+150307#Heater Shield+7
+150308#Heater Shield+8
+150309#Heater Shield+9
+150310#Heater Shield+10
+150311#repelling Heater Shield+1
+150312#repelling Heater Shield+2
+150313#repelling Heater Shield+3
+150314#repelling Heater Shield+4
+150315#repelling Heater Shield+5
+150321#Dark Heater Shield+1
+150322#Dark Heater Shield+2
+150323#Dark Heater Shield+3
+150324#Dark Heater Shield+4
+150325#Dark Heater Shield+5
+150400#Adjudicator's Shield
+150401#Adjudicator's Shield+1
+150402#Adjudicator's Shield+2
+150403#Adjudicator's Shield+3
+150404#Adjudicator's Shield+4
+150405#Adjudicator's Shield+5
+150411#repelling Adjudicator's Shield+1
+150412#repelling Adjudicator's Shield+2
+150413#repelling Adjudicator's Shield+3
+150414#repelling Adjudicator's Shield+4
+150415#repelling Adjudicator's Shield+5
+150500#Spiked Shield
+150501#Spiked Shield+1
+150502#Spiked Shield+2
+150503#Spiked Shield+3
+150504#Spiked Shield+4
+150505#Spiked Shield+5
+150506#Spiked Shield+6
+150507#Spiked Shield+7
+150508#Spiked Shield+8
+150509#Spiked Shield+9
+150510#Spiked Shield+10
+150511#repelling Spiked Shield+1
+150512#repelling Spiked Shield+2
+150513#repelling Spiked Shield+3
+150514#repelling Spiked Shield+4
+150515#repelling Spiked Shield+5
+150521#Sharp Spiked Shield+1
+150522#Sharp Spiked Shield+2
+150523#Sharp Spiked Shield+3
+150524#Sharp Spiked Shield+4
+150525#Sharp Spiked Shield+5
+150600#Tower Shield
+150601#Tower Shield+1
+150602#Tower Shield+2
+150603#Tower Shield+3
+150604#Tower Shield+4
+150605#Tower Shield+5
+150700#Dark Silver Shield
+150701#Dark Silver Shield+1
+150702#Dark Silver Shield+2
+150703#Dark Silver Shield+3
+150704#Dark Silver Shield+4
+150705#Dark Silver Shield+5
+150799#Breast shield for gold run
+150800#Soldier's Shield
+150801#Soldier's Shield+1
+150802#Soldier's Shield+2
+150803#Soldier's Shield+3
+150804#Soldier's Shield+4
+150805#Soldier's Shield+5
+150806#Soldier's Shield+6
+150807#Soldier's Shield+7
+150808#Soldier's Shield+8
+150809#Soldier's Shield+9
+150810#Soldier's Shield+10
+150821#Dark Soldier's Shield+1
+150822#Dark Soldier's Shield+2
+150823#Dark Soldier's Shield+3
+150824#Dark Soldier's Shield+4
+150825#Dark Soldier's Shield+5
+150900#Knight's Shield
+150901#Knight's Shield+1
+150902#Knight's Shield+2
+150903#Knight's Shield+3
+150904#Knight's Shield+4
+150905#Knight's Shield+5
+150906#Knight's Shield+6
+150907#Knight's Shield+7
+150908#Knight's Shield+8
+150909#Knight's Shield+9
+150910#Knight's Shield+10
+150911#repelling Knight's Shield+1
+150912#repelling Knight's Shield+2
+150913#repelling Knight's Shield+3
+150914#repelling Knight's Shield+4
+150915#repelling Knight's Shield+5
+150921#Dark Knight's Shield+1
+150922#Dark Knight's Shield+2
+150923#Dark Knight's Shield+3
+150924#Dark Knight's Shield+4
+150925#Dark Knight's Shield+5
+151000#Slave's Shield
+151100#Rune Shield
+151101#Rune Shield+1
+151102#Rune Shield+2
+151103#Rune Shield+3
+151104#Rune Shield+4
+151105#Rune Shield+5
+151200#Large Brushwood Shield
+151201#Large Brushwood Shield+1
+151202#Large Brushwood Shield+2
+151203#Large Brushwood Shield+3
+151204#Large Brushwood Shield+4
+151205#Large Brushwood Shield+5
+151300#Steel Shield
+151301#Steel Shield+1
+151302#Steel Shield+2
+151303#Steel Shield+3
+151304#Steel Shield+4
+151305#Steel Shield+5
+151306#Steel Shield+6
+151307#Steel Shield+7
+151308#Steel Shield+8
+151309#Steel Shield+9
+151310#Steel Shield+10
+151321#Dark Steel Shield+1
+151322#Dark Steel Shield+2
+151323#Dark Steel Shield+3
+151324#Dark Steel Shield+4
+151325#Dark Steel Shield+5
+151400#Purple Flame Shield
+151401#Purple Flame Shield+1
+151402#Purple Flame Shield+2
+151403#Purple Flame Shield+3
+151404#Purple Flame Shield+4
+151405#Purple Flame Shield+5
+151406#Purple Flame Shield+6
+151407#Purple Flame Shield+7
+151408#Purple Flame Shield+8
+151409#Purple Flame Shield+9
+151410#Purple Flame Shield+10
+151421#Dark Purple Flame Shield+1
+151422#Dark Purple Flame Shield+2
+151423#Dark Purple Flame Shield+3
+151424#Dark Purple Flame Shield+4
+151425#Dark Purple Flame Shield+5
+151500#Leather Shield
+159000#Prowling Shield
+160000#Arrow
+160100#Heavy Arrow
+160200#Light Arrow
+160400#Fire Arrow
+160500#Rotten Arrow
+160600#Holy Arrow
+160700#White Arrow
+160800#Wooden Arrow
+169000#Prowl Quiver
+170000#Bolt
+170100#Heavy Bolt
+170200#Black Bolt
+170300#Wooden Bolt
+179000#prowling bolt

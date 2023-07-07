@@ -1,0 +1,27 @@
+ID#Name
+0#player standard
+1#player weight
+2#Overweight player
+3#player dying
+4#Player blood swamp (overweight)
+5#Player poison swamp (Movement speed decrease)
+100#enemy basic battle
+101#bird standard
+102#Guard
+103#dog
+104#Dragon Demon
+105#Enemy base non-combat
+106#scale miner battle
+107#scale miner when not in combat (bag)
+108#scale miner when not in combat (pickle)
+109#Big spider peek
+110#Gargoyle Test
+111#Dragon Demon (Mine Tunnel)
+112#storm beast
+113#Storm beast (baby stingray) waiting
+114#scale miner when not in combat (bare hands)
+115#octopus head in battle
+116#Gargoyle Aerial (for 3050)
+117#Gargoyle Ground (for 3050)
+118#Kagejo_For Disappearing
+119#blood mite only

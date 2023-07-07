@@ -1,0 +1,123 @@
+ID#Name
+0#tutorial soldier
+1#tutorial hunter
+2#tutorial wizard
+3#tutorial cleric
+4#Tutorial characters
+5#Grave Robber Blige
+7#For wandering ghosts in Mine 1
+8 #Old Fort 2 Uru-sama confinement NPC
+9#Royal Castle 4 Three Musketeers A
+10#Royal Castle 4 Three Musketeers B
+11#Royal Castle 4 Three Musketeers C
+12#Saint Urbain
+13#Hyena Patch (Old Fort)
+15#Broken Warrior
+17#Prince Ostrava
+18#Billor
+19#Wanderer Skillville
+20#Hyena patch (mine shaft)
+21#Gal Vinland
+22#Sage Flake
+23#Yurt, Chief of Silence
+24#Lord Rydell in Black
+25#Princess Knight Selene
+26#Witch Yuria
+27#Old King Doran
+28#Magician
+29#God's Followers Part 1
+30#God's follower 2
+31#God's Followers Part 3
+33#Knowledge
+34#Thomas the Big Bag
+35#Master Satsuki
+36#Mephistopheles
+37#miralda the condemned
+39#Lord Rydell in Black・Black
+41#Princess Knight Selene Black
+43#Miralda Black the Condemned
+44#Wanderer Skill Ville Black
+45#Master Satsuki Black
+46#Gal Vinland Black
+47#Prince Ostrava Black
+48#Billor (for fighting wyvern)
+50#Prince Ostrava (Castle 1)
+51#Prince Ostrava (Castle 2)
+61#Prison Castle 1 Black Ghost (in front of the church)
+62#Impure 2 Black Ghost
+63#Mine 2 Black Ghost 1
+64#Mine 2 Black Ghost 2
+99#Old Summon Black NPC
+1000#soldiers
+1001#knight
+1002#Hunter
+1003#Shrine
+1004#magician
+1005#wanderer
+1006#barbarian
+1007#bandit
+1008#Temple Knight
+1009#nobility
+1010#Wanderer [Strongest character backup]
+2003#Prison 1 Black ghost (in front of the church)
+2004#Prison Castle 3 Black Ghost A
+2005#Rojo 3 Black Ghost B (for single)
+2006#Unclean 2 Black Ghost
+2007#Mine 2Black Ghost 1
+2008#Mine 2Black Ghost 2
+3000#Wandering ghost for tutorial 1
+3001#Wandering ghost for tutorial 2
+3002#Tutorial wandering ghost 3
+3999#Black Ghost for Okina Poli Theater
+9000#Debug Player (Medium)
+9001#Debug Player (Arima Custom)
+9002#Debug Player (Medium _Takenouchi Custom)
+9003#debug player (for damage test)
+9004#Debug Player (Medium_Custom)
+9005#debug player (for network check)
+9101#warrior_difficulty 1_royal castle 1
+9102#Warrior_Disaster 2_Castle 2/Tunnel 1
+9103#Warrior_Difficulty 3_Unclean 1/Castle 1
+9104#warrior_difficulty 4_old fort 1
+9105#Warrior_Disaster 5_Tunnel 2/Jail 2
+9106#Warrior_Damage 6_Tunnel 3/Jail 3
+9107#Warrior_Difficulty7_Castle3/Unclean2
+9108#Warrior_Difficulty 8_Old Fort 2
+9109#Warrior_Difficulty9_Unclean 3/Old Fort 3
+9110#warrior_difficulty 10_royal castle 4
+9111#Warrior_Difficulty 11_Just before clearing/Second round
+9201#Hunter_Disaster 1_Castle 1
+9202#Hunter_Disaster 2_Castle 2/Tunnel 1
+9203#Hunter_Difficulty 3_Unclean 1/Castle 1
+9204#Hunter_Difficulty 4_Old Fort 1
+9205#Hunter_Disaster 5_Tunnel 2/Jail 2
+9206#Hunter_Disaster 6_Tunnel 3/Castle 3
+9207#Hunter_Difficulty 7_Castle 3/Unclean 2
+9208#Hunter_Difficulty 8_Old Fort 2
+9209#Hunter_Difficulty 9_Unclean 3/Fortress 3
+9210#Hunter_Difficulty 10_Castle 4
+9211#Hunter_Difficulty 11_Just before clear/Second round
+9301#magic_difficulty1_royal castle1
+9302#Magic_Difficulty2_Castle2/Tunnel1
+9303#Magic_Difficulty 3_Unclean 1 / Prison 1
+9304#magic_difficulty 4_old fort 1
+9305#Magic_Disaster 5_Tunnel 2 / Prison 2
+9306#Magic_Difficulties 6_Tunnel 3 / Prison 3
+9307#Magic_Difficulties7_Castle3/Uncleanness2
+9308#magic_difficulty 8_old fort 2
+9309#Magic_Difficulty9_Unclean 3/Old Fort 3
+9310#magic_difficulty 10_royal castle 4
+9311#Magic_Difficulty 11_Just before clear/Second round
+9401#Shinto priest_difficulty 1_royal castle 1
+9402#Shinto priest_difficulty 2_royal castle 2/trail 1
+9403#Shinto priest_difficulty 3_unclean 1/prison castle 1
+9404#Priest_Difficulties 4_Old Fort 1
+9405#Shrine_Disaster 5_Tunnel 2/Jail 2
+9406#Shinto priest_difficulty 6_pit 3/prison castle 3
+9407#Shinto priest_difficulty 7_royal castle 3/impurity 2
+9408#Shrine_Difficulty8_Old Fort 2
+9409#Shrine_Difficulty9_Unclean 3/Fortress 3
+9410#Shinto priest_difficulty 10_royal castle 4
+9411#Shinto priest_Difficulty 11_Just before clearing/Second round
+9998#debug player (for equipment status check
+9999#debug player (for network check)

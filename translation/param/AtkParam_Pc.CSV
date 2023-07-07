@@ -1,0 +1,583 @@
+ID#Name
+0#test
+1#PC_test1
+2#PC_test2
+3#PC_test3
+4#PC_test4_guard
+5#Dummy attack for continuous bullets
+10#Common Attack [Falling]
+11#Common Attack [Landing]
+12#Common Attack [Dosun Landing]
+13#Common Attack [Tumble Landing]
+14#Common Attack [Rolling]
+15#Common Attack [Summon]
+20#Common attack [Before push]
+21#Common attack [small blow]
+22#Common attack [big blow]
+23#Common attack [after push]
+30#Common Attack [Throw]
+31#Common Attack [Strong Throw]
+100#common_fall_test
+101#[System] Attack multiplier for menu display
+384#Prison Castle 3 boss funnel
+1000#Magic Arrow
+1001#Firebolt
+1002#fireball
+1003#fire
+1004#Piercing beam
+1005#machine gun
+1006#Meteor
+1007#Self-centered explosion
+1008#Funnel
+1050#damage for throwing knives
+1051#damage for poison throwing knives
+1052#Damage for Molotov cocktails
+1053#Damage for African throwing knives
+2000#Normal Arrows
+2001#Strong arrow
+2002#Long distance arrow
+2003#precision arrows
+2004#fire arrows
+2005#poison arrow
+2006#kaburaya
+2007#Special arrow
+2008#Cheap arrows
+2009#Normal thick arrow
+2010#A heavy arrow with high attack power
+2011#dangerous thick arrow
+2012#Cheap thick arrow
+10020#Ojo 2 barista arrow
+200000#dagger_one hand normal 1
+200010#Dagger_one hand normal 2
+200020#Dagger_one hand normal 3
+200100#Dagger_one hand charge 1
+200110#dagger_one hand charge 2
+200200#dagger_two-handed normal 1
+200210#dagger_two-handed normal 2
+200220#dagger_both hands normal 3
+200300#dagger_two-handed charge 1
+200310#dagger_two-handed charge 2
+200400#Dagger_one-handed dash
+200500#Dagger_Two-handed dash
+200600#Dagger_One hand step before
+201000#dagger_before both hands step
+201400#dagger_left hand
+201500#Dagger_One-handed close range
+201600#Dagger_Two-handed close range
+201700#dagger_behind
+201800#dagger_after parry
+201900#Dagger_Parry
+205000#Dagger_One-handed guard
+205100#Dagger_Two-handed guard
+206000#Dagger_Parry Guard
+230000#Straight sword_one hand normal 1
+230010#Straight sword_one hand normal 2
+230020#Straight sword_one hand normal 3
+230100#Straight sword_1 hand charge
+230110#Straight sword_one-hand charge 2
+230200#Straight sword_Two-handed normal 1
+230210#Straight sword_Two-handed normal 2
+230220#Straight sword_Two hands normal 3
+230300#Straight sword_Two hands charge 1
+230310#Straight sword_Two hands charge 2
+230400#Straight sword_one-handed dash
+230500#Straight sword_Two-handed dash
+230600#Straight sword_One hand step forward
+231000#Straight sword_Both hands before step
+231400#Straight sword_left hand
+231500#Straight sword_One-handed close range
+231600#Straight sword_Two-handed close range
+231700#Straight sword_behind
+231800#Straight sword_after parry
+231900#Straight sword_Parry
+235000#Straight sword_One-handed guard
+235100#Straight sword_Two-handed guard
+236000#Straight sword_Parry Guard
+230101#Sword of Tsuranuki_One-hand charge 1
+231701#Tsuranuki sword_behind
+231801#Sword of Tsuranuki_after parry
+230002#Broadsword_one hand normal 1
+230012#Broadsword_One hand normal 2
+230022#Broadsword_one hand normal 3
+230102#Broadsword_One-hand charge 1
+230112#Broadsword_One-hand charge 2
+230202#Broadsword_Two hands normal 1
+230212#Broadsword_Two hands normal 2
+230222#Broadsword_Two hands normal 3
+230302#Broadsword_Two hands charge 1
+230312#Broadsword_Two hands charge 2
+230402#Broadsword_One-handed dash
+230502#Broadsword_Dash with both hands
+230602#Broadsword_Before one hand step
+231002#Broadsword_Both hands before step
+231402#Broadsword_left hand
+231702#Broadsword_behind
+231802#Broadsword_after parry
+250000#Greatsword_one-hand normal 1
+250010#Greatsword_One-handed normal 2
+250020#Greatsword_one-hand normal 3
+250100#Greatsword_One-handed charge 1
+250110#Great sword_One-hand charge 2
+250200#Greatsword_Two-handed Normal 1
+250210#Greatsword_Two-handed Normal 2
+250220#Greatsword_Two-handed Normal 3
+250300#Greatsword_Two-handed charge 1
+250310#Great sword_Two-handed charge 2
+250400#Great sword_One-handed dash
+250500#Great sword_Two-handed dash
+250600#Greatsword_One-handed step forward
+251000#Greatsword_Both hands before step
+251400#Great sword_left hand
+251500#Great sword_One-handed close range
+251600#Greatsword_Two-handed close range
+251700#Great sword_behind
+251800#Great sword_After parrying
+251900#Big sword_Parry
+255000#Greatsword_One-handed guard
+255100#Great sword_Two-handed guard
+256000#Greatsword_Parry Guard
+250001#Stormbringer_One-hand normal 1
+250011#Stormbringer_One-hand normal 2
+250021#Stormbringer_One-hand normal 3
+250201#Storm Bringer_Two hands normal 1
+250211#Storm Bringer_Two hands normal 2
+250221#Storm Bringer_Two hands normal 3
+250601#Storm Bringer_One hand step forward
+251001#Storm Bringer_Both hands before step
+251401#Storm Bringer_left hand
+252001#Stormbringer_Event only_One hand
+252101#Stormbringer_Event only_Both hands
+250002#flamberge_one hand normal 1
+250012#Flamberger_One-hand normal 2
+250022#flamberge_one hand normal 3
+250102#Flamberger_One-hand charge 1
+250112#flamberge_one-hand charge 2
+250202#Flamberge_Two hands normal 1
+250212#Flamberge_Two hands normal 2
+250222#flamberge_both hands normal 3
+250302#Flamberger_Two hands charge 1
+250312#Flamberger_Two hands charge 2
+250402#Flamberger_One-handed dash
+250502#Flamberger_Two-handed dash
+250602#Flamberger_One hand step before
+251002#Flamberger_Both hands before step
+251402#flamberge_left hand
+251702#Flamberger_behind
+251802#Flamberger_after parry
+250003#Moonlight_one hand normal 1
+250013#Moonlight_One hand normal 2
+250023#Moonlight_One hand normal 3
+250103#Moonlight_One-hand charge 1
+250113#Moonlight_One-hand charge 2
+250203#Moonlight_Two hands normal 1
+250213#Moonlight_Two hands Normal 2
+250223#Moonlight_Two hands normal 3
+250303#Moonlight_Two hands charge 1
+250313#Moonlight_Two hands charge 2
+250403#Moonlight_One-handed dash
+250503#Moonlight_Dash with both hands
+250603#Moonlight_One hand step forward
+251003#Moonlight_Both hands before step
+251403#Moonlight_left hand
+251503#Moonlight_One hand close range
+251603#Moonlight_Both hands close range
+260000#Super large_one hand normal 1
+260001#Extra large_one hand normal 1_range
+260010#Extra-large_One-hand normal 2
+260020#Extra large size_one hand normal 3
+260100#Super large_One-hand charge 1
+260110#Super-large_One-hand charge 2
+260200#Extra-large_both hands normal 1
+260210#Extra Large_Both Hands Normal 2
+260220#Extra Large_Both Hands Normal 3
+260300#Super large_Two hands charge 1
+260310#Super large_Two hands charge 2
+260400#Super large_One-handed dash
+260500#Super large _ two-handed dash
+260600#Extra large size_One hand step front
+261000#Extra-large_both hands step front
+261400#Super large_left hand
+261500#Super large_One hand close range
+261600#Super-large_both hands close range
+261700#Super large_back
+261800#Super large_after parry
+261900#Super-large_Parry
+265000#Super large_One hand guard
+265100#Super large_Both hands guard
+266000#Super Large Parry Guard
+270000#Stabbing sword_one hand normal 1
+270010#Stab sword_One-handed normal 2
+270020#Stabbing sword_one hand normal 3
+270100#Stabbing sword_One-handed charge 1
+270110#Stabbing sword_one-hand charge 2
+270200#Stabbing sword_Two hands normal 1
+270210#Stab sword_Two-handed normal 2
+270220#Stab sword_Two hands normal 3
+270300#Stabbing sword_Two-handed charge 1
+270310#Stabbing sword_Two-handed charge 2
+270400#Stab sword_one hand dash
+270500#Stab sword_Two-handed dash
+270600#Stabbing sword_One hand step forward
+271000#Stabbing sword_Both hands before step
+271400#Stabbing sword_left hand
+271500#Stab sword_One-handed close range
+271600#Stab sword_Two-handed close range
+271700#Stab sword_behind
+271800#Stab sword_After parrying
+271900#Stab sword_Parry
+272000#Stabbing sword_Medium guard attack
+275000#Stab sword_One-handed guard
+275100#Stabbing sword_Two-handed guard
+276000#Stab sword_Parry guard
+280000#Curved sword_One-handed normal 1
+280010#Curved sword_One-handed normal 2
+280020#Curved sword_One-handed normal 3
+280100#Curved sword_One-handed charge 1
+280110#Curved sword_One-handed charge 2
+280200#Curved sword_Two-handed normal 1
+280210#Curved sword_Two-handed normal 2
+280220#Curved sword_Two-handed normal 3
+280300#Curved sword_Two-handed charge 1
+280310#Curved sword_Two-handed charge 2
+280400#Curved sword_one hand dash
+280500#Curved sword_Two-handed dash
+280600#Curved sword_One hand step before
+281000#Curved sword_Both hands before step
+281400#Curved sword_left hand
+281500#Curved sword_One-handed close range
+281600#Curved sword_Two-handed close range
+281610#Curved Sword_Short Range_Second Strike_Common
+281700#Curved sword_behind
+281800#curved sword_after parry
+281900#Curved sword_Parry
+285000#Curved sword_One-handed guard
+285100#Curved sword_Two-handed guard
+286000#Curved Sword_Parry Guard
+280001#Blind_One hand normal 1
+280011#Blind_One hand normal 2
+280021#Blind_One hand normal 3
+280101#Blinds_One-hand charge 1
+280111#Blinds_One-hand charge 2
+280201#Blinds_Two hands normal 1
+280211#Blinds_Two hands Normal 2
+280221#Blinds_Two hands normal 3
+280301#Blinds_Two hands charge 1
+280311#Blind_Two hands charge 2
+280401#Blinds_one hand dash
+280501#Blinds_Dash with both hands
+280601#Blind_One hand step forward
+281001#Blinds_Both hands before step
+281401#Blind_left hand
+281501#Blinds_One hand close range
+281601#Blinds_Both hands close range
+281611#Blind_Short range_Second shot_Common
+290000#Sword_one hand normal 1
+290010#Sword_One-hand normal 2
+290020#Katana_one hand normal 3
+290100#Sword_One-hand charge 1
+290110#Sword_One-hand charge 2
+290200#Sword_Two hands normal 1
+290210#Sword_Two-handed normal 2
+290220#Katana_Two hands normal 3
+290300#Sword_Two hands charge 1
+290310#Sword_Two hands charge 2
+290400#Sword_One-handed dash
+290500#Sword_Two-handed dash
+290600#Sword_One hand step before
+291000#Sword_Both hands before step
+291400#Sword_left hand
+291500#Sword_One hand close range
+291600#Sword_Both hands close range
+291700#Sword_behind
+291800#Sword_after parry
+291900#Sword_Parry
+295000#Sword_One hand guard
+295100#Sword_Two-handed guard
+296000#Sword_Parry guard
+300000#Ax_one hand normal 1
+300010#Ax_One-hand normal 2
+300020#Ax_one hand normal 3
+300100#Ax_One-hand charge 1
+300110#Ax_One-hand charge 2
+300200#Ax_Two hands normal 1
+300210#Ax_Two-handed Normal 2
+300220#Ax_Two hands normal 3
+300300#Ax_Two hands charge 1
+300310#Ax_Two hands charge 2
+300400#Axe_One-handed dash
+300500#Ax_Two-handed dash
+300600#Ax_One hand step forward
+301000#Ax_Both hands before step
+301400#axe_left hand
+301500#Axe_One hand close range
+301600#Ax_Two-handed close range
+301700#Ax_back
+301800#axe_after parry
+301900#Ax_Parry
+305000#Ax_One hand guard
+305100#Ax_Two-handed guard
+306000#Ax_Parry Guard
+320000#Big ax_one hand normal 1
+320010#Big ax_One hand normal 2
+320020#Big ax_one hand normal 3
+320100#Big ax_one hand charge 1
+320101#Big ax_One-hand charge 1_Around (small)
+320110#Big ax_One-hand charge 2
+320200#Big ax_Two hands normal 1
+320210#Big ax_Two-handed normal 2
+320220#Big ax_Two hands normal 3
+320300#Big ax_Two hands charge 1_Center
+320301#Big ax_Two-handed charge 1_Around
+320310#Big ax_Two hands charge 2
+320400#Big Ax_One hand dash
+320500#Big ax_Two-handed dash
+320600#Big ax_One hand step forward
+321000#Big ax_Both hands step forward
+321400#Big ax_left hand
+321500#Big ax_One hand close range
+321600#Big ax_Two-handed close range
+321700#Big ax_back
+321800#Big ax_after parry
+321900#Big ax_Parry
+325000#Big ax_One hand guard
+325100#Big ax_Two-handed guard
+326000#Big Ax_Parry Guard
+330000#Hammer_one hand normal 1
+330010#hammer_one hand normal 2
+330020#hammer_one hand normal 3
+330100#Hammer_One-hand charge 1
+330110#hammer_one hand charge 2
+330200#Hammer_Two hands normal 1
+330210#Hammer_Two hands normal 2
+330220#hammer_both hands normal 3
+330300#hammer_both hands charge 1
+330310#hammer_both hands charge 2
+330400#hammer_one-handed dash
+330500#hammer_two-handed dash
+330600#hammer_one hand step forward
+331000#Hammer_Both hands step front
+331400#hammer_left hand
+331500#Hammer_One hand close range
+331600#Hammer_Both hands close range
+331700#hammer_behind
+331800#hammer_after parry
+331900#hammer_parry
+335000#Hammer_One hand guard
+335100#Hammer_Both hands guard
+336000#Hammer_Parry Guard
+350000#Great mallet_one hand normal 1
+350010#Sledgehammer_One-hand normal 2
+350020#Sledgehammer_One hand normal 3
+350100#Sledgehammer_One-hand charge 1
+350101#Big mallet_one hand charge 1_around (small)
+350110#Sledgehammer_One-hand charge 2
+350200#Sledgehammer_Two hands normal 1
+350210#Sledgehammer_Two hands Normal 2
+350220#Sledgehammer_Two hands normal 3
+350300#Sledgehammer_Two hands charge 1_Center
+350301#Otsuchi _Both hands charge 1_Around
+350310#Sledgehammer_Two hands charge 2
+350400#Sledgehammer_one-handed dash
+350500#Sledgehammer_Two-handed dash
+350600#Otsuchi_One hand step forward
+351000#Otsuchi_Both hands before step
+351400#Otsuchi_left hand
+351500#Sledgehammer_One hand close range
+351600#Sledgehammer_Both hands close range
+351700#Otsuchi_behind
+351800#Otsuchi_after parry
+351900#Otsuchi_Parry
+355000#Otsuchi_One-handed guard
+355100#Otsuchi_Two hands guard
+356000#Otsuchi_Parry Guard
+360000#Spear_One hand normal 1
+360010#Spear_One hand normal 2
+360020#Spear_One-hand normal 3
+360100#Spear_One-hand charge 1
+360110#Spear_One-hand charge 2
+360200#Spear_Two hands normal 1
+360210#Spear_Two hands normal 2
+360220#Spear_Two hands normal 3
+360300#Spear_Two hands charge 1
+360310#Spear_Two hands charge 2
+360400#Spear_one-handed dash
+360500#Spear_Two-handed dash
+360600#Spear_One hand step forward
+361000#Spear_Both hands step forward
+361400#Spear_left hand
+361500#Spear_One hand close range
+361600#Spear_Both hands close range
+361700#Spear_back
+361800#spear_after parry
+361900#Spear_Parry
+362000#Spear_Medium guard attack
+365000#Spear_One-handed guard
+365100#Spear_Two-handed guard
+366000#Spear_Parry Guard
+380000#Pod-shaped_one-hand normal 1
+380010#Pod-shaped_one-hand normal 2
+380020#Pod-shaped_one-hand normal 3
+380100#Pole_One-hand charge 1
+380110#Pod-shaped_One-hand charge 2
+380200#Pole_Both hands normal 1
+380210#Pole_Both hands normal 2
+380220#Pole_Both hands normal 3
+380300#Pole_Two hands charge 1
+380310#Pole_Two hands charge 2
+380400#Pole_One-handed dash
+380500#Pole_Dash with both hands
+380600#Pod shape_One hand step forward
+381000#Pole_Both hands before step
+381400#Pole shape_left hand
+381500#Pod shape_One hand close range
+381600#Pole_Both hands close range
+381700#Pod shape_behind
+381800#Pod shape_After parrying
+381900#Rod-shaped_Parry
+385000#Pole_One hand guard
+385100#Pole shape_Both hands guard
+386000#Rod-shaped_Parry Guard
+380001#Size_one hand normal 1
+380011#Size_One hand Normal 2
+380021#Size_one hand normal 3
+380101#Size_One hand charge 1
+380111#Size_One Hand Charge 2
+380201#size_both hands normal 1
+380211#size_both hands normal 2
+380221#size_both hands normal 3
+380301#Size_Two hands charge 1
+380311#Size_Two hands charge 2
+380401#size_one hand dash
+380501#size_both hands dash
+380601#Size_One hand step forward
+381001#Size_Both hands step front
+381401#Size_left hand
+381701#size_back
+381801#size_after parry
+410000#catalyst_one hand normal 1
+410010#catalyst_one hand normal 2
+410020#catalyst_one hand normal 3
+410100#Catalyst_1 hand charge
+410110#Catalyst_One-hand charge 2
+410410#catalyst_both hands normal 1
+410411#catalyst_both hands normal 2
+410412#catalyst_both hands normal 3
+410300#Catalyst_Two hands charge 1
+410310#catalyst_two-handed charge 2
+410400#Catalyst_One-handed dash
+410500#catalyst_two-handed dash
+410600#Catalyst_One hand step before
+411000#catalyst_both hands before step
+411400#catalyst_left hand
+411500#Catalyst_One hand close range
+411600#Catalyst_Both hands close range
+411700#catalyst_behind
+411800#catalyst_after parry
+411900#Catalyst_Parry
+415000#Catalyst_One hand guard
+415100#Catalyst_Both hands guard
+420000#Fist_One hand normal 1
+420010#Fist_One hand normal 2
+420020#Fist_One hand normal 3
+420100#Fist_One hand charge 1
+420110#Fist_One hand charge 2
+420420#Fist_Both hands normal
+420300#Fist_Both hands charge
+420400#Fist_One hand dash
+420500#Fist_Two-handed dash
+420600#Fist_Before one hand step
+421000#Fist_Both hands before step
+421400#Fist_left hand
+421500#Fist_One hand close range
+421600#Fist_Both hands close range
+421700#Fist_behind
+421800#Fist_after parry
+421900#Fist_Parry
+425000#Fist_One hand guard
+425100#Fist_Both hands guard
+426000#Fist_Parry Guard
+420101#God hand_1 hand charge
+420111#God hand_one hand charge 2
+420401#Godhand_One hand dash
+421501#God hand_One hand close range
+440000#Bow_one hand normal
+440100#Bow_One-hand charge
+440200#Bow_Two hands normal
+440300#Bow_Two hands charge
+440400#Bow_one-handed dash
+440500#Bow_Two-handed dash
+440600#Bow_One hand step before
+441000#Bow_Both hands before step
+441400#Bow_left hand
+441500#Bow_One hand close range
+441600#Bow_both hands close range
+441700#Bow_behind
+441800#bow_after parry
+441900#Bow_Parry
+445000#Bow_One-handed guard
+445100#Bow_Both hands guard
+446000#Bow_Parry Guard
+460000#Crossbow_One hand normal
+460100#Crossbow_one-hand charge
+460200#Crossbow_Two hands normal
+460300#Crossbow
+460400#Crossbow_one-handed dash
+460500#Crossbow_Two-handed dash
+460600#Crossbow_One hand step before
+461000#Crossbow_Both hands before step
+461400#Crossbow_left hand
+461500#Crossbow_One hand close range
+461600#Crossbow_Both hands close range
+461700#Crossbow_behind
+461800#crossbow_after parry
+461900#Crossbow_Parry
+465000#Crossbow_One-handed guard
+465100#Crossbow_Both hands guard
+466000#Crossbow_Parry Guard
+470000#Large shield_One-hand normal 1
+470010#Large shield_One-hand normal 2
+470020#Large shield_One-hand normal 3
+470100#Large Shield_One Hand charge 1
+470110#Large shield_One-hand charge 2
+470200#Large Shield_Two Hands Normal 1
+470210#Large Shield_Two Hands Normal 2
+470220#Large Shield_Two Hands Normal 3
+470300#Large Shield_Two hands charge 1
+470301#Large shield_Two-handed charge 1_Range
+470310#Large shield_Two hands charge 2
+470400#Large shield_One-handed dash
+470500#Large shield_Two-handed dash
+470600#Large shield_One-hand step forward
+471000#Large shield_Both hands before step
+471400#Large shield_left hand
+471500#Large shield_One-handed close range
+471600#Large shield_both hands close range
+471700#Large shield_behind
+471800#Large shield_after parry
+471900#Large Shield_Parry
+475000#Large shield_One-handed guard
+475100#Large shield_Two-handed guard
+476000#Large Shield_Parry Guard
+480000#Small shield_one hand normal 1
+480010#Small shield_One-hand normal 2
+480020#Small shield_one hand normal 3
+480100#Small shield_One-hand charge 1
+480110#Small shield_One-hand charge 2
+480200#Small shield_Two hands normal 1
+480210#Small shield_Two hands normal 2
+480220#small shield_both hands normal 3
+480300#Small shield_Two hands charge 1
+480310#Small shield_Two hands charge 2
+480400#Small shield_One-handed dash
+480500#Small shield_Two-handed dash
+480600#Small shield_One hand step forward
+481000#Small shield_Both hands before step
+481400#Small shield_left hand
+481500#Small shield_One hand close range
+481600#Small shield_both hands close range
+481700#Small shield_behind
+481800#Small shield_after parry
+481900#Small shield_Parry
+485000#Small shield_One-handed guard
+485100#Small shield_Two-handed guard
+486000#Small Shield_Parry Guard

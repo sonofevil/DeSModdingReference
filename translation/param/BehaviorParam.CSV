@@ -1,0 +1,1752 @@
+ID#Name
+0#for testing
+1#PC_test_firebolt
+2#PC_test_item
+3#PC_test3
+4#PC_test4_guard
+5#PC_test_enchantweapon
+6#PC_test_cure
+7#PC_SOSsign [System]
+8#bullet test
+10#flame straw test
+11#Kamisama_Magic square activation attack
+12#kickout [system]
+13#leaveSession [system]
+14#Fly hunting_Fly flying
+15#Black_Soulsign [System]
+16#Intrusion [System]
+17#bloodSign [system]
+100#PC_Common_Falling
+101#Weaken Ghost [System]
+102#black enhancement [system]
+201#[QWC] Area_NPC_+1
+202#[QWC] Area_NPC_+2
+203#[QWC] Area_NPC_+3
+206#[QWC] Area_NPC_-1
+207#[QWC] Area_NPC_-2
+208#[QWC] Area_NPC_-3
+211#[QWC] Area_Black_+1
+212#【QWC】Area_Black_＋2
+221#[QWC] Area_White_+1
+222#[QWC] Area_White_+2
+231#[QWC] Area_Gray_+1
+232#[QWC] Area_Gray_+2
+236#[QWC] Area_Gray_-1
+237#[QWC] Area_Gray_-2
+311#【QWC】Player_Black_＋1
+312#【QWC】Player_Black_＋2
+321#【QWC】Player_White_＋1
+322#【QWC】Player_White_＋2
+331#【QWC】Player_Gray_＋1
+332#【QWC】Player_Gray_＋2
+336#【QWC】Player_Gray_－1
+337#【QWC】Player_Gray_－2
+500#Common Attack [Falling]
+501#Common Attack [Landing]
+502#Common Attack [Dosun Landing]
+503#Common Attack [Tumble Landing]
+504#Common Attack [Rolling]
+505#Common Attack [Summon]
+510#Common Attack [Push]
+511#common attack [small blow]
+512#Common attack [big blow]
+513#Common attack [after push]
+520#Common Attack [Throw]
+521#Common Attack [Strong Throw]
+600#fall radius 1m
+601#Blow away (weak) Radius 1m
+602#Blow away (strong) Radius 1m
+1000#Magic Arrow
+1001#Firebolt
+1002#Healing others
+1003#Right Hand Weapon Enchantment
+1004#Enhancement for cursed enchantment
+1005#black ghost
+1006#Poison Cloud
+1007#auditory hallucinations
+1008#fireball
+1009#fire
+1010#penetrating beam
+1011#Funnel
+1012#hidden
+1013#Protective membrane
+1014#High rank enchantment
+1015#Water Shield
+1016#Death Cloud
+1017#machine gun
+1018#Soul Touch
+1019#corrosion cloud
+1020#Perfect Shield
+1021#Meteor
+1022#Poison for Cursed Enchantment
+2000#self-centered explosion
+2001#Anti-Magic
+2002#Great recovery of HP
+2003#Resurrection when dead
+2004#Regenerate
+2005#Resurrection
+2006#Abnormal status recovery
+2007#Ghost Camouflage
+2008#Gate
+2009#black ghost disappear
+2010#HP Recovery
+2011#Detoxification
+3000#Potion A
+3001#Potion B
+3002#Potion C
+3003#Potion D
+3004#Potion E
+3005#MP Potion A
+3006#MP Potion B
+3007#Anti-poison A
+3008#Anti-poison B
+3009#Panacea
+3010#Whetstone
+3011#Throwing knives
+3012#Poison Throwing Knife
+3013#Molotov cocktail
+3014#Soul Coin
+3015#Pine resin
+3016#Rosin that burns well
+3017#light stone
+3018#Telescope
+3019#whistle
+3020#Gate
+3021#Resuscitator
+3022#Signpost stone
+3024#Hemostat
+3025#Covert African Throwing Knife
+3027#Phalanx DS
+3028#King's Shield DS
+3029#King's Sword DS
+3030#Lendl DS
+3031#Referee DS
+3032#Storm Warrior DS
+3033#Storm Beast DS
+3034#Kamisama DS
+3035#Chimera DS
+3036#Old man in yellow DS
+3037#Hiru Demon DS
+3038#fly colossus DS
+3039#Libra DS
+3040#Big Spider DS
+3041#Flame Giant DS
+3042#Dragon Demon DS
+3043#Heroine DS
+3044#Fat Demon DS
+3045#Hiryuko DS
+3046#Flying dragon parent DS
+3047#Ore Spirit DS
+3048#Bad End DS
+3100#Nameless Warrior's Soul
+3101#Pure Soul of Nameless Warrior
+3102#Soul of a Skilled Warrior
+3103#Pure Soul of a Skilled Warrior
+3104#Famous Warrior's Soul
+3105#Pure Soul of a Famous Warrior
+3106#Legendary Warrior's Soul
+3107#Pure Soul of Legendary Warrior
+3110#Infinity Gate
+4000#Increase equipment weight
+4001#Increase loading weight
+4002#Pinch attack power up
+4003#Pinch defense up
+4004#Stamina recovery up
+4005#MP recovery up
+4006#Light "Regenerate"
+4007#Fire Resistance
+4008#Poison Resistance
+4009#Magic sensitivity
+4010#Magical insensitivity
+4011#Magic Innate
+4012#sincere prayer
+4013#High Ghost
+4014#White hope
+4015#Black Hope
+4016#Weak "Hidden"
+4017#Weak "Ghost Camouflage"
+4018#cat landing
+4019#Pheromones
+4020#greed
+4021#Take care
+4022#Masochist
+4023#Vital Point Aim
+4024#Miraculous nature
+4025#Bleed resistance
+4026#Plague resistance
+4100#torch light
+4101#Max MP Up_Silver Catalyst
+4102#Max MP Down_Insanity Catalyst
+4200#MP recovery
+4201#HP Recovery
+4202#Increase item drop rate
+4203#Fire Resistance_Bone Crusher
+4204#Fire Resistance_Bone Crushing +1
+4205#Fire Resistance_Bone Crushing +2
+4206#Fire Resistance_Bone Crushing +3
+4207#Fire Resistance_Bone Crushing +4
+4208#Fire Resistance_Bone Crushing +5
+4211#Magic Sensitivity_Chris Knife
+4212#Magic Sensitivity_Kris Knife +1
+4213#Magic Sensitivity_Chris Knife +2
+4214#Magic Sensitivity_Kris Knife +3
+4215#Magic Sensitivity_Kris Knife +4
+4216#Magic Sensitivity_Kris Knife +5
+4220#Magic Defense Up_Runesword
+4221#Magic Defense Up_Rune Sword +1
+4222#Magic Defense Up_Rune Sword +2
+4223#Magic Defense Up_Rune Sword +3
+4224#Magic Defense Up_Rune Sword +4
+4225#Magic Defense Up_Rune Sword +5
+4226#Magic Defense Up_Rune Shield
+4230#Pinch attack power up_Groom sword
+4240#Bleeding_Makoto
+4250#Poison and plague resistance_Istarel
+4251#Poison and plague resistance_Istarel +1
+4252#Poison and plague resistance_Istarel +2
+4253#Poison and plague resistance_Istarel +3
+4254#Poison and plague resistance_Istarel +4
+4255#Poison and plague resistance_Istarel +5
+4260#HP recovery_meat knife
+4270#MP Recovery_Pole of Phosphorescence
+4271#MP Recovery_Phosphorescence Pole +1
+4272#MP Recovery_Phosphorescence Pole +2
+4273#MP Recovery_Phosphorescence Pole +3
+4274#MP Recovery_Phosphorescence Pole +4
+4275#MP Recovery_Phosphorescence Pole +5
+4280#HP Recovery_Pavese
+4281#Recover HP_Pavese +1
+4282#Recover HP_Pavese +2
+4283#Recover HP_Pavese +3
+4284#Recover HP_Pavese +4
+4285#Recover HP_Pavese +5
+4290#Magic Insensitivity_Breast Shield
+4291#Magic Insensitivity_Breast Shield +1
+4292#Magic Insensitivity_Breast Shield +2
+4293#Magic Insensitivity_Breast Shield +3
+4294#Magic Insensitivity_Breast Shield +4
+4295#Magic Insensitivity_Breast Shield +5
+4300#Stamina recovery down_head_level 1
+4301#Stamina recovery down_head_level 2
+4302#Stamina recovery down_head_level 3
+4303#Stamina recovery down_head_level 4
+4310#Stamina recovery down_torso_level 1
+4311#Stamina recovery down_torso_level 2
+4312#Stamina recovery down_torso_level 3
+4313#Stamina recovery down_torso_level 4
+4320#Stamina recovery down_arm_level 1
+4321#Stamina recovery down_arm_level 2
+4322#Stamina recovery down_arm_level 3
+4323#Stamina recovery down_arm_level 4
+4330#Stamina Recovery Down_Leg_Level 1
+4331#Stamina Recovery Down_Leg_Level 2
+4332#Stamina Recovery Down_Leg_Level 3
+4333#Stamina Recovery Down_Leg_Level 4
+4340#Pinch attack power up_Groom sword
+4341#Increase pinch attack power_Groom Sword +1
+4342#Increase pinch attack power_Groom Sword +2
+4343#Increase pinch attack power_Groom Sword +3
+4344#Increase pinch attack power_Groom Sword +4
+4345#Increase pinch attack power_Groom Sword +5
+4350#Max MP Up_Silver Coronet
+4351#Magic Sensitive_Yellow Crown
+4352#Obtain Soul Up_Silver Bracelet
+4360#Corresponding to flame [dragon stone]
+4370#MP recovery [missing month] +1
+4371#MP recovery [missing month] +2
+4372#MP recovery [missing month] +3
+4380#HP Recovery [Blessing] +1
+4381#HP Recovery [Blessing] +2
+4382#HP Recovery [Blessing] +3
+4390#Poison and plague resistance_Bramed
+4391#Poison and plague resistance_Bramed +1
+4392#Poison and plague resistance_Bramed +2
+4393#Poison and plague resistance_Bramed +3
+4394#Poison and plague resistance_Bramed +4
+4395#Poison and plague resistance_Bramed +5
+4400#Magic Defense Up_Rune Shield
+4401#Magic Defense Up_Rune Shield +1
+4402#Magic Defense Up_Rune Shield +2
+4403#Magic Defense Up_Rune Shield +3
+4404#Magic Defense Up_Rune Shield +4
+4405#Magic Defense Up_Rune Shield +5
+4410#Icon only_misericorde_meat cleaver
+5000#Flame Phantom [Initial]
+5001#Flame monster [1st stage]
+5002#Flame Phantom [Part 2]
+5006#Fly flies from shoulders
+5010#Gold Run Enhanced Ring
+5013#Enhanced Chimera
+5020#Phalanx doping with small stick
+5021#Phalanx Doping with more tiny sticks
+5033#NPC for overweight doping
+5036#for NPC doping (damage x3.0)
+5037#For NPC doping (1.5 times defense)
+5038#for NPC doping (2.0 times defense)
+5039#for NPC doping (extremely strong against fire)
+5106#fly catching _ clad in flies
+5107#Fly-catcher_Bonfire
+5200#Prison 3 Boss automatic funnel LV4
+5201#Prison 3 Boss automatic funnel LV3
+5202#Prison 3 Boss automatic funnel LV2
+5203#Prison 3 Boss automatic funnel LV1
+250200600#King's sword → PC frontal stab
+221300600#Kagejo → PC back stab
+230300600#Hawk → PC Throw
+240300600#Octopus → PC brain combo
+272300600#Lendl King → PC Throw Combo
+10000#Royal Castle 1 Rumbling Iron Ball
+10010#Ojo 3 Rumbling straw
+10020#Ojo 2 barista arrow
+10030#Old fort 1 Falling floor OBJ
+10040#Unclean 1 Falling rock
+10050#Continuous damage floor [pit 1 lava]
+10060#Continuous damage floor [Hirunuma]
+10070#Ojo 3 Door that breaks OBJ
+10080#Continuous damage floor [poison]
+10090#Continuous damage floor [blood swamp]
+10100#Prison 1 Puppet gimmick arrow
+10110#Tunnel 1 Continuous damage [Thread]
+10120#Tunnel 1 Falling rock
+10130#Tunnel 1 Explosive barrel
+10140#Tunnel 2 Trolley
+10150#Old fort 1 Trap spear
+10160#Tunnel 2 Will-O-Wisp
+10161#Tunnel 2 Will-o-Wisp 2
+10170#Old Fort 2 Will-O-Wisp
+10180#Prison Castle 3 PC Black Ghost [Old man in yellow]
+10190#Royal Castle 1 Explosive barrel (small)
+10200#Royal Castle 1 Explosive Barrel (Large)
+10210#Ojo 1 Rumbling Iron Ball/Enemy Version
+10240#Continuous damage floor [pit boss lava]
+10250#Continuous damage floor [pit 2 lava]
+10260#Continuous damage floor_after [Hirunuma]
+10280#After continuous damage floor [poison]
+10290#Continuous damage floor_after [Blood marsh]
+10300#Royal castle bonfire small
+10310#Royal castle bonfire straw ball
+10320#Tunnel 1 Continuous damage floor [lava]
+10330#Tunnel 2 Continuous damage floor [lava]
+10340#Tunnel 2 Continuous damage floor [Boss room lava]
+200000000#NPC_test1
+200000001#NPC_test2
+200000002#NPC_test3
+200000003#NPC_test4_Guard
+200000004#NPC_test5_Big attack
+200000005#NPC_test6_Shield attack
+200000006#NPC_test7_Rush attack
+210300100#c1300_Fat Demon_Normal attack
+210300110#c1300_Fat Demon_For Attack
+210300120#c1300_Movement winding (right foot)
+210300130#c1300_Movement winding (left foot)
+210300140#c1300_Fat Demon_Right mowing
+210300150#c1300_Fat Demon_Swing down from the right
+210300160#c1300_Fat Demon_Swing down from the left
+210300170#c1300_Fat Demon_Jump in place
+210300180#c1300_Fat Demon_Spot jump shock wave
+220000100#c2000_slave soldier_slash 1
+220000110#c2000_slave soldier_slashing 2-1
+220000120#c2000_slave soldier_slash (large)
+220000130#c2000_slave soldier_pounce (far)
+220000140#c2000_slave soldier_pounce (near)
+220000150#c2000_Slave soldier_Shake off
+220000160#c2000_slave soldier_slashing 3
+220000170#c2000_slave soldier_pounce (more distant)
+220000180#c2000_slave soldier_slashing 2-2
+220000190#c2000_slave soldier_slash blindly
+220000500#c2000_slave soldier_guard
+220001100#c2000_Slave Soldier_Slash 1 ★Only for Royal Castle 1★
+220001110#c2000_Slave Soldier_Slash 2-1 ★For Royal Castle 1★
+220001120#c2000_Slave Soldier_Slash (Large) ★Only for Royal Castle 1★
+220001130#c2000_Slave Soldier_Pounce (far) ★Oujou 1 only★
+220001140#c2000_Slave Soldier_Pounce (Near) ★For Royal Castle 1★
+220001150#c2000_Slave Soldier_Shake off ★Oujou 1 only★
+220001160#c2000_Slave Soldier_Slashing 3 ★For Royal Castle 1★
+220001170#c2000_slave soldier_pounce (more distant) ★For royal castle 1★
+220001180#c2000_Slave Soldier_Slash 2-2 ★For Royal Castle 1★
+220001190#c2000_Slave Soldier_Killing blindly ★Oujou 1 only★
+220001500#c2000_Slave Soldier_Guard ★For Royal Castle 1★
+220100100#c2010_General soldier_swing down
+220100110#c2010_General soldier_Slashing
+220100120#c2010_general soldier_swing down
+220100130#c2010_general soldier_kick
+220100140#c2010_general soldier_throwing Molotov cocktail
+220100150#c2010_General soldier_Slashing with a run up
+220100160#c2010_General soldier_Spear normal attack 1
+220100170#c2010_General soldier_Spear normal attack 2
+220100180#c2010_general soldier_mow down with running up
+220100190#c2010_General soldier_Spear heavy attack
+220100200#c2010_General soldier_Ax normal attack 1
+220100210#c2010_General soldier_Ax normal attack 2
+220100220#c2010_general soldier_slamming with a run up
+220100230#c2010_General soldier_Aksu strong attack
+220100240#c2010_general soldier_halberd normal attack 1
+220100250#c2010_General soldier_Halberd normal attack 2
+220100260#c2010_general soldier_swinging with a run up
+220100270#c2010_general soldier_halberd strong attack
+220100400#c2010_general soldier_use item
+220100500#c2010_general soldier_guard
+220103100#c2010_general soldier_bowgun firing
+220101100#c2010_General Soldier_Swinging ★Oujou 1 only★
+220101110#c2010_general soldier_slashing ★Ojou 1 only★
+220101120#c2010_General Soldier_Pumping Down ★Only for Royal Castle 1★
+220101130#c2010_General Soldier_Kick ★Ojou 1 only★
+220101140#c2010_general soldier_throwing molotov cocktail ★Ojo 1 only★
+220101150#c2010_General Soldier_Slashing with a run-up★Ojo 1 only★
+220101160#c2010_General Soldier_Spear Normal Attack 1 ★For Royal Castle 1★
+220101170#c2010_General Soldier_Spear Normal Attack 2 ★For Royal Castle 1★
+220101180#c2010_general soldier_mow down with run-up ★For royal castle 1★
+220101190#c2010_General Soldier_Spear Strong Attack ★For Royal Castle 1★
+220101200#c2010_General Soldier_Aksu Normal Attack 1 ★For Royal Castle 1★
+220101210#c2010_General Soldier_Aksu Normal Attack 2 ★For Royal Castle 1★
+220101220#c2010_General Soldier_Slamming with a run-up ★Ojo 1 only★
+220101230#c2010_General Soldier_Aksu Strong Attack ★For Royal Castle 1★
+220101240#c2010_General Soldier_Halberd Normal Attack 1 ★For Royal Castle 1★
+220101250#c2010_General Soldier_Halberd Normal Attack 2 ★For Royal Castle 1★
+220101260#c2010_General Soldier_Swinging with a run-up ★Oujou 1 only★
+220101270#c2010_General Soldier_Halberd Strong Attack ★For Royal Castle 1★
+220101400#c2010_general soldier_use item ★for royal castle 1★
+220101500#c2010_general soldier_guard ★Oujou 1 only★
+220104100#c2010_General Soldier_Bowgun firing ★Ojou 1 only★
+220200100#c2020_knight_left robe cut
+220200110#c2020_Knight_Right mowing
+220200120#c2020_knight_thrust
+220200130#c2020_Knight_Rush Thrust
+220200140#c2020_knight_charged slash
+220200150#c2020_knight_hitting with a shield
+220200160#c2020_knight_claymore normal attack 1
+220200170#c2020_knight_claymore normal attack 2
+220200180#c2020_knight_claymore normal attack 3
+220200190#c2020_knight_swing down
+220200200#c2020_knight_claymore heavy attack
+220200210#c2020_Knight_Claymore slashing with a run up
+220200220#c2020_knight_spear normal attack 1
+220200230#c2020_knight_spear normal attack 2
+220200240#c2020_knight_spear normal attack 3
+220200250#c2020_knight_spear heavy attack
+220200260#c2020_knight_charge with spear
+220200270#c2020_knight_finishing with a spear
+220200280#c2020_knight_swing down hard_final stage
+220200400#c2020_knight_use item
+220200500#c2020_knight_guard
+220202100#c2020_knight_left robe cut ★Ojou 1 only★
+220202110#c2020_Knight_Right Nagigi ★Ojou 1 only★
+220202120#c2020_knight_thrust ★Oujou 1 only★
+220202130#c2020_Knight_Rush Thrust ★Exclusive to Ojo 1★
+220202140#c2020_knight_charged slash ★for royal castle 1★
+220202150#c2020_knight_hitting with a shield ★Ojou 1 only★
+220202160#c2020_Knight_Claymore normal attack 1 ★For royal castle 1★
+220202170#c2020_Knight_Claymore Normal Attack 2 ★For Castle 1★
+220202180#c2020_Knight_Claymore Normal Attack 3 ★For Castle 1★
+220202190#c2020_Knight_Swings down ★Oujou 1 only★
+220202200#c2020_Knight_Claymore Heavy Attack ★For Castle 1★
+220202210#c2020_Knight_Claymore slashing with run-up ★Oujou 1 only★
+220202280#c2020_knight_swings down hard_final stage ★Oujou 1 only★
+220202400#c2020_knight_use item ★for royal castle 1★
+220202500#c2020_Knight_Guard ★Oujou 1 only★
+220300100#c2030_Assassin_Knife 1st stage
+220300110#c2030_assassin_knife second stage
+220300120#c2030_Assassin_Knife 3rd stage
+220300130#c2030_Assassin_Sobat
+220300140#c2030_assassin_knife throwing
+220700100#c2070_prisoner_extrusion
+220700000#c2070_prisoner_worship
+220700110#c2070_prisoner_stomach
+220700120#c2070_Prisoner_Spear
+220700130#c2070_Prisoner_Lower Stab (Poison)
+220750100#c2075_Captive Ball_Attack 1
+220750110#c2075_Captive Ball_Attack 2
+220750120#c2075_Captive Ball_Attack 3
+220750130#c2075_Captive Ball_Attack 4
+220750140#c2075_Captive Ball_Attack 5
+220750150#c2075_Captive Ball_Attack 6
+220750160#c2075_Captive Ball_Magic Arrow
+220800100#c2080_Prisoner_Attack (near)
+220800110#c2080_Prisoner_Decapitation
+220800120#c2080_Prisoner_Attack (medium range)
+220800130#c2080_Prisoner_Fireball
+220800140#c2080_Prisoner_Whip attack (vertical)
+220800150#c2080_Prisoner_Whip attack (wipe)
+220800160#c2080_Prisoner_Fire magic
+220800170#c2080_Prisoner_Fire magic (Ignition)
+220800180#c2080_Prisoner_Fire magic 2
+220800190#c2080_Prisoner_Move
+220900100#c2090_Former aristocratic lady stabbing 1
+220900110#c2090_Former aristocratic lady stabbing 2
+221000100#c2100_Corruption Bit_Attack (Small)
+221000110#c2100_Corruption_Attack (Medium)
+221000120#c2100_Corruption Bit_Raging
+221000130#c2100_Corruption bit_attack with both hands
+221000140#c2100_Rotten person_push down
+221000180#c2100_Corruption Human_Rush
+221000190#c2100_Corruption Human_2 per charging object
+221001100#c2100_Corruption Human_Tutorial_Attack (Small)
+221001110#c2100_Corruption human_tutorial_attack (medium)
+221001120#c2100_corruption human_tutorial_rampage
+221001130#c2100_Corruption human_for tutorial_attack with both hands
+221002140#c2100_Rotten person_push down
+221002150#c2100_Corruption Human_Poking
+221002160#c2100_Corruption Human_Slamming
+221002170#c2100_Corruption Human_Twice
+221000200#c2100_corruption human_shaman cloud magic
+221000210#c2100_Corruption Bite_Fly attack (small)
+221000220#c2100_Corruption Bite_Fly attack (medium)
+221000230#c2100_Rotten Bits_Flies rampage
+221000240#c2100_Rotten Bites_Fly Attack with both hands
+221010100#c2101_Corruption Human_Great Mow
+221010110#c2101_Corruption Human_Large Swing Down
+221100100#c2110_scale miner (pickle)_swing down
+221100110#c2110_scale miner (pickle)_swinging
+221100120#c2110_scale miner (pickle) _ swing around
+221100180#c2110_scale miner (pickle)_diving
+221100280#c2110_scale miner (pickle)_back attack
+221101250#c2110_scale miner (bag)_beating
+221101130#c2110_scale miner (bag)_rock thrower
+221102140#c2110_scale miner (stiletto)_protrusion
+221102150#c2110_Scale miner (Sword)_Rush
+221102290#c2110_Scale miner (stiletto)_back attack
+221103160#c2110_scale miner (big sword)_protrusion
+221103170#c2110_Scale miner (great sword)_Sweeping
+221103300#c2110_Scale miner (great sword)_back attack
+221104190#c2110_Scale miner (hammer)_swing down
+221104200#c2110_Scale miner (hammer)_swinging
+221104210#c2110_Scale miner (hammer)_diving
+221105220#c2110_Scale miner (bare hands)_beating
+221105230#c2110_Scale miner (bare hands)_Two-handed punch
+221105240#c2110_Scale miner (bare hands)_rock thrower
+221105270#c2110_Scale miner (bare hands)_Rock throwing 2
+221105310#c2110_Scale miner (bare hands)_Rock throwing 3
+221105320#c2110_Scale miner (bare hands)_rock throwing 4
+221105330#c2110_Scale miner (bare hands)_Rock throwing 5
+221105340#c2110_Scale miner (bare hands)_Rock throwing 6
+221105350#c2110_Scale miner (bare hands)_Rock throwing 7
+221105360#c2110_Scale miner (bare hands)_Rock throwing 8
+221200100#c2120_Kagejin_Right hand attack
+221200110#c2120_Kagejin_Left hand attack
+221200120#c2120_Kagejin_Two-handed attack
+221200140#c2120_shadow person_mow away
+221200150#c2120_Shadow_beam from eyes
+221200160#c2120_Kagejin_Beam from eyes (top)
+221200170#c2120_Kagehito_beam from eyes (below)
+221300100#c2130_Kagejo_Right hand cut A
+221300110#c2130_Kagejo_Left hand rip A
+221300120#c2130_Kagejo_Right hand rip B
+221300140#c2130_Shadowwoman_Claw thrust
+230100100#c3010_military dog_biting (small)
+230100110#c3010_military dog_continuous biting
+230100120#c3010_military dog_pounce
+230100130#c3010_military dog_continuous biting 2nd row
+230100140#c3010_military dog_pounce 2
+230100150#c3010_military dog_pounce 3
+230300100#c3030_hawk_scratches
+230300110#c3030_hawk_poke
+230300120#c3030_Hawk_Continuous pecking
+230300130#c3031_falcon_throw
+230400100#c3040_Chimera_Right hand punch
+230400110#c3040_chimera_left hand punch
+230400120#c3040_Chimera_Right hand punch (no stance)
+230400130#c3040_Chimera_Roar on the ground
+230400140#c3040_Chimera_Tackle on the ground
+230400150#c3040_Chimera_roar in the air
+230400160#c3040_Chimera_Aerial Tackle
+230400170#c3040_chimera_scream
+230400180#c3040_Chimera_Soul Arrow
+230500100#c3050_Gargoyle_Stab sword 1 (air)
+230500110#c3050_Gargoyle_Stabbing sword 2 (air)
+230500120#c3050_Gargoyle_Stab sword 3 (air)
+230500130#c3050_Gargoyle_Piercing heavy attack (air)
+230501140#c3050_Gargoyle_Bowgun shooting (air)
+230501150#c3050_Gargoyle_Bowgun shooting (ground)
+230500160#c3050_Gargoyle_Stab sword 1 (ground)
+230500170#c3050_Gargoyle_Dive attack (ground)
+230600100#c3060_Plague rat_bite
+230700100#c3070_big slug_body hit
+230700110#c3070_Large slug_mucus
+230700120#c3070_Large slug_Light slime
+230700130#c3070_large slug_pounce
+230710100#c3071_Large slug (light)_body hit
+230710110#c3071_Large slug (light)_mucus
+230710120#c3071_Large slug (light)_light slime
+230710130#c3071_Large slug (light)_pounce
+230800100#c3080_cloudy jellyfish_tentacles
+230900100#c3090_Big mosquito_blood-sucking
+230900110#c3090_large mosquito_needle (planned)
+230900120#c3090_large mosquito_sucking blood
+230900130#c3090_large mosquito_venomous blood normal time
+230900140#c3090_large mosquito_venomous blood when full
+231000100#c3100_Rock earthworm_Bite
+231000101#c3100_Rock earthworm_Bite_Body
+231000110#c3100_Rock earthworm_Lava injection
+231000120#c3100_rock earthworm_lava shower
+231000130#c3100_Rock earthworm_swallow
+231000140#c3100_Rock earthworm_Move
+231200100#c3120_magma gecko_stretch attack
+231200110#c3120_magma gecko_body flame
+231200120#c3120_magma gecko_pounce
+231300100#c3130_large water bear_stab
+231300110#c3130_Large tardigrade_Rush
+231300120#c3130_large water bear_pounce
+231300130#c3130_large water bear_death explosion
+231310100#c3131_medium tardigrade_stab
+231310110#c3131_medium tardigrade_rush
+231310120#c3131_medium tardigrade_pounce
+231310130#c3131_medium tardigrade_death explosion
+231320100#c3132_wing tardigrade_stab
+231330100#c3133_small water bear_stab
+231330110#c3133_small water bear_rush
+231330120#c3133_small water bear_pounce
+231800100#c3180_Big blood tick_Stab with mouth needle
+231800110#c3180_Big blood tick_Venom blood
+240000100#c4000_failed_body
+240000110#c4000_Failure_Attack 2
+240000120#c4000_Failure_Retrospective attack
+240100100#c4010_wizard_scythe attack (strong)
+240100110#c4010_wizard_scythe attack (weak)
+240100120#c4010_Wizard_swing down the sickle
+240100130#c4010_Wizard_Release magic from fingers
+240200100#c4020_Gold Skeleton_Slash A
+240200110#c4020_Gold Skeleton_Slashing B
+240200120#c4020_Gold Skull_Stepping Slash
+240200130#c4020_Gold Skull_Swing down
+240200150#c4020_Gold skeleton_rolling slash
+240200160#c4020_Gold skeleton_(forward roll)
+240200170#c4020_Gold Skeleton_Round up the upper right
+240200180#c4020_Gold Skeleton_Round up left
+240200190#c4020_Gold skeleton_Mow down
+240200500#c4020_Gold Skeleton_Guard
+240210100#c4021_White Skeleton_Slash A
+240210110#c4021_White Skeleton_Slash B
+240210120#c4021_White Skeleton_Stepping Slash
+240210130#c4021_White Skeleton_Tame Slash
+240210140#c4021_White skeleton (bow)_Bow shooting
+240210150#c4021_White skeleton_roll slash
+240210160#c4021_white skeleton_forward roll
+240220200#c4022_Black skeleton_Right hand slash
+240220210#c4022_Black Skeleton_Right Hand Slashback
+240220220#c4022_Black skeleton_Left hand slash
+240220230#c4022_Black Skeleton_Left Hand Slash Back
+240220240#c4022_Black skeleton_without Iai
+240220250#c4022_Black Skeleton_Pumping
+240220260#c4022_Black skeleton_Right hand strong slash
+240220270#c4022_Black Skeleton_Pounce
+240220280#c4022_Black skeleton_double sword
+240300100#c4030_octopus man_handbell
+240300110#c4030_octopus man_miracle
+240300120#c4030_octopus man_throwing tentacles
+240300130#c4030_octopus man_strong magic
+240300140#c4030_octopus man_miracle for SFX
+240300600#c4030_octopus man_throwing tentacles second half
+240301100#c4030_Black Octopus Man_Handbell
+240301110#c4030_Black Octopus Man_Miracle
+240301120#c4030_Black Octopus Man_Tentacle Throwing
+240301130#c4030_Black octopus man_strong magic
+240301140#c4030_Black Octopus Man_Miracle for SFX
+240301600#c4030_Black octopus man_Tentacle throw second half
+240500100#c4050_Flame Monster_Punch 1
+240500110#c4050_Flame Monster_Punch 2
+240500120#c4050_Flame Monster_Punch 3
+240500130#c4050_Flame monster_flame thrower
+240500140#c4050_Fire Monster_Roar
+240500150#c4050_Flame Monster_Stepping Fight
+240500200#c4050_Flame monster_Punch 1 flame
+240500210#c4050_flame monster_punch 2 fire
+240500220#c4050_Fire monster_Punch 3 flames
+240500230#c4050_Flame monster_Stepping into fighting flame
+240500240#c4050_Fire Monster_Fire-breathing
+240500250#c4050_Flame Monster_Left Hammer
+240500260#c4050_Flame Monster_Side Strike (Large)
+240500270#c4050_flame monster_two-handed punch_1
+240500280#c4050_Jump dive strike_1
+240500290#c4050_flame monster_two-handed punch_2
+240500300#c4050_Flame monster_Punch 3 (explosion)
+240500310#c4050_Flame monster_Left hammer (explosion)
+240500320#c4050_Flame Monster_Side Strike (Large) (Explosion)
+240500330#c4050_Flame monster_Two-handed punch_1 (explosion)
+240500340#c4050_Flame Monster_Jump Dive Punch_1 (Explosion)
+240500350#c4050_Flame monster_Two-handed punch_2 (explosion)
+240500360#c4050_Jump dive strike_2
+240500370#c4050_Flame Monster_Jump Dive Punch_2 (Explosion)
+240500380#c4050_Flame monster_turning attack
+240500390#c4050_Flame monster_leg attack
+240500400#c4050_Flame Monster_Arm Atari
+250000120#c5000_Phalanx (Chibi)_Rush
+250000100#c5000_Phalanx (Chibi)_Piercing with a spear
+250000110#c5000_Phalanx (Chibi)_Spear shooting
+250000130#c5000_Phalanx (Chibi)_All Spear Shot
+250000140#c5000_Phalanx (Chibi)_Wall spear shooting
+250000500#c5000_Phalanx (Chibi)_Guard
+250010100#c5001_Phalanx (Body)_Rush
+250010911#c5001_Phalanx (Body)_Piercing with a spear
+250010912#c5001_Phalanx (Body)_Spear Shooting
+250010110#c5001_Phalanx (body)_All spear firing
+250010120#c5001_Phalanx (Body)_Wall-attached spear ejection
+250010915#c5001_Phalanx (Body)_Rush
+250100100#Ｃ5010_King's Shield_Crush with a shield
+250100110#c5010_King's shield_stomping (right)
+250100120#c5010_King's Shield_Spear Lower
+250100130#c5010_King's Shield_Spear Thrower
+250100140#c5010_King's shield_stomping (left)
+250100150#c5010_King's Shield_Backstep Engagement
+250100160#c5010_King's shield_walking involvement (right)
+250100170#c5010_King's shield_walking involvement (left)
+250100180#c5010_King's Shield_Spear throwing involvement (right leg)
+250100190#c5010_King's Shield_Spear off
+250100200#c5010_King's Shield_Crush with a shield Shock wave
+250100210#c5010_King's Shield_Stomping Left Shockwave
+250100220#c5010_King's Shield_Falling Involvement 1
+250100221#c5010_King's Shield_Falling Involvement 2
+250100230#c5010_King's Shield_Rising Engagement Spear
+250100231#c5010_King's Shield_Rising Engagement Shield 1st Stage
+250100232#c5010_King's Shield_Original Engagement Shield 2nd Stage
+250100235#c5010_King's Shield_Rising Engagement Shield 1st Stage Shockwave
+250100236#c5010_King's Shield_Rising Engagement Shield 2nd Stage Shockwave
+250200100#c5020_King's sword_upper swing
+250200110#c5020_King's Sword_Tsubame Gaeshi
+250200120#c5020_King's sword_thrust
+250200130#c5020_King's Sword_Right sweep
+250200140#c5020_King's Sword_Left sweep
+250200150#c5020_King's sword_Right sweep feint thrust
+250200160#c5020_King's sword_Left sweep feint thrust
+250200170#c5020_King's Sword_Stabbing Throw
+250200500#c5020_King's Sword_Guard
+250200180#c5020_King's Sword_Stepping Slash
+250300100#c5030 Storm Beast Far Right Strike
+250300110#c5030 Storm Beast Far Right Strike 2
+250300120#c5030 Storm Beast Distant Front Strike
+250300130#c5030 Storm Beast Distant Front Strike 2
+250300140#c5030 Storm Beast Far Right Strike
+250300150#c5030 Storm Beast Far Right Strike 2
+250300160#c5030 Storm Beast Close-range frontal sweep
+250300170#c5030 Storm Beast Close-range frontal sweep 2
+250300180#c5030 Storm Beast Tail Slap
+250300190#c5030 Storm beast Wind pressure attack
+250300200#c5030 Storm Beast Scale Shooting
+250300210#c5030 Storm Beast Son Missile
+250300220#c5030 Storm beast Wind pressure attack
+250310100#c5031 Baby stingray rush
+250310110#c5031 Baby ray shooting
+250400100#c5040_Judge_Slash downward
+250400110#c5040_Judge_Slash upwards
+250400120#c5040_referee_attack with tongue
+250400130#c5040_Referee_Throwing rubble
+250400140#c5040_Referee_Tongue attack (to 2F)
+250400150#c5040_Referee_Tongue attack (to 1F)
+250400160#c5040_Referee_Tongue attack (to 3F)
+250400170#c5040_Referee_Slam with tongue (2F-3F)
+250600000#c5060_Kamisama_Magic square installation
+250600110#c5060_Kamisama_Fireball
+250600120#c5060_Kamisama_Fake_Laser
+250700100#c5070_vomit
+250700110#c5070_centipede_rush
+250700120#c5070_centipede_tail
+250700130#c5070_centipede_rush body
+250710100#c5071_vomit
+250710110#c5071_centipede_rush
+250710120#c5071_centipede_tail
+250710130#c5071_centipede_rush body
+250800100#c5080_Fly-Taking_Punch with right arm
+250800110#c5080_Fly-Taking_Right arm swing down
+250800120#c5080_fly catching rampage
+250800130#c5080_fly-catching_flies
+250800140#c5080_Taking fly _ Wrap yourself in flies
+250800150#c5080_fly catching_fly explosion
+250800160#c5080_Fly catching (fly)
+250900100#c5090_leech demon_slap
+250900110#c5090_leech demon_swinging arms
+250900120#c5090_Lech Demon_Raging violently
+250900130#c5090_leech demon_leech covered attack
+250900140#c5090_leech demon_leech ball
+250900150#c5090_leech daemon_recovery
+251000100#c5100 Large spider right leg
+251000110#c5100 Large spider left leg
+251000120#c5100 Large spider body attack
+251000130#c5100 Large spider Right shooting
+251000140#c5100 Large spider left shot
+251000150#c5100 Large spider central shooting
+251000160#c5100 Large spider right thread
+251000170#c5100 Large spider left thread
+251000180#c5100 Large spider central thread
+251000190#c5100 Large spider Right shooting 2
+251000200#c5100 Large spider left shot 2
+251000210#c5100 Large spider central shooting 2
+251000220#c5100 Large spider right thread 2
+251000230#c5100 Large spider left thread 2
+251000240#c5100 Large spider central thread 2
+251000250#c5100_Large spider Great flame 1st stage
+251000260#c5100_Large spider Great flame 2nd stage
+251000270#c5100_Large spider Great flame 3rd stage
+251000280#c5100_Large spider front leg attack
+251000290#c5100_Large spider Close-range fire attack
+251000300#c5100_Large spider swings down right leg
+251000310#c5100_Large spider Swings left leg down
+251000320#c5100_Large spider Swing both legs down
+251000330#c5100_Large spider Body when swinging down
+251100100#c5110_Ore Spirit Biting
+251200100#c5120_Long Wyvern_Tail attack
+251200110#c5120_Brace A Passage first half
+251200120#c5120_Brace B Passage middle part
+251200130#c5120_Brace C Rear part of passage
+251200140#c5120_Breath D Square
+251200150#c5120_Breath attack A during the king
+251200160#c5120_King's Hall Breath Attack B
+251200170#c5120_Breath F Square
+251200180#c5120_Breath F Square
+251300100#c5130_Family Breath_Royal Castle 1_Castle wall
+251300110#c5130_Family Breath_Royal Castle 1_Nest
+251300120#c5130_Family Breath_Royal Castle 2_Castle Wall
+251300130#c5130_kin breath_royal castle 1_nest long
+251300140#c5130_Family Breath_Foot
+260200100#c6020_Warrior of the Storm_Vertical swing
+260200110#c6020_Warrior of the Storm_Stab directly below
+260200120#c6020_storm warrior_mow
+260200130#c6020_Warrior of the Storm_rounded up
+260200140#c6020_Warrior of the Storm_Stab directly below/Shockwave
+260200150#c6020_Warrior of the Storm_Vertical swing down to the right
+260200160#c6020_Warrior of the Storm_Vertical swing left direction
+260200170#c6020_Warrior of the Storm_Step Engagement
+260200180#c6020_storm warrior_pounce
+260200190#c6020_Warrior of the Storm_Mow down from the right
+260200200#c6020_storm warrior_mow down from the left
+260200210#c6020_storm warrior_slam
+260310100#c6031_Old man in yellow _Move sideways
+260310110#c6031_Old man in yellow _ Continuous mowing
+260310120#c6031_Old man in yellow_Miracle
+260310130#c6031_Old Man in Yellow_Summon
+260310140#c6031_Old man in yellow_chair flying
+260310150#c6031_Old man in yellow_Fireball
+260310500#c6031_Old man in yellow_guard
+260400100#c6040_Libra_self-centered explosion
+260400110#c6040_Libra_Recovery
+260410100#c6041_Unclean_Beating
+260500100#c6050_Dragon Demon (pit)_Punch 1
+260500110#c6050_Dragon Demon (pit)_Punch 2
+260500120#c6050_Dragon Demon (pit)_Punch 3
+260500130#c6050_Dragon Demon (pit)_Punch 4
+260500140#c6050_Dragon Demon (pit)_Bite
+260500150#c6050_Dragon Demon (pit)_Breath 1
+260500160#c6050_Dragon Demon (pit)_Breath 2
+260500170#c6050_Dragon Demon (pit)_Breath 3
+260500180#c6050_Dragon Demon (pit)_Breath 4
+260500190#c6050_Dragon Demon (pit)_Punch 1 left
+260500200#c6050_Dragon Demon (Mine)_Punch 2 Left
+260500210#c6050_Dragon Demon (pit)_Punch 3 left
+260500220#c6050_Dragon Demon (pit)_Punch 4 Left
+260500230#c6050_Dragon Demon (pit)_Continuous bite
+260500240#c6050_Dragon Demon (pit)_Short range breath
+260500250#c6050_Dragon Demon (Mine)_Weak Breath Breath
+260500260#c6050_Dragon Demon (pit)_Weakening bite 1
+260500270#c6050_Dragon Demon (pit)_Weakening bite 2
+260500280#c6050_Dragon Demon (Mine)_Punch 1 Shockwave
+260500290#c6050_Dragon Demon (Mine)_Punch 2 Shockwave
+260500300#c6050_Dragon Demon (Mine)_Punch 3 Shockwave
+260500310#c6050_Dragon Demon (Mine)_Punch 4 Shockwave
+271000100#c7100_beggar (man)_beating
+271100100#c7110_beggar (female)_beating right
+271100110#c7110_beggar (woman)_beating left
+271300100#c7130_Blacksmith (pit)_Hook
+271300110#c7130_Blacksmith (pit)_Upper
+271300120#c7130_Blacksmith (pit) _Swing down
+271300130#c7130_Blacksmith (pit) _Back fist
+271300140#c7130_Blacksmith (pit) _ Press with the bottom of your fist
+271300150#c7131_Blacksmith (pit)_Jab
+271310100#c7131_blacksmith (stone pillar)_hook
+271310110#c7131_blacksmith (stone pillar)_upper
+271310120#c7131_Blacksmith (stone pillar)_Swing down
+271310130#c7131_Blacksmith (stone pillar)_Back fist
+271310140#c7131_Blacksmith (Stone Pillar)_Press with the bottom of your fist
+271310150#c7131_blacksmith (stone pillar)_jab
+272300100#c7230_Lendl King_Normal Slash A
+272300110#c7230_Lendl King_Normal Slash B
+272300120#c7230_King Lendl_Mow down
+272300130#c7230_Lendl King_Forward Step Slash
+272300140#c7230_Lendl King_Backward Step Slash
+272300150#c7230_Lendl King_Strong Slash
+272300160#c7230_Forced Ghost Slash B
+272300170#c7230_King Lendl_Slash from the dash
+272300180#c7230_King Lendl_Grab with left hand
+272300190#c7230_Lendl King_Small jump attack
+272300200#c7230_Lendl King_Rush
+272300210#c7230_King Lendl_Parry
+272300230#c7230_King Lendl_Wide range attack
+272300330#c7230_King Lendl_Shock wave vertical
+272300331#c7230_King Lendl_Shock wave side
+272300332#c7230_King Lendl_Shock wave 45°
+272300333#c7230_King Lendl_Shock wave -45°
+120000000#dagger_one hand normal 1
+120000010#dagger_one hand normal 2
+120000020#Dagger_one-hand normal 3
+120000100#dagger_one hand charge 1
+120000110#Dagger_One hand charge 2
+120000200#dagger_two-handed normal 1
+120000210#dagger_two-handed normal 2
+120000220#dagger_both hands normal 3
+120000300#dagger_two-handed charge 1
+120000310#dagger_two-handed charge 2
+120000400#dagger_left hand
+120000410#Dagger_One hand close range
+120000420#dagger_both hands close range
+120000430#dagger_guard_one hand
+120000440#dagger_guard_both hands
+120000450#Dagger_Parry
+120000500#Dagger_behind
+120000510#dagger_after parry
+120000520#Dagger_one-handed dash
+120000530#dagger_two-handed dash
+120000540#Dagger_One hand step before
+120000580#Dagger_Both hands before step
+120000600#Dagger_Parry Guard
+123000000#Straight sword_one hand normal 1
+123000010#Straight sword_one hand normal 2
+123000020#Straight sword_one hand normal 3
+123000100#Straight sword_1 hand charge
+123000110#Straight sword_one-hand charge 2
+123000200#Straight sword_two-handed normal 1
+123000210#Straight sword_two-handed normal 2
+123000220#Straight sword_Two-handed Normal 3
+123000300#Straight sword_Two-handed charge 1
+123000310#Straight sword_Two-handed charge 2
+123000400#Straight sword_left hand
+123000410#Straight sword_One-handed close range
+123000420#Straight sword_Two-handed close range
+123000430#Straight sword_guard_one hand
+123000440#Straight sword_guard_both hands
+123000450#Straight sword_Parry
+123000500#Straight sword_behind
+123000510#Straight sword_after parry
+123000520#Straight sword_one-handed dash
+123000530#Straight sword_Two-handed dash
+123000540#Straight sword_One hand step before
+123000580#Straight sword_Both hands before step
+123000600#Straight sword_Parry Guard
+123001000#Tsuranuki sword_one hand normal 1
+123001010#Tsuranuki sword_one hand normal 2
+123001020#Tsuranuki sword_one hand normal 3
+123001100#Sword of Tsuranuki_One-hand charge 1
+123001110#Sword of Tsuranuki_One-hand charge 2
+123001200#Tsuranuki sword_Two hands normal 1
+123001210#Tsuranuki sword_Two hands normal 2
+123001220#Tsuranuki sword_Two hands normal 3
+123001300#Tsuranuki sword_Two-handed charge 1
+123001310#Tsuranuki sword_Two-handed charge 2
+123001400#Tsuranuki sword_left hand
+123001410#Sword of Tsuranuki_One hand close range
+123001420#Tsuranuki sword_Two-handed close range
+123001430#Tsuranuki sword_guard_one hand
+123001440#Tsuranuki sword_guard_both hands
+123001450#Sword of Tsuranuki_Parry
+123001500#Tsuranuki sword_behind
+123001510#Sword of Tsuranuki_after parry
+123001520#Sword of Tsuranuki_one-handed dash
+123001530#Tsuranuki sword_Two-handed dash
+123001540#Tsuranuki sword_before one hand step
+123001580#Tsuranuki no Ken_Both hands before step
+123001600#Sword of Tsuranuki_Parry Guard
+123002000#Broadsword_one hand normal 1
+123002010#Broadsword_One hand normal 2
+123002020#Broadsword_One hand normal 3
+123002100#Broadsword_One-hand charge 1
+123002110#Broadsword_one-hand charge 2
+123002200#Broadsword_Two hands normal 1
+123002210#Broadsword_Two hands normal 2
+123002220#Broadsword_Two hands normal 3
+123002300#Broadsword_Two hands charge 1
+123002310#Broadsword_Two hands charge 2
+123002400#Broadsword_left hand
+123002410#Broadsword_One hand close range
+123002420#Broadsword_Both hands close range
+123002430#Broadsword_guard_one hand
+123002440#Broadsword_guard_both hands
+123002450#Broadsword_Parry
+123002500#Broadsword_behind
+123002510#broadsword_after parry
+123002520#Broadsword_one hand dash
+123002530#Broadsword_Dash with both hands
+123002540#Broadsword_Before one hand step
+123002580#Broadsword_Both hands before step
+123002600#Broadsword_Parry Guard
+125000000#Greatsword_one-hand normal 1
+125000010#Great sword_one hand normal 2
+125000020#Great sword_One-handed normal 3
+125000100#Greatsword_One-hand charge 1
+125000110#Great sword_One-hand charge 2
+125000200#Greatsword_Two-handed Normal 1
+125000210#Greatsword_Two-handed Normal 2
+125000220#Greatsword_Two-handed Normal 3
+125000300#Great sword_Two-handed charge 1
+125000310#Great sword_Two-handed charge 2
+125000400#Great sword_left hand
+125000410#Great sword_One-handed close range
+125000420#Great sword_Two-handed close range
+125000430#Great sword_guard_one hand
+125000440#Great sword_guard_both hands
+125000450#Big sword_Parry
+125000500#Great sword_behind
+125000510#Great sword_after parry
+125000520#Great sword_one hand dash
+125000530#Great sword_Two-handed dash
+125000540#Large sword_One hand step before
+125000580#Great sword_Both hands before step
+125000600#Big sword_Parry guard
+125001000#Storm Bringer_One hand normal 1
+125001010#Storm Bringer_One hand normal 2
+125001020#Storm Bringer_One hand normal 3
+125001100#Storm Bringer_One-hand charge 1
+125001110#Storm Bringer_One-hand charge 2
+125001200#Storm Bringer_Two hands normal 1
+125001210#Storm Bringer_Two hands normal 2
+125001220#Storm Bringer_Two hands normal 3
+125001300#Storm Bringer_Two hands charge 1
+125001310#Storm Bringer_Two hands charge 2
+125001400#Storm Bringer_left hand
+125001410#Storm Bringer_One hand close range
+125001420#Storm Bringer_Both hands close range
+125001430#Stormbringer_Guard_One hand
+125001440#Storm Bringer_Guard_Both hands
+125001450#Storm Bringer_Parry
+125001500#Stormbringer_Behind
+125001510#Stormbringer_after parry
+125001520#Stormbringer_One-handed dash
+125001530#Stormbringer_Two-handed dash
+125001540#Storm Bringer_One hand step before
+125001580#Storm Bringer_Both hands before step
+125001600#Storm Bringer_Parry Guard
+125001700#Storm Bringer_Event only_One hand
+125001710#Stormbringer_Event only_Both hands
+125002000#flamberge_one hand normal 1
+125002010#flamberge_one hand normal 2
+125002020#flamberge_one hand normal 3
+125002100#flamberge_one-hand charge 1
+125002110#flamberge_one-hand charge 2
+125002200#flamberge_both hands normal 1
+125002210#flamberge_both hands normal 2
+125002220#flamberge_both hands normal 3
+125002300#Flamberger_Two hands charge 1
+125002310#Flamberger_Two hands charge 2
+125002400#flamberge_left hand
+125002410#Flamberger_One hand close range
+125002420#Flamberger_Both hands close range
+125002430#flamberge_guard_one hand
+125002440#flamberge_guard_both hands
+125002450#Flamberger_Parry
+125002500#Flamberger_behind
+125002510#flamberge_after parry
+125002520#flamberge_one hand dash
+125002530#flamberge_two-handed dash
+125002540#Flamberger_One hand step before
+125002580#Flamberger_Both hands before step
+125002600#Flamberger_Parry Guard
+125003000#Moonlight_one hand normal 1
+125003010#Moonlight_One hand normal 2
+125003020#Moonlight_one hand normal 3
+125003100#Moonlight_One-hand charge 1
+125003110#Moonlight_One-hand charge 2
+125003200#Moonlight_Two hands normal 1
+125003210#Moonlight_Two hands normal 2
+125003220#Moonlight_Both hands normal 3
+125003300#Moonlight_Two hands charge 1
+125003310#Moonlight_Two hands charge 2
+125003400#Moonlight_left hand
+125003410#Moonlight_One hand close range
+125003420#Moonlight_Both hands close range
+125003430#Moonlight_Guard_One hand
+125003440#Moonlight_Guard_Both hands
+125003450#Moonlight_Parry
+125003500#Moonlight_Behind
+125003510#moonlight_after parry
+125003520#Moonlight_one hand dash
+125003530#Moonlight_Dash with both hands
+125003540#Moonlight_One hand step forward
+125003580#Moonlight_Both hands before step
+125003600#Moonlight_Parry Guard
+126000000#Super large_One hand normal 1
+126000001#Extra large_one hand normal1_range
+126000010#Extra large size_One hand normal 2
+126000020#Extra large size_one hand normal 3
+126000100#Super large_One-hand charge 1
+126000110#Super-large_One-hand charge 2
+126000200#Extra large _Both normal 1
+126000210#Extremely large_both hands normal 2
+126000220#Super-large_both hands normal 3
+126000300#Super large_Two hands charge 1
+126000310#Super large_Two hands charge 2
+126000400#Extra large_left hand
+126000410#Super-large_One hand close range
+126000420#Extremely large_both hands close range
+126000430#Super large guard_one hand
+126000440#Super-large_Guard_Both hands
+126000450#Super large_Parry
+126000500#Super large_back
+126000510#Super large_after parry
+126000520#Super large_one hand dash
+126000530#Super large _ two-handed dash
+126000540#Extra-large_One-hand step front
+126000580#Extra-large_both hands step front
+126000600#Super large_Parry guard
+127000000#Stabbing sword_one hand normal 1
+127000010#Stabbing sword_one hand normal 2
+127000020#Stabbing sword_one hand normal 3
+127000100#Stabbing sword_one-hand charge 1
+127000110#Stabbing sword_one-hand charge 2
+127000200#Stabbing sword_Two-handed normal 1
+127000210#Stab sword_Two-handed normal 2
+127000220#Stabbing sword_Two hands normal 3
+127000300#Stabbing sword_Two-handed charge 1
+127000310#Stabbing sword_Two-handed charge 2
+127000400#Stabbing sword_left hand
+127000410#Stab sword_One-handed close range
+127000420#Stab sword_Both hands close range
+127000430#Stabbing sword_guard_one hand
+127000440#Stabbing sword_guard_both hands
+127000450#Stab sword_Parry
+127000460#Stabbing sword__Mid-guard attack
+127000500#Stabbing sword_behind
+127000510#Stab sword_after parry
+127000520#Stab sword_One-handed dash
+127000530#Stabbing sword_Two-handed dash
+127000540#Stabbing sword_before one hand step
+127000580#Stab sword_Both hands before step
+127000600#Stab sword_Parry guard
+128000000#Curved sword_One-handed normal 1
+128000010#Curved sword_One-handed normal 2
+128000020#Curved sword_one hand normal 3
+128000100#Curved sword_One hand charge 1
+128000110#Curved sword_One hand charge 2
+128000200#Curved sword_Two-handed normal 1
+128000210#Curved sword_Two-handed normal 2
+128000220#Curved sword_Two-handed normal 3
+128000300#Curved sword_Two-handed charge 1
+128000310#Curved sword_Two-handed charge 2
+128000400#curved sword_left hand
+128000410#Curved sword_One-handed close range
+128000420#Curved sword_Two-handed close range
+128000421#Curved sword_Short range_Second shot common
+128000430#Curved sword_guard_one hand
+128000440#Curved sword_guard_both hands
+128000450#Curved sword_Parry
+128000500#Curved sword_behind
+128000510#Curved sword_after parry
+128000520#Curved sword_one hand dash
+128000530#Curved sword_Two-handed dash
+128000540#Curved sword_One hand step before
+128000580#Curved sword_Both hands before step
+128000600#Curved Sword_Parry Guard
+128001000#blind_one hand normal 1
+128001010#blind_one hand normal 2
+128001020#blind_one hand normal 3
+128001100#Blinds_One-hand charge 1
+128001110#Blinds_One-hand charge 2
+128001200#Blinds_Two hands normal 1
+128001210#Blinds_Two hands normal 2
+128001220#Blinds_Two hands normal 3
+128001300#Blinds_Two hands charge 1
+128001310#Blinds_Two hands charge 2
+128001400#Blind_left hand
+128001410#Blinds_One hand close range
+128001420#Blinds_both hands close range
+128001421#Blind_Short range_Second shot common
+128001430#Blinds_Guard_One hand
+128001440#Blinds_guard_both hands
+128001450#Blinds_Parry
+128001500#Blind behind
+128001510#blind_after parry
+128001520#blind_one hand dash
+128001530#blinds_both hands dash
+128001540#Blind_One hand step forward
+128001580#Blinds_Both hands before step
+128001600#Blind_Parry Guard
+129000000#Sword_one hand normal 1
+129000010#Sword_One-handed normal 2
+129000020#Katana_one hand normal 3
+129000100#Sword_One-hand charge 1
+129000110#Sword_One-hand charge 2
+129000200#Sword_Two-handed normal 1
+129000210#Sword_Two-handed normal 2
+129000220#Katana_Two hands normal 3
+129000300#Sword_Two-handed charge 1
+129000310#Sword_Two hands charge 2
+129000400#Sword_left hand
+129000410#Sword_One hand close range
+129000420#Sword_Both hands close range
+129000430#Sword_guard_one hand
+129000440#Sword_guard_both hands
+129000450#Sword_Parry
+129000500#Sword_behind
+129000510#Sword_after parry
+129000520#Sword_one hand dash
+129000530#Sword_Two-handed dash
+129000540#Katana_One hand step before
+129000580#Sword_Both hands before step
+129000600#Sword_Parry Guard
+130000000#axe_one hand normal 1
+130000010#Ax_One-handed normal 2
+130000020#Axe_one hand normal 3
+130000100#Axe_One hand charge 1
+130000110#Ax_One-hand charge 2
+130000200#Ax_Two-HandedNormal 1
+130000210#Ax_Two hands normal 2
+130000220#Ax_Two-HandedNormal 3
+130000300#Ax_Two-Handed Charge 1
+130000310#Ax_Two hands charge 2
+130000400#axe_left hand
+130000410#Axe_one hand close range
+130000420#Ax_Two-handed close range
+130000430#Ax_Guard_One hand
+130000440#Ax_Guard_Both hands
+130000450#Ax_Parry
+130000500#Ax_behind
+130000510#axe_after parry
+130000520#Ax_one hand dash
+130000530#Ax_Two-handed dash
+130000540#Ax_One hand step forward
+130000580#Ax_Both hands before step
+130000600#Ax_Parry Guard
+132000000#Big ax_one hand normal 1
+132000010#Big ax_One hand normal 2
+132000020#Big ax_one hand normal 3
+132000100#Big ax_One-hand charge 1
+132000101#Big ax_One-hand charge 1_Around (small)
+132000110#Big ax_One-hand charge 2
+132000200#Big ax_Two hands normal 1
+132000210#Big ax_Two hands normal 2
+132000220#Big ax_Two hands normal 3
+132000300#Big ax_Two hands charge 1
+132000301#Big ax_Two-handed charge 1_Around
+132000310#Big ax_Two hands charge 2
+132000400#Big ax_left hand
+132000410#Big ax_one hand close range
+132000420#Big ax_both hands close range
+132000430#Big ax_guard_one hand
+132000440#Big ax_guard_both hands
+132000450#Big ax_Parry
+132000500#Big ax_behind
+132000510#Big ax_after parry
+132000520#Big ax_one hand dash
+132000530#Big ax_Two-handed dash
+132000540#Big ax_One hand step forward
+132000580#Big ax_Both hands before step
+132000600#Big Ax_Parry Guard
+133000000#hammer_one hand normal 1
+133000010#hammer_one hand normal 2
+133000020#hammer_one hand normal 3
+133000100#hammer_one hand charge 1
+133000110#hammer_one hand charge 2
+133000200#Hammer_Two hands normal 1
+133000210#hammer_both hands normal 2
+133000220#hammer_both hands normal 3
+133000300#hammer_both hands charge 1
+133000310#hammer_two-handed charge 2
+133000400#hammer_left hand
+133000410#Hammer_One hand close range
+133000420#Hammer_Both hands close range
+133000430#hammer_guard_one hand
+133000440#hammer_guard_both hands
+133000450#hammer_parry
+133000500#hammer_behind
+133000510#hammer_after parry
+133000520#hammer_one-handed dash
+133000530#hammer_two-handed dash
+133000540#hammer_before one hand step
+133000580#Hammer_Both hands before step
+133000600#Hammer_Parry Guard
+133001000#Hammer_one hand normal 1_for piercing
+133001010#Hammer_one hand normal 2_for piercing
+133001020#Hammer_one hand normal 3_for piercing
+133001100#Hammer_One hand charge 1_For piercing
+133001110#Hammer_One hand charge 2_For piercing
+133001200#Hammer_Two hands Normal 1_For piercing
+133001210#Hammer_Two hands Normal 2_For piercing
+133001220#Hammer_Two hands normal 3_For piercing
+133001300#Hammer_Two hands charge 1_For piercing
+133001310#Hammer_Two hands charge 2_For piercing
+133001400#Hammer_Left hand_For piercing
+133001410#Hammer_One hand close range_For piercing
+133001420#Hammer_Both Hands Close Range_For Thrusting
+133001430#hammer_guard_one hand_for piercing
+133001440#Hammer_Guard_Both hands_For piercing
+133001450#hammer_parry_for piercing
+133001500#Hammer_back_for piercing
+133001510#hammer_after parry_for piercing
+133001520#Hammer_One-handed dash_For piercing
+133001530#Hammer_Two-handed dash_For piercing
+133001540#Hammer_For one hand step_For piercing
+133001580#Hammer_Both hands before step_For piercing
+133001600#Hammer_Parry guard_For piercing
+133002000#Hammer_One hand normal 1_For wood
+133002010#Hammer_One hand normal 2_For wood
+133002020#hammer_one hand normal 3_for wood
+133002100#Hammer_One-handed charge 1_For wood
+133002110#Hammer_One-handed charge 2_For wood
+133002200#Hammer_Two Hands Normal 1_For wood
+133002210#Hammer_Two hands normal 2_For wood
+133002220#Hammer_Two hands normal 3_For wood
+133002300#Hammer_Two hands charge 1_For wood
+133002310#Hammer_Two hands 2_For wood
+133002400#Hammer_Left hand_For wood
+133002410#Miller_One hand close range_For wood
+133002420#Hammer_Both Hands Close Range_For Wooden
+133002430#hammer_guard_one hand_for wood
+133002440#Hammer_Guard_Both hands_For wooden
+133002450#Hammer_Parry_For wood
+133002500#Hammer_back_for wood
+133002510#hammer_after parry_for wood
+133002520#hammer_one hand dash_for wood
+133002530#Hammer_Two-handed dash_For wood
+133002540#Hammer_In front of one-handed step_For wood
+133002580#Hammer_Both hands before step_For wood
+133002600#Hammer_Parry Guard_For wood
+135000000#Sledgehammer_One hand normal 1
+135000010#Sledgehammer_One hand normal 2
+135000020#Sledgehammer_One hand Normal 3
+135000100#Sledgehammer_One-hand charge 1
+135000101#Big mallet_one hand charge 1_around (small)
+135000110#Sledgehammer_One-hand charge 2
+135000200#Sledgehammer_Two hands normal 1
+135000210#Sledgehammer_Two hands Normal 2
+135000220#Sledgehammer_Two hands normal 3
+135000300#Sledgehammer_Two hands charge 1_Center
+135000301#Big mallet_Two hands charge 1_Around
+135000310#Sledgehammer_Two hands charge 2
+135000400#Hammer_left hand
+135000410#Sledgehammer_One hand close range
+135000420#Sledgehammer_Both hands close range
+135000430#Sledgehammer_Guard_One hand
+135000440#Sledgehammer_Guard_Both hands
+135000450#Sledgehammer_Parry
+135000500#Sledgehammer_behind
+135000510#Otsuchi_after parry
+135000520#Sledgehammer_one-handed dash
+135000530#Sledgehammer_Two-handed dash
+135000540#Otsuchi_One hand step before
+135000580#Otsuchi_Both hands before step
+135000600#Otsuchi_Parry Guard
+135001000#Large mallet_one hand normal 1_for wood
+135001010#Large mallet_one hand normal 2_for wood
+135001020#Large mallet_one hand normal 3_for wood
+135001100#Big mallet_one hand charge 1_for wood
+135001101#Big mallet_One hand charge 1_Periphery (small)_For wood
+135001110#Sledgehammer_One hand charge 2_For wood
+135001200#Large mallet_both hands normal 1_for wood
+135001210#Large mallet_Two hands Normal 2_For wood
+135001220#Large mallet_two hands normal 3_for wood
+135001300#Large mallet_Two hands 1_Center_For wood
+135001301#Large mallet_Two hands charge 1_Periphery_For wood
+135001310#Large mallet_Two hands 2_For wood
+135001400#Large mallet_left hand_for wood
+135001410#Sledgehammer_One hand close range_For wood
+135001420#Large mallet_both hands close range_for wooden
+135001430#Sledgehammer_Guard_One hand_For wooden
+135001440#Large mallet_guard_both hands_for wooden
+135001450#Sledgehammer_Parry_For wood
+135001500#Sledgehammer_back_for wood
+135001510#Sledgehammer_after parry_for wood
+135001520#Sledgehammer_one-handed dash_for wooden
+135001530#Sledgehammer_Two-handed Dash_For wooden
+135001540#Big mallet_In front of one hand step_For wooden
+135001580#Large mallet_front of both hands step_for wood
+135001600#Sledgehammer_Parry Guard_For wooden
+135002000#Meat cleaver_one hand normal 1
+135002010#Meat cleaver_one hand normal 2
+135002020#Meat cutting knife_one hand normal 3
+135002100#Meat slicing knife_One-hand charge 1
+135002101#Meat slicing knife_one hand charge 1_around (small)
+135002110#Meat slicing knife_One-hand charge 2
+135002200#Meat cleaver_both hands normal 1
+135002210#Meat cleaver_both hands normal 2
+135002220#Meat cutting knife_both hands normal 3
+135002300#Meat slicing knife_Both hands charge 1_Center
+135002301#Meat slicing knife_Both hands charge 1_Periphery
+135002310#Meat cutting knife_Two hands charge 2
+135002400#Meat cutting knife_left hand
+135002410#Meat slicing knife_one hand close range
+135002420#Meat slicing knife_both hands close range
+135002430#Meat cutting knife_guard_one hand
+135002440#Meat cutting knife_guard_both hands
+135002450#Meat cutting knife_Parry
+135002500#Meat cleaver_behind
+135002510#Meat cutting knife_after parrying
+135002520#Meat cutting knife_one hand dash
+135002530#Meat cleaver_two-handed dash
+135002540#Meat slicing knife_before one hand step
+135002580#Meat slicing knife_front of both hands step
+135002600#Meat cutting knife_Parry guard
+136000000#Spear_One hand normal 1
+136000010#Spear_One hand normal 2
+136000020#Spear_One hand normal 3
+136000100#Spear_One-hand charge 1
+136000110#Spear_One-hand charge 2
+136000200#Spear_Two hands normal 1
+136000210#Spear_Two hands normal 2
+136000220#Spear_Two hands normal 3
+136000300#Spear_Two hands charge 1
+136000310#Spear_Two hands charge 2
+136000400#Spear_left hand
+136000410#Spear_One hand close range
+136000420#Spear_Both hands close range
+136000430#Spear_Guard_One hand
+136000440#spear_guard_both hands
+136000450#Spear_Parry
+136000460#Spear_Medium guard attack
+136000500#Spear_behind
+136000510#spear_after parry
+136000520#Spear_one-handed dash
+136000530#Spear_Two-handed dash
+136000540#Spear_One hand step forward
+136000580#Spear_Both hands before step
+136000600#Spear_Parry Guard
+138000000#Pod-shaped_one-hand normal 1
+138000010#Pod-shaped_one-hand normal 2
+138000020#Pod-shaped_one hand normal 3
+138000100#Pod _One-hand charge 1
+138000110#Pod-shaped_One-hand charge 2
+138000200#Pole_Both hands normal 1
+138000210#Pole_Both hands normal 2
+138000220#Pole_Both hands normal 3
+138000300#Pod-shaped_Two hands charge 1
+138000310#Pole_Two hands charge 2
+138000400#Pod-shaped left hand
+138000410#Pod shape_one hand close range
+138000420#Pole _Both hands close range
+138000430#Pole_Guard_One hand
+138000440#Pole_Guard_Both hands
+138000450#Pod-shaped_Parry
+138000500#Pod-like_behind
+138000510#Pod shape_After parrying
+138000520#Pole_One-handed dash
+138000530#Pod-shaped _ two-handed dash
+138000540#Pod shape_One hand step forward
+138000580#Pole_Both hands before step
+138000600#Pod-shaped_Parry Guard
+138001000#size_one hand normal 1
+138001010#size_one hand normal 2
+138001020#Size_one hand normal 3
+138001100#Size_One-hand charge 1
+138001110#Size_One-hand charge 2
+138001200#size_both hands normal 1
+138001210#size_both hands normal 2
+138001220#size_both hands normal 3
+138001300#Size_Two hands charge 1
+138001310#Size_Two hands charge 2
+138001400#size_left hand
+138001410#Size_One hand close range
+138001420#size_both hands close range
+138001430#Size_Guard_One hand
+138001440#Size_Guard_Both hands
+138001450#Size_Parry
+138001500#size_back
+138001510#size_after parry
+138001520#Size_one hand dash
+138001530#size_both hands dash
+138001540#size_one hand step front
+138001580#Size_Both hands before step
+138001600#Size_Parry Guard
+138002000#Lucerne_One hand normal 1
+138002010#Lucerne_One hand normal 2
+138002020#Lucerne_One hand normal 3
+138002100#Lucerne_one-hand charge 1
+138002110#Lucerne_One-hand charge 2
+138002200#Lucerne_Two hands normal 1
+138002210#Lucerne_Two hands normal 2
+138002220#Lucerne_Two hands normal 3
+138002300#Lucerne_Two hands charge 1
+138002310#Lucerne_Two hands charge 2
+138002400#Lucerne_left hand
+138002410#Lucerne_One hand close range
+138002420#Lucerne_Both hands close range
+138002430#Lucerne_guard_one hand
+138002440#Lucerne_guard_both hands
+138002450#Lucerne_Parry
+138002500#Luzern_behind
+138002510#Lucerne_after parry
+138002520#Lucerne_one-handed dash
+138002530#Lucerne_Two-handed dash
+138002540#Luzern_One hand step before
+138002580#Luzern_Both hands before step
+138002600#Lucerne_Parryguard
+141000000#catalyst_one hand normal 1
+141000010#catalyst_one hand normal 2
+141000020#catalyst_one hand normal 3
+141000100#catalyst_one hand charge 1
+141000110#Catalyst_One-hand charge 2
+141000200#catalyst_both hands normal 1
+141000210#catalyst_both hands normal 2
+141000220#catalyst_both hands normal 3
+141000300#Catalyst_Two hands charge 1
+141000310#Catalyst_Two hands charge 2
+141000400#catalyst_left hand
+141000410#Catalyst_One hand close range
+141000420#Catalyst_Both hands close range
+141000430#catalyst_guard_one hand
+141000440#catalyst_guard_both hands
+141000450#Catalyst_Parry
+141000500#catalyst_behind
+141000510#catalyst_after parry
+141000520#Catalyst_One-handed dash
+141000530#catalyst_two-handed dash
+141000540#Catalyst_One hand step before
+141000580#Catalyst_Both hands before step
+141001000#catalyst_one hand normal 1
+141001010#catalyst_one hand normal 2
+141001020#catalyst_one hand normal 3
+141001100#catalyst_one hand charge 1
+141001110#Catalyst_One-hand charge 2
+141001200#catalyst_both hands normal 1
+141001210#catalyst_both hands normal 2
+141001220#catalyst_both hands normal 3
+141001300#Catalyst_Two hands charge 1
+141001310#Catalyst_Two hands charge 2
+141001400#catalyst_left hand
+141001410#Catalyst_One hand close range
+141001420#catalyst_both hands close range
+141001430#catalyst_guard_one hand
+141001440#catalyst_guard_both hands
+141001450#Catalyst_Parry
+141001500#catalyst_behind
+141001510#catalyst_after parry
+141001520#Catalyst_One-handed dash
+141001530#Catalyst_Dash with both hands
+141001540#Catalyst_One hand step before
+141001580#Catalyst_Both hands before step
+142000000#Fist_One hand normal 1
+142000010#Fist_One hand normal 2
+142000020#Fist_One hand normal 3
+142000100#Fist_One hand charge 1
+142000110#Fist_One hand charge 2
+142000200#Fist_Both hands normal
+142000300#Fist_Both hands
+142000400#Fist_left hand
+142000410#Fist_One hand close range
+142000420#Fist_both hands close range
+142000430#Fist_Guard_One hand
+142000440#Fist_Guard_Both hands
+142000450#Fist_Parry
+142000500#Fist_behind
+142000510#Fist_after parry
+142000520#Fist_one hand dash
+142000530#Fist_Both hands dash
+142000540#Fist_One hand step before
+142000580#Fist_Both hands before step
+142000600#Fist_Parry Guard
+142001000#Fist_one hand normal 1_meat
+142001010#Fist_one hand normal 2_meat
+142001020#Fist_one hand normal 3_meat
+142001100#Fist_One hand Charge 1_Meat
+142001110#Fist_One hand charge 2_Meat
+142001200#Fist_both hands normal_flesh
+142001300#Fist_Both hands_Meat
+142001400#Fist_left hand_flesh
+142001410#Fist_One hand close range_Meat
+142001420#Fist_both hands close_flesh
+142001430#Fist_guard_one hand_meat
+142001440#Fist_guard_both hands_flesh
+142001450#Fist_Parry_Meat
+142001500#Fist_back_meat
+142001510#Fist_after parry_meat
+142001520#Fist_one hand dash_meat
+142001530#Fist_Dash_Meat
+142001540#Fist_Before one hand step_Meat
+142001580#Fist_Both hands before step_Meat
+142001600#Fist_Parry Guard_Meat
+142002000#Fist_one hand normal 1_slash
+142002010#Fist_One hand normal 2_Slash
+142002020#Fist_One-handed Normal 3_Slash
+142002100#Fist_One hand charge 1_Slash
+142002110#Fist_One hand charge 2_Slash
+142002200#Fist_Two-Handed Normal_Slash
+142002300#Fist_Two-handed charge_Slash
+142002400#Fist_left hand_slash
+142002410#Fist_One hand close range_Slash
+142002420#Fist_Both Hands Short Range_Slash
+142002430#Fist_Guard_One hand_Slash
+142002440#Fist_Guard_Both hands_Slash
+142002450#Fist_Parry_Slash
+142002500#Fist_back_slash
+142002510#Fist_after parry_slash
+142002520#Fist_one-handed dash_slash
+142002530#Fist_Two-handed dash_Slash
+142002540#Fist_Before one hand step_Slash
+142002580#Fist_Both hands before step_Slash
+142002600#Fist_Parry Guard_Slash
+142010000#God hand_one hand normal 1
+142010010#God hand_one hand normal 2
+142010020#God hand_one hand normal 3
+142010100#God hand_one hand charge 1
+142010110#God hand_one hand charge 2
+142010200#Godhand_Two hands normal
+142010300#Godhand_Two hands charge
+142010400#God hand_left hand
+142010410#God hand_one hand close range
+142010420#God hand_both hands close range
+142010430#God hand_guard_one hand
+142010440#God hand_guard_both hands
+142010450#Godhand_Parry
+142010500#God Hand_Behind
+142010510#God hand_after parry
+142010520#Godhand_one hand dash
+142010530#Godhand_Dash with both hands
+142010540#God Hand_Before one hand step
+142010580#God hand_Both hands before step
+142010600#God Hand_Parry Guard
+144000000#Bow_one hand normal
+144000100#Bow_one-hand charge
+144000200#Bow_Two hands normal
+144000300#Bow_Two hands charge
+144000400#Bow_left hand
+144000410#Bow_One hand close range
+144000420#Bow_both hands close range
+144000430#Bow_Guard_One hand
+144000440#Bow_Guard_Both hands
+144000450#Bow_Parry
+144000500#Bow behind
+144000510#Bow after parry
+144000520#Bow_one-handed dash
+144000530#Bow_both hands dash
+144000540#Bow_One hand step before
+144000580#Bow_Both hands before step
+144000600#Bow_Parry Guard
+146000000#Crossbow_One hand normal
+146000100#Crossbow
+146000200#Crossbow_Two hands normal
+146000300#Crossbow
+146000400#Crossbow left hand
+146000410#Crossbow_One hand close range
+146000420#Crossbow_both hands close range
+146000430#Crossbow_Guard_One hand
+146000440#Crossbow_Guard_Both hands
+146000450#Crossbow_Parry
+146000500#Crossbow behind
+146000510#Crossbow after parry
+146000520#Crossbow_one-handed dash
+146000530#Crossbow_Two-handed dash
+146000540#Crossbow_One hand step before
+146000580#Crossbow_Both hands before step
+146000600#Crossbow_Parry Guard
+147000000#Large shield_One-hand normal 1
+147000010#Large shield_One-hand normal 2
+147000020#Large shield_One-hand normal 3
+147000100#Large Shield_One Hand Charge 1
+147000110#Large shield_One-hand charge 2
+147000200#Large Shield_Two Hands Normal 1
+147000210#Large Shield_Two Hands Normal 2
+147000220#Large Shield_Two Hands Normal 3
+147000300#Large Shield_Both Hands Charge 1
+147000301#Large shield_Two-handed charge 1_Range
+147000310#Large Shield_Two hands charge 2
+147000400#Large shield_left hand
+147000410#Large shield_One-handed close range
+147000420#Large shield_both hands close range
+147000430#Large shield_guard_one hand
+147000440#Large shield_guard_both hands
+147000450#Large Shield_Parry
+147000500#Large shield_behind
+147000510#Large shield_after parry
+147000520#Large shield_one hand dash
+147000530#Large shield_Dash with both hands
+147000540#Large shield_One hand step forward
+147000580#Large shield_Both hands step front
+147000600#Large Shield_Parry Guard
+147001000#Large Shield_One-handed Normal 1_For wooden
+147001010#Large shield_One-handed normal 2_For wooden
+147001020#Large shield_One-handed normal 3_For wooden
+147001100#Large shield_One-handed charge 1_For wooden
+147001110#Large Shield_One Hand Charge 2_For Wooden
+147001200#Large Shield_Two Hands Normal 1_For wooden
+147001210#Large Shield_Two Hands Normal 2_For wooden
+147001220#Large Shield_Two Hands Normal 3_For Wooden
+147001300#Large shield_Two-handed charge 1_For wood
+147001301#Large shield_Two-handed charge 1_Range_For wood
+147001310#Large shield_Two-handed charge 2_For wooden
+147001400#Large shield_left hand_wooden
+147001410#Large Shield_One Hand Close Range_For Wooden
+147001420#Large Shield_Both Hands Short Range_For Wooden
+147001430#Large shield_guard_one hand_wooden
+147001440#Large shield_guard_both hands_wooden
+147001450#Large Shield_Parry_For wooden
+147001500#Large shield_back_wooden
+147001510#Large shield_after parry_for wooden
+147001520#Large Shield_One Hand Dash_For Wooden
+147001530#Large shield_Two-handed dash_For wooden
+147001540#Large shield_One-handed step front_For wooden
+147001580#Large Shield_Both Hands Before Step_For Wooden
+147001600#Large Shield_Parry Guard_For wooden
+148000000#small shield_one hand normal 1
+148000010#small shield_one hand normal 2
+148000020#Small shield_one hand normal 3
+148000100#small shield_one hand charge 1
+148000110#small shield_one hand charge 2
+148000200#small shield_both hands normal 1
+148000210#small shield_both hands normal 2
+148000220#small shield_both hands normal 3
+148000300#small shield_two-handed charge 1
+148000310#Small shield_Two hands charge 2
+148000400#Small shield_left hand
+148000410#Small shield_one hand close range
+148000420#Small shield_both hands close range
+148000430#Small shield_guard_one hand
+148000440#Small shield_guard_both hands
+148000450#Small shield_Parry
+148000500#Small shield_behind
+148000510#Small shield_after parry
+148000520#Small shield_One-handed dash
+148000530#Small shield_Two-handed dash
+148000540#Small shield_One hand step forward
+148000580#Small shield_Both hands before step
+148000600#Small shield_Parry guard
+148001000#small shield_one hand normal 1_for wooden
+148001010#Small shield_one hand normal 2_for wooden
+148001020#Small shield_one hand normal 3_for wooden
+148001100#Small shield_One hand charge 1_For wood
+148001110#Small shield_One hand charge 2_For wood
+148001200#Small shield_Two hands normal 1_For wooden
+148001210#Small shield_Two-handed normal 2_For wooden
+148001220#Small shield_two-handed normal 3_for wooden
+148001300#Small shield_Two-handed charge 1_For wooden
+148001310#Small shield_Two hands charge 2_For wood
+148001400#Small shield_left hand_wooden
+148001410#Small shield_one hand close range_wooden
+148001420#Small shield_Both hands close range_For wooden
+148001430#Small shield_guard_one hand_wooden
+148001440#Small shield_guard_both hands_wooden
+148001450#Small Shield_Parry_For wooden
+148001500#Small shield_back_wooden
+148001510#Small shield_after parry_for wooden
+148001520#Small shield_one hand dash_for wooden
+148001530#Small shield_Two-handed dash_For wooden
+148001540#small shield_one hand step front_wooden
+148001580#Small shield_Both hands front step_For wooden
+148001600#Small Shield_Parry Guard_For wooden
+148002000#Spike Shield_One hand normal 1
+148002010#Spike Shield_One-Hand Normal 2
+148002020#Spike Shield_One-Hand Normal 3
+148002100#Spike Shield_One Hand Charge 1
+148002110#Spike Shield_One Hand Charge 2
+148002200#Spike Shield_Two hands normal 1
+148002210#Spike Shield_Two hands normal 2
+148002220#Spike Shield_Both hands normal 3
+148002300#Spike Shield_Two hands charge 1
+148002310#Spike Shield_Two hands charge 2
+148002400#Spike shield_left hand
+148002410#Spike Shield_One hand close range
+148002420#Spike Shield_Both hands close range
+148002430#Spike shield_guard_one hand
+148002440#Spike shield_guard_both hands
+148002450#Spike Shield_Parry
+148002500#Spike Shield_Behind
+148002510#Spike shield_after parry
+148002520#Spike Shield_One hand dash
+148002530#Spike shield_both hands dash
+148002540#Spike Shield_Before one hand step
+148002580#Spike Shield_Both hands before step
+148002600#Spike Shield_Parry Guard
+190000300#Normal arrow
+190001300#Strong arrow
+190002300#Long-distance arrow
+190003300#precision arrow
+190004300#fire arrows
+190005300#poison arrow
+190006300#Kaburaya
+190007300#special arrows
+190008300#cheap arrows
+191000300#Common thick arrow
+191001300#Fast arrow with high attack power
+191002300#dangerous thick arrow
+191003300#Cheap heavy arrow

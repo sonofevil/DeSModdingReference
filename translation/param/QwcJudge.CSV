@@ -1,0 +1,74 @@
+ID#Name
+0#for testing
+1000#Enemies become stronger (LV1)↑
+1001#Enemies become stronger (LV2)↑
+1002#Enemies become stronger (LV3)↑
+1100#Enemy weakens (LV1)↓
+1101#Enemy weakens (LV2)↓
+1102#Enemy weakens (LV3)↓
+1103#Release enemy area change
+1200#Get more souls (LV1)↑
+1201#Get more souls (LV2)↑
+1202#Get more souls (LV3)↑
+1300#Less souls available (LV1)↓
+1301#Less souls available (LV2)↓
+1302#Less souls available (LV3)↓
+1400#Items dropped by enemies change
+1500#Gray ghost becomes stronger (LV1)↑
+1501#Gray ghost becomes stronger (LV2)↑
+1600#Gray Ghost becomes weaker (LV1)↓
+1601#Gray ghost weakens (LV2)↓
+1602#Release Gray Ghost area change
+1700#Black Ghost becomes stronger (LV1)↑
+1701#Black Ghost becomes stronger (LV2)↑
+1702#Release Black Ghost area change
+1800#Multi white ghost becomes stronger (LV1) ↑
+1801#Increase White Ghost in Multi (LV2)↑
+1802#Release the area change of white ghost in multi
+1900#Additional treasure corpses appear (LV1)
+1901#Additional treasure corpses appear (LV2)
+2000#Gray ghost becomes stronger (LV1)
+2001#Gray ghost becomes stronger (LV2)
+2100#Gray ghost weakens (LV1)
+2101#Gray ghost weakens (LV2)
+2102#Release Gray Ghost's player transformation
+2200#Black Ghost becomes stronger (LV1)
+2201#Black Ghost becomes stronger (LV2)
+2202#Release Black Ghost's player transformation
+2300#Multi white ghost becomes stronger (LV1)
+2301#Increases White Ghost in Multi (LV2)
+2302#Remove white ghost player change in multiplayer
+10100#Saint Urbain becomes cold
+10200#God's Follower Part 2 Becomes Cold
+10300#Sage Logan becomes cold
+10400#The witch becomes cold
+10500#VIPs want to give rings
+10600#Mephistopheles makes me want to appear
+20100#Enemy black ghost appears
+20200#Ore spirit appears
+20300#Condemned Miralda's black ghost appears
+20400#The wyvern is gone
+20500#Miralda the convict appears
+20600#The execution ground door is open
+30100#Enemy black ghost appears
+30110#Ore spirit appears
+30120#Master Satsuki's black ghost appears
+30130#Master Satsuki appears
+30140#"Makoto" treasure corpse becomes available
+40100#Enemy black ghost appears
+40110#Ore spirit appears
+40120#Villaidel's black ghost appears
+40130#Rubble disappears
+40140#The key to the 2nd floor of the prison castle appears
+40150#appearance of iron plate
+50100#Enemy black ghost appears
+50110#Ore spirit appears
+50120#Selenium's black ghost appears
+50130#Selenium appears
+50140#Gold Run Black Ghost Appearance
+50150#Unclean Ladder
+60100#Enemy black ghost appears
+60110#Ore spirit appears
+60120#Wanderer Half-hand black ghost appears
+60130#Wanderer Half Hand Appears
+60140#Be able to go to fixed treasure dragon bone crushing place

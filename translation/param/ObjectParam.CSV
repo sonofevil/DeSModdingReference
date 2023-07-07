@@ -1,0 +1,704 @@
+ID#Name
+0#Barista
+1#arrow
+2#Wooden【2】
+10#boxes
+100#Skeleton [Pattern 1]
+101#Skeleton [Pattern 2]
+102#Skeleton [Pattern 3]
+103#skeleton [pattern 4]
+104#candelabra (large)
+105#Barrel
+106#wooden box
+107#Shield
+108#broken broadsword
+109#broken sword
+110#candelabra (small)
+111#arrow
+120#Stone statue
+121#Stone statue after destruction [Pattern 1]
+122#Stone statue after destruction [Pattern 2]
+123#Stone statue after destruction [Pattern 3]
+124#rock
+125#rock
+126#Skull
+130#Stone Pillar (Bottom)
+131#Stone Pillar (Top)
+140#gunpowder barrel
+141#gunpowder barrel
+200#brick rubble
+201#chain meat A
+202#chain meat B
+205#chain
+206#chain
+207#chain
+210#switch
+211#switch door
+212#exit door
+220#Collapsing Arch A
+221#Collapsed Arch B
+222#collapsing pillar
+223#Collapsing Arch C
+224#Collapsed Ceiling
+225#collapsed ceiling
+230#after collapse arch collapse
+231#after collapse arch collapse
+240#Equipment
+241#Equipment
+242#Equipment
+250#Lantern
+500#Treasure Corpse (Normal)
+501#keystone (provisional)
+502#treasure corpse (warrior weight)
+503#Treasure Corpse (Light Cleric)
+504#treasure corpse (warrior weight) arrow
+1000#Keystone
+1010#Keystone
+1020#Keystone
+1030#Keystone
+1040#Keystone
+1050#Keystone
+1100#Diffusion Mono [Last Boss]
+1101#bird flock
+1102#VIP OBJ
+1200#wooden door
+1201#wooden door
+1400#Stump
+1401#tree branch
+1402#heroine corpse OBJ
+1403#The sword stuck in the heroine
+1450#magic square
+1500#wall of light
+1600#Merchant set 1
+1601#Merchant set 2
+1602#Merchant set 3
+1603#Merchant set 4
+1604#Merchant set 5
+1605#Merchant set 6
+1606#Merchant set 7
+1607#Merchant set 8
+1608#Merchant set 9
+1609#Merchant set 10
+1610#Merchant set 11
+1611#Merchant set 12
+1612#Merchant set 13
+1613#Merchant set 14
+1614#Merchant set 15
+1615#Merchant set 16
+1616#merchant set 17
+1617#Merchant set 18
+1618#Merchant set 19
+2000#Flags
+2001#
+2010#Spear of the Phalanx
+2020#
+2030#
+2040#Rendor's sword
+2051#Destroy Object
+2060#floating corpse
+2100#Hut
+2110#chains for hanging corpses
+2120#Rumble Cannonball Container
+2121#iron ball
+2122#Iron ball single item
+2150#Hut
+2160#Gear Karakuri
+2170#The door the enemy opens
+2180#The door to the execution ground
+2190#burning door
+2191#Mausoleum door
+2195#Soldier Corpse
+2201#corpse
+2211#Lever (Switch)
+2221#Lever compatible door (front)
+2231#The door to the inside of the castle
+2241#lever compatible door (right)
+2251#lever compatible door (left)
+2261#door (kicking)
+2271#ladder
+2280#Large varistor [base]
+2281#Large Varistor [Body]
+2282#Large Varistor [Launcher]
+2290#Iron Ball Destruction Wooden Board
+2291#Iron Ball Breaking Wooden Board
+2300#Castle fence
+2303#Mechanical stairs
+2304#Dog carriage
+2317#blood pool
+2318#Broken tree bump
+2320#falling straw
+2321#Iron fence door (for sub-event)
+2322#Falling Carriage
+2323#straw doll
+2324#Falling straw (single item)
+2325#Fence destroyed
+2326#Falling straw (single item)
+2328#Crate and barrel
+2330#Masonry of boss room (sword holder)
+2331#Boss Room Masonry (Shield Holder)
+2400#shelf [with luggage Ver.1]
+2401#Shelves [With Luggage Ver.2]
+2402#Shelf [with luggage Ver.3]
+2403#Wine Rack
+2404#Wine cellar
+2405#With desk and chair [With luggage Ver.1]
+2406#With desk and chair [With luggage Ver.2]
+2407#With desk and chair [With luggage Ver.3]
+2408#With desk and chair [with luggage Ver.4]
+2410#Cart [with luggage Ver.1]
+2411#Cart [with luggage Ver.2]
+2412#Cart [with luggage Ver.3]
+2413#cart [no luggage]
+2414#Cart [no luggage]
+2420#Sword stand
+2421#Bed
+2422#Dresser
+2423#Desk
+2424#table
+2425#Weapon stand A
+2426#Weapon Stand B
+2427#luxury chair
+2428#small box A
+2429#small box B
+2430#Seat
+2431#settee
+2432#arrow protection
+2433#broken arrow
+2434#broken cart
+2435#broken cart
+2440#King's Chamber Rubble
+2441#King's Chamber Rubble
+2442#King's Chamber Rubble
+2443#King's Chamber Rubble
+2444#King's Chamber Rubble
+2445#King's Chamber Rubble
+2446#King's Chamber Rubble
+2447#King's Chamber Rubble
+2448#King's Chamber Rubble
+2449#King's room rubble
+2450#Flags
+2451#Flag
+2452#Flags
+2455#slave soldier
+2456#Gear
+2460#Royal Castle 4 Before terrain destruction
+2461#Royal Castle 4 Destroying terrain
+2462#Royal castle 4 After terrain destruction
+2470#Royal castle 4 Before tower destruction
+2471#Royal Castle 4 Tower Destroyed
+2472#Royal castle 4 After tower destruction
+2480#Ojo Gondola
+2490#Horse
+2501#keystone (provisional)
+2511#Boss room magic barrier (entrance)
+2513#Magical Barrier for Boss Room (Exit)
+2515#Magic Barrier for Multi (Entrance)
+2521#Magic Barrier for Boss Room (Entrance)
+2523#Magic Barrier for Boss Room (Exit)
+2525#Magic Barrier for Multi (Entrance)
+2531#Boss room magic barrier (entrance)
+2533#Magic Barrier for Boss Room (Exit)
+2534#for Ojo 3
+2535#Magic Barrier for Multi (Entrance)
+2541#Magical Barrier for Boss Room (Entrance)
+2543#Magical Barrier for Boss Room (Exit)
+2545#Magic Barrier for Multi (Entrance)
+2551#Shining Fog
+2552#shining fog
+2553#shining fog
+2554#Shining fog
+2600#02_01 [Castle Underground] Door (Prison)
+2601#02_01 [Castle Underground] Door (entrance)
+2602#02_01 wooden door
+2650#Shudai
+2700#Royal Castle 1 Corpse Ladder
+2701#Ladders
+2750#King's sword statue
+2760#King's Shield Statue
+2761#King's Shield Statue
+2800#King Lendor Cloak
+2900#King's Shield Square Door
+9500#King's sword
+9509#King's Shield
+9499#Temporary character placement
+3000#
+3001#
+3010#
+3020#
+3030#
+3100#Bar Door (Double Door)
+3101#Boss room entrance door (double doors)
+3102#Boss room exit door (double doors)
+3103#Rock (SEQ9)
+3104#Boss room entrance event
+3105#Jail door
+3106#Shining fog
+3107#Shining fog
+3108#Shining fog
+3110#Ladders
+3120#Boss room collapsing floor (3rd floor)
+3121#Boss room collapsing floor (3rd floor)
+3122#Boss room collapsing floor (3rd floor)
+3123#Boss room collapsing floor (3rd floor)
+3124#Boss room collapsing floor (3rd floor)
+3125#Boss room collapsing floor (3rd floor)
+3126#Boss room collapsing floor (3rd floor)
+3127#Boss room collapsing floor (3rd floor)
+3128#Boss room collapsing floor (3rd floor)
+3129#Boss room collapsing floor (3rd floor)
+3130#Boss room collapsing floor (3rd floor)
+3131#Boss room collapsing floor (3rd floor)
+3132#Boss room collapsing floor (3rd floor)
+3140#Boss room collapsing floor (2nd floor)
+3141#Boss room collapsing floor (2nd floor)
+3142#Boss room collapsing floor (2nd floor)
+3143#Boss room collapsing floor (2nd floor)
+3144#Boss room collapsing floor (2nd floor)
+3145#Boss room collapsing floor (2nd floor)
+3146#Boss room collapsing floor (2nd floor)
+3147#Boss room crumbling floor (2nd floor)
+3148#Boss room collapsing floor (2nd floor)
+3160#Boss room broken pillar
+3200#Stone door (double door)
+3201#magic door
+3210#Door with lock
+3211#magic door
+3220#floor switch
+3221#
+3230#skeleton soldier
+3231#
+3240#Skull
+3241#
+3250#floor board
+3251#
+3260#skeleton statue
+3261#
+3270#demon statue
+3271#
+3280#skeleton statue
+3290#storm warrior
+3291#Warrior of the Storm Substitution Rubble
+3292#Storm Warrior Figurine
+3300#gravestonea
+3301#gravestoneb
+3302#gravestonec
+3303#gravestoned
+3304#gravestonee
+3305#Gravestone (extra large)
+3400#broken tree
+3410#pot A
+3411#pot B
+3412#pot C
+3413#pot D
+3414#pot E
+3415#Vase F
+3419#broken flag
+3420#Flags
+3421#Carriage major damage
+3422#Damaged Carriage A
+3423#Damaged carriage B
+3430#Large damage to wooden box
+3431#wooden box damage B
+3432#Damaged wooden box C
+3440#Barricade
+3450#Broken shelf A
+3451#Broken Shelf B
+3460#Skeleton A
+3461#skeleton B
+3462#skeleton C
+3470#broken barrel A
+3471#Barrel B
+3511#Boss room magic barrier (entrance)
+3512#Magical Barrier for Boss Room (Exit)
+3515#Magic Barrier for Multi (Entrance)
+3521#Magical Barrier for Boss Room (Entrance)
+3522#Magical Barrier for Boss Room (Exit)
+3525#Magic Barrier for Multi (Entrance)
+3531#Boss room magic barrier (entrance)
+3532#Magical Barrier for Boss Room (Exit)
+3535#Magic Barrier for Multi (Entrance)
+3998#Corpse Treasure Chest
+3999#Corpse Treasure Chest
+4000#gargoyle statue
+4001#wheel punishment [torture device]
+4002#Gargoyle statue (after destruction)
+4005#Keystone (starting point)
+4006#Prisoner corpse (handled as a chair)
+4007#Puppet Chair
+4010#Chain【Ceiling】
+4020#desk [with fixtures]
+4030#Chair
+4040#Chain [with captive]
+4050#Desk [no fixtures]
+4060#Pail
+4070#God statue [Body]
+4080#God statue [center]
+4090#God Statue [Gimmick Base]
+4100#Jail Door [Large]
+4101#Jail Door [Large]
+4110#Jail door [small]
+4120#prison door
+4130#Prison entrance/exit door
+4140#Prison guard passage door
+4141#Prison guard passage door (double opening)
+4150#Church Front Door
+4160#Church upper door
+4161#Church Upper Door
+4170#church [chair]
+4180#Church [couch] (left)
+4181#Church [couch] (center)
+4182#Church [couch] (right)
+4200#Patio Door
+4210#pot ①
+4211#pot②
+4212#pot③
+4213#Pot (after destruction) ①
+4214#pot (after destruction)②
+4215#Captive pot
+4216#Three layers of coffins
+4217#Censer
+4218#Coffin
+4220#Iron Maiden
+4221#chain of keys
+4231#Merchant Temporary Model
+4240#Shelf ①
+4241#Shelf②
+4242#Desk
+4243#small box A
+4244#small box B
+4245#Couch
+4261#
+4271#
+4300#Elevator [moving 5 floors]
+4301#Elevator [4-floor movement]
+4302#Elevator [moving 3 floors]
+4305#Air Prison (without contents)
+4306#Air prison (with contents)
+4310#iron plate
+4400#Large Chain ①
+4401#Large chain②
+4402#Large Chain③
+4403#Large Chain④
+4404#Large chain⑤
+4405#Chain after destruction①
+4406#Chain after destruction②
+4410#Pillar
+4412#poly drama pillar
+4420#flag ①
+4421#Flag②
+4422#Flag③
+4423#flag ④
+4424#Flag⑤
+4430#Boss battle space pillar
+4435#Tentacle (Thin)
+4436#tentacles (thick) ver.1
+4437#tentacles (thick) ver.2
+4438#tentacles (thick) ver.3
+4439#tentacles (thick) ver.4
+4440#tentacles (thick) ver.5
+4441#tentacles (thick) ver.6
+4442#tentacles (thick) ver.7
+4445#Winding Tentacles (Lively)
+4446#horizontal tentacles
+4511#Boss room magic barrier (entrance)
+4512#Boss room magic barrier (exit)
+4515#Magic Barrier for Multi (Entrance)
+4521#Boss room magic barrier (entrance)
+4522#Magical Barrier for Boss Room (Exit)
+4525#Magic Barrier for Multi (Entrance)
+4531#Boss room magic barrier (entrance)
+4532#Boss room magic barrier (exit)
+4535#Magic Barrier for Multi (Entrance)
+4750#Church Light from Heaven (for poly play only)
+4751#Church Light from Heaven (for poly play only)
+4600#Gorgeous chair
+4800#Chimera ball (provisional)
+4810#Chimera ball (after falling)
+4850#Okinagai
+4900#wall of light
+4901#Wall of light [for church front door]
+4910#Wall of Light [Large]
+4911#Light Wall【Small】
+4980#chain test
+4998#Elevator Test
+4999#Foundation Test
+5000#Collapsing floor (board)_1
+5001#Mouse corpse
+5002#dog corpse
+5003#deer carcass
+5010#Collapsing floor (roof)_2
+5020#Falling Itabashi_1
+5030#Falling board bridge_2
+5040#Ladder_1
+5050#Ladder_2
+5060#Ladder_3 (for Subquest)
+5070#Board on suspension bridge_1
+5080#Board on suspension bridge_2
+5090#Board on suspension bridge_3
+5100#The board on the suspension bridge_4
+5110#Burnt corpse A
+5111#Burnt corpse B
+5112#burned corpse C
+5120#tree
+5130#Stone (Large)
+5140#Stone (Medium)
+5150#Destruction OBJ_A of trees, plates, etc.
+5151#Destroy tree, plate, etc. OBJ_B
+5152#Destruction OBJ_C of trees, plates, etc.
+5153#Destruction of trees, plates, etc. OBJ_D
+5154#Destruction OBJ for shelves, bags, etc.
+5155#Ships
+5156#door
+5157#broken carriage
+5158#Wheels, crates and barrels
+5159#Broken Wooden Box
+5160#Wooden fence_A
+5161#Wooden Fence_B
+5162#Wooden fence_C
+5163#Wooden fence_D
+5164#Wooden fence_E
+5165#Wooden Fence_F
+5170#mite_moving tick
+5180#mite_swaying mite
+5190#Dick ticks that move their legs
+5200#suspension bridge_1
+5210#suspension bridge_2
+5220#suspension bridge_3
+5230#suspension bridge_4
+5240#Collapsing rubble (post)
+5250#swaying ivy
+5260#broken suspension bridge
+5270#Pebble_01
+5280#Floating board
+5290#Lump of Straw
+5300#Moonlight Sword
+5301#Ladder A [Libra area]
+5302#Ladder B [Libra area]
+5303#corpse OBJ_A
+5304#corpse OBJ_B
+5305#corpse OBJ_C
+5306#Istarel
+5400#giant corpse
+5511#Boss room magic barrier (entrance)
+5512#Boss room magic barrier (exit)
+5515#Magic Barrier for Multi (Entrance)
+5521#Boss room magic barrier (entrance)
+5522#Magical Barrier for Boss Room (Exit)
+5525#Magic Barrier for Multi (Entrance)
+5531#Boss room magic barrier (entrance)
+5532#Magical Barrier for Boss Room (Exit)
+5535#Magic Barrier for Multi (Entrance)
+5600#unclean 0_beggar woman camp set
+5601#Unclean 1_Beggar woman camp set
+5602#Unclean 1_Selenium camp set
+5700#Havok Jellyfish
+5874#Flycatcher Demon OBJ_V
+5875#Flycatcher Demon OBJ_W
+5876#Flycatcher Demon OBJ_X
+5877#Flycatcher Demon OBJ_Y
+5878#Flycatcher Demon OBJ_Z
+5879#Flycatcher Demon OBJ_A
+5880#Flycatcher Demon OBJ_B
+5881#Flycatcher Demon OBJ_C
+5882#Flycatcher Demon OBJ_D
+5883#Flycatcher Demon OBJ_E
+5884#Flycatcher Demon OBJ_F
+5885#Flycatcher Demon OBJ_G
+5886#Flycatcher Demon OBJ_H
+5887#Flycatcher Demon OBJ_I
+5888#Flycatcher Demon OBJ_J
+5889#Flycatcher Demon OBJ_K
+5890#Flycatcher Demon OBJ_L
+5891#Flycatcher Demon OBJ_M
+5892#Flycatcher Demon OBJ_N
+5893#Flycatcher Demon OBJ_O
+5894#Flycatcher Demon OBJ_P
+5895#Flycatcher Demon OBJ_Q
+5896#Flycatcher Demon OBJ_R
+5897#Flycatcher Demon OBJ_S
+5898#Flycatcher Demon OBJ_T
+5899#Flycatcher Demon OBJ_U
+5900#Leech 1 for Leech Demon
+5901#Leech 2 for Leech Demon
+5902#Leech 3 for Leech Demon
+5903#Leech 4 for Leech Demon
+5904#Hill Demon Water
+5985#Unclean02 Boss magic barrier (entrance)
+5986#Unclean 01 Boss magic barrier (entrance)
+5987#Unclean01 Boss magic barrier (exit)
+5988#Unclean01 Halfway point magic barrier (entrance)
+5989#Unclean01 Halfway point magic barrier (exit)
+5990#Unclean00 Halfway point magic barrier (entrance)
+5991#Unclean00 Waypoint magic barrier (exit)
+5993#Crow waiting
+5994#Jellyfish waiting
+5995#Crow taking flight + flapping wings
+5996#Crow flying away
+5997#Crow waiting 2
+5998#Crow waiting flight
+5999#Crow Gliding
+6000#Gear_00 Lever
+6010#Door A
+6020#Gear_01 Switch
+6030#Gear_02 Double water wheel
+6040#Gear_03 Switch
+6050#Gear_04 Operation screw
+6060#Giant water wheel
+6070#Treasure corpse A
+6080#Treasure corpse B
+6085#Treasure corpse C
+6090#Door B
+6100#Ladder_00 In front of the giant elevator
+6110#Giant Elevator
+6111#Giant Elevator
+6120#Ladder_01 Near the huge blast furnace
+6130#Gondola A
+6140#Gondola B
+6150#Various interlocking gimmicks (pseudonym)
+6160#water surface for polyplay
+6170#Water surface for polyplay (irrigation channel)
+6180#Collapsing wooden bridge
+6201#Trolley
+6203#Trolley
+6204#Trolley
+6211#Pail_D
+6212#Pail_D
+6215#wooden scaffolding A
+6216#wooden scaffolding B
+6220#Sieve
+6221#One wheel cart
+6222#Coal Crates
+6223#Pail_A
+6224#Pail_A
+6225#Pail_B
+6226#Pail_B
+6227#Pail_C
+6228#Pail_C
+6251#
+6261#spider web
+6270#Tube Worm
+6271#Tube Worm
+6272#Tube Worm
+6230#Blacksmith Chair
+6231#blacksmith desk
+6232#Blacksmith Anvil
+6233#blacksmith bucket
+6234#Blacksmith's Tool Stand (Small)
+6235#Blacksmith tool stand (large)
+6236#Blacksmith Weapon Stand①
+6237#Blacksmith Weapon Stand②
+6238#Workshop Tool Table
+6239#Two barrel ①
+6240#3 barrels②
+6241#Wooden box 2 steps②
+6242#Small box 3 steps②
+6243#beggar man set
+6244#Vase assembly
+6245#Small box 3 steps②
+6247#explosive barrel
+6250#Spider web (for hanging)
+6301#
+6350#Smelt deposit before cooling (event)
+6351#Cold Smelting Deposit (Event)
+6400#Broken Handrail A
+6401#Broken handrail B
+6402#Broken Handrail C
+6403#Broken handrail D
+6430#Broken Pillars__Before Destruction (Event)
+6431#Broken Pillars__Destructing (Event)
+6432#Broken Pillar__After Destruction__Scattered on the Floor (Event)
+6440#Rock Block Fence
+6450#Dragon Demon Destruction Pillar
+6451#Dragon Demon Destruction Pillar
+6452#Dragon Demon Destruction Pillar
+6453#Dragon Demon Destruction Pillar
+6454#Dragon Demon Destruction Pillar
+6455#Dragon Demon Destruction Pillar
+6456#Dragon Demon Destruction Pillar
+6457#Dragon Demon Destruction Pillar
+6478#Dragon Demon Destruction Pillar
+6458#Dragon Demon Destruction Pillar
+6459#Unbreakable Pillar
+6460#Pillar player destruction A
+6461#Pillar player destroyed B
+6462#Pillar player destroyed B
+6470#Dragon Demon Destruction Pillars (3)
+6471#Dragon Demon Destruction Pillar
+6472#Dragon Demon Breaking Wall
+6500#Magic Sword Gram
+6504#Half Hand Camp Set (Accessories)
+6505#Half Hand Camping Lamp
+6510#Half Hand Camp Set
+6511#Boss room magic barrier (entrance)
+6512#Magical Barrier for Boss Room (Exit)
+6515#Magic Barrier for Multi (Entrance)
+6521#Boss room magic barrier (entrance)
+6522#Magical Barrier for Boss Room (Exit)
+6525#Magic Barrier for Multi (Entrance)
+6531#Boss room magic barrier (entrance)
+6532#Magical Barrier for Boss Room (Exit)
+6535#Magic Barrier for Multi (Entrance)
+6600#wall of light checkpoint 1
+6601#wall of light checkpoint 2
+6602#wall of light checkpoint 3
+6700#injection machine
+6701#injection machine (no arrow)
+6702#injection machine (base only)
+6750#Water bear shell
+6751#Water bear shell
+6752#Earthworm shell
+6753#Earthworm shell
+6800#wall of light
+6801#wall of light
+6999#Invisible wall (temporary)
+9986#Spear of Light (old version)
+7010#Candlestick [4 sides open]
+7020#Candlestick [2 sides open]
+7511#Boss room magic barrier (entrance)
+7512#Boss room magic barrier (exit)
+7515#Magic Barrier for Multi (Entrance)
+7521#Boss room magic barrier (entrance)
+7522#Boss room magic barrier (exit)
+7525#Magic Barrier for Multi (Entrance)
+7531#Boss room magic barrier (entrance)
+7532#Boss room magic barrier (exit)
+7535#Magic Barrier for Multi (Entrance)
+7900#planaria
+8000#test objects
+8100#Ladder
+8110#magic wall
+8111#Wall of Light (Normal)
+8120#fallen pillar
+8200#ladder (10 degrees)
+9010#Forest door
+9120#Pillar 01-01
+9121#Pillar 01-02
+9122#Pillar 01-03
+9123#Pillar 02-01
+9124#Pillar 01-04
+9125#Pillar 03-01
+9140#candlestick 01-01
+9141#Candlestick02-01
+9150#Bonfire
+9160#pillar 01-05
+9400#WP_A_0250 Magic Sword
+9401#WP_A_0450 No pattern
+9402#WP_A_0251
+9499#Temporary character placement
+9500#King's sword
+9501#c3050_Gargoyle
+9502#c3100_Rock earthworm
+9503#c3020_Gray wolf
+9504#
+9505#
+9506#
+9507#
+9509#King's Shield
+9570#boss spider
+9580#ninja dragon
+9599#for character model confirmation
+9900#Weight Wizard Female
+9901#Lightweight Cleric Female
+9903#Underwear women
+9990#mipmap test model
+10000#default

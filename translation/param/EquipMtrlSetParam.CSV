@@ -1,0 +1,452 @@
+ID#Name
+0#test data
+1#test data 2
+2#test data 3
+3#test data 4
+10#Recovery of others
+11#Cursed Enchantment
+12#black ghost
+13#poison cloud
+15#Fireball
+16#fire
+17#penetrating beam
+18#Funnel
+21#High rank enchantment
+23#Death Cloud
+24#machine gun
+25#Soul Touch
+26#Corrosion Cloud
+27#Perfect Shield
+28#Meteor
+29#self-centered explosion
+30#Anti-Magic
+31#Great recovery of HP
+32#Resurrection when dead
+33#Regenerate
+34#Reanimation
+35#Abnormal status recovery
+38#black ghost retreat
+100#Hardstone_S_Level 1
+101#Hardstone_S_Level 2
+102#Hardstone_S_Level 3
+103#Hardstone_S_Level 4
+104#Hardstone_S_Level 5
+105#Hardstone_S_Level 6
+106#Hardstone_S_Level 7
+107#Hardstone_S_Level 8
+108#Hardstone_S_Level 9
+109#Hardstone_S_Level 10
+1100#Hardstone_M-S_Level 1
+1101#Hardstone_M-S_Level 2
+1102#Hardstone_M-S_Level 3
+1103#Hardstone_M-S_Level 4
+1104#Hardstone_M-S_Level 5
+1105#Hardstone_M-S_Level 6
+1106#Hardstone_M-S_Level 7
+1107#Hardstone_M-S_Level 8
+1108#Hardstone_M-S_Level 9
+1109#Hardstone_M-S_Level 10
+2100#Hardstone_M-L_Level 1
+2101#Hardstone_M-L_Level 2
+2102#Hardstone_M-L_Level 3
+2103#Hardstone_M-L_Level 4
+2104#Hardstone_M-L_Level 5
+2105#Hardstone_M-L_Level 6
+2106#Hardstone_M-L_Level 7
+2107#Hardstone_M-L_Level 8
+2108#Hardstone_M-L_Level 9
+2109#Hardstone_M-L_Level 10
+3100#Hardstone_L_Level 1
+3101#Hardstone_L_Level 2
+3102#Hardstone_L_Level 3
+3103#Hardstone_L_Level 4
+3104#Hardstone_L_Level 5
+3105#Hardstone_L_Level 6
+3106#Hardstone_L_Level 7
+3107#Hardstone_L_Level 8
+3108#Hardstone_L_Level 9
+3109#Hardstone_L_Level 10
+4100#Hardstone_XL_Level 1
+4101#Hardstone_XL_Level 2
+4102#Hardstone_XL_Level 3
+4103#Hardstone_XL_Level 4
+4104#Hardstone_XL_Level 5
+4105#Hardstone_XL_Level 6
+4106#Hardstone_XL_Level 7
+4107#Hardstone_XL_Level 8
+4108#Hardstone_XL_Level 9
+4109#Hardstone_XL_Level 10
+110#Minagi Stone_S_Level 1
+111#Minagi Stone_S_Level 2
+112#Minagi Stone_S_Level 3
+113#Minagi Stone_S_Level 4
+114#Minagiseki_S_Level 5
+1110#Minagi Stone_M-S_Level 1
+1111#Minagi Stone_M-S_Level 2
+1112#Minagi Stone_M-S_Level 3
+1113#Minagi Stone_M-S_Level 4
+1114#Minagi Stone_M-S_Level 5
+2110#Minagi Stone_M-L_Level 1
+2111#Minagi Stone_M-L_Level 2
+2112#Minagi Stone_M-L_Level 3
+2113#Minagi Stone_M-L_Level 4
+2114#Minagi Stone_M-L_Level 5
+3110#Minagi Stone_L_Level 1
+3111#Minagiseki_L_Level 2
+3112#Minagi Stone_L_Level 3
+3113#Minagiseki_L_Level 4
+3114#Minagiseki_L_Level 5
+4110#Minagiseki_XL_Level 1
+4111#Minagiseki_XL_Level 2
+4112#Minagi Stone_XL_Level 3
+4113#Minagiseki_XL_Level 4
+4114#Minagi Stone_XL_Level 5
+120#Mercury Stone_Level 1
+121#Mercury Stone_Level 2
+122#Mercury Stone_Level 3
+123#Mercury Stone_Level 4
+124#Mercury Stone_Level 5
+1120#Mercury Stone_M-S_Level 1
+1121#Mercury Stone_M-S_Level 2
+1122#Mercury Stone_M-S_Level 3
+1123#Mercury Stone_M-S_Level 4
+1124#Mercury Stone_M-S_Level 5
+2120#Mercury Stone_M-L_Level 1
+2121#Mercury Stone_M-L_Level 2
+2122#Mercury Stone_M-L_Level 3
+2123#Mercury Stone_M-L_Level 4
+2124#Mercury Stone_M-L_Level 5
+3120#Mercury Stone_L_Level 1
+3121#Mercury Stone_L_Level 2
+3122#Mercury Stone_L_Level 3
+3123#Mercury Stone_L_Level 4
+3124#Mercury Stone_L_Level 5
+4120#Mercury Stone_XL_Level 1
+4121#Mercury Stone_XL_Level 2
+4122#Mercury Stone_XL_Level 3
+4123#Mercury Stone_XL_Level 4
+4124#Mercury Stone_XL_Level 5
+130#Medulstone_Level 1
+131#Medulstone_Level 2
+132#Medulstone_Level 3
+133#Medulstone_Level 4
+134#Medulstone_Level 5
+1130#Medulstone_M-S_Level 1
+1131#Medstone_M-S_Level 2
+1132#Medulstone_M-S_Level 3
+1133#Medulstone_M-S_Level 4
+1134#Medullite_M-S_Level 5
+2130#Medullite_M-L_Level 1
+2131#Medulstone_M-L_Level 2
+2132#Medulstone_M-L_Level 3
+2133#Medullite_M-L_Level 4
+2134#Medulstone_M-L_Level 5
+3130#Medulstone_L_Level 1
+3131#Medulstone_L_Level 2
+3132#Medulstone_L_Level 3
+3133#Medulstone_L_Level 4
+3134#Medulstone_L_Level 5
+4130#Medalite_XL_Level 1
+4131#Medalite_XL_Level 2
+4132#Medulstone_XL_Level 3
+4133#Medulstone_XL_Level 4
+4134#Medalite_XL_Level 5
+140#Dragonstone_Level 1
+141#Dragon Stone Level 2
+142#Dragonstone_Level 3
+143#Dragonstone_Level 4
+144#Dragonstone_Level 5
+1140#Dragon Stone_M-S_Level 1
+1141#Dragon Stone_M-S_Level 2
+1142#Dragon Stone_M-S_Level 3
+1143#Dragon Stone_M-S_Level 4
+1144#Dragon Stone_M-S_Level 5
+2140#Dragon Stone_M-L_Level 1
+2141#Dragon Stone_M-L_Level 2
+2142#Dragon Stone_M-L_Level 3
+2143#Dragon Stone_M-L_Level 4
+2144#Dragon Stone_M-L_Level 5
+3140#Dragon Stone_L_Level 1
+3141#Dragon Stone_L_Level 2
+3142#Dragon Stone_L_Level 3
+3143#Dragon Stone_L_Level 4
+3144#Dragonstone_L_Level 5
+4140#Dragon Stone_XL_Level 1
+4141#Dragon Stone_XL_Level 2
+4142#Dragon Stone_XL_Level 3
+4143#Dragon Stone_XL_Level 4
+4144#Dragon Stone_XL_Level 5
+150#Moonstone_Level 1
+151#Moonstone_Level 2
+152#Moonstone_Level 3
+153#Moonstone_Level 4
+154#Moonstone_Level 5
+1150#Moonstone_M-S_Level 1
+1151#Moonstone_M-S_Level 2
+1152#Moonstone_M-S_Level 3
+1153#Moonstone_M-S_Level 4
+1154#Moonstone_M-S_Level 5
+2150#Moonstone_M-L_Level 1
+2151#Moonstone_M-L_Level 2
+2152#Moonstone_M-L_Level 3
+2153#Moonstone_M-L_Level 4
+2154#Moonstone_M-L_Level 5
+3150#Moonstone_L_Level 1
+3151#Moonstone_L_Level 2
+3152#Moonstone_L_Level 3
+3153#Moonstone_L_Level 4
+3154#Moonstone_L_Level 5
+4150#Moonstone_XL_Level 1
+4151#Moonstone_XL_Level 2
+4152#Moonstone_XL_Level 3
+4153#Moonstone_XL_Level 4
+4154#Moonstone_XL_Level 5
+160#Sharp stone_Level 1
+161#Sharp stone_Level 2
+162#Sharp stone_Level 3
+163#Sharp stone_Level 4
+164#Sharp stone_Level 5
+165#Sharp stone_Level 6
+166#Sharp stone_Level 7
+167#Sharp stone_Level 8
+168#Sharp stone_Level 9
+169#Sharp stone_Level 10
+1160#Sharp Stone_M-S_Level 1
+1161#Sharp stone_M-S_Level 2
+1162#Sharp stone_M-S_Level 3
+1163#Sharp stone_M-S_Level 4
+1164#Sharp stone_M-S_Level 5
+1165#Sharp stone_M-S_Level 6
+1166#Sharp stone_M-S_Level 7
+1167#Sharp stone_M-S_Level 8
+1168#Sharp stone_M-S_Level 9
+1169#Sharp stone_M-S_Level 10
+2160#Sharp Stone_M-L_Level 1
+2161#Sharp stone_M-L_Level 2
+2162#Sharp stone_M-L_Level 3
+2163#Sharp stone_M-L_Level 4
+2164#Sharp stone_M-L_Level 5
+2165#Sharp Stone_M-L_Level 6
+2166#Sharp stone_M-L_Level 7
+2167#Sharp Stone_M-L_Level 8
+2168#Sharp Stone_M-L_Level 9
+2169#Sharp stone_M-L_Level 10
+3160#Sharp stone_L_Level 1
+3161#Sharp stone_L_Level 2
+3162#Sharp stone_L_Level 3
+3163#Sharp Stone_L_Level 4
+3164#Sharp stone_L_Level 5
+3165#Sharp stone_L_Level 6
+3166#Sharp Stone_L_Level 7
+3167#Sharp stone_L_Level 8
+3168#Sharp stone_L_Level 9
+3169#Sharp stone_L_Level 10
+4160#Sharp Stone_XL_Level 1
+4161#Sharp Stone_XL_Level 2
+4162#Sharp Stone_XL_Level 3
+4163#Sharp Stone_XL_Level 4
+4164#Sharp Stone_XL_Level 5
+4165#Sharp Stone_XL_Level 6
+4166#Sharp Stone_XL_Level 7
+4167#Sharp Stone_XL_Level 8
+4168#Sharp Stone_XL_Level 9
+4169#Sharp Stone_XL_Level 10
+170#Bladestone_Level 1
+171#Bladestone_Level 2
+172#Bladestone_Level 3
+173#Bladestone_Level 4
+174#Bladestone_Level 5
+1170#Bladestone_M-S_Level 1
+1171#Bladestone_M-S_Level 2
+1172#Bladestone_M-S_Level 3
+1173#Bladestone_M-S_Level 4
+1174#Bladestone_M-S_Level 5
+2170#Bladestone_M-L_Level 1
+2171#Bladestone_M-L_Level 2
+2172#Bladestone_M-L_Level 3
+2173#Bladestone_M-L_Level 4
+2174#Bladestone_M-L_Level 5
+3170#Bladestone_L_Level 1
+3171#Bladestone_L_Level 2
+3172#Bladestone_L_Level 3
+3173#Bladestone_L_Level 4
+3174#Bladestone_L_Level 5
+4170#Bladestone_XL_Level 1
+4171#Bladestone_XL_Level 2
+4172#Bladestone_XL_Level 3
+4173#Bladestone_XL_Level 4
+4174#Bladestone_XL_Level 5
+180#Sucking stone_Level 1
+181#Sucking stone_Level 2
+182#Sucking stone_Level 3
+183#Sucking stone_level 4
+184#Sucking stone_Level 5
+1180#Sucking Stone_M-S_Level 1
+1181#Sucking Stone_M-S_Level 2
+1182#Sucking Stone_M-S_Level 3
+1183#Sucking Stone_M-S_Level 4
+1184#Sucking Stone_M-S_Level 5
+2180#Sucking Stone_M-L_Level 1
+2181#Sucking Stone_M-L_Level 2
+2182#Sucking Stone_M-L_Level 3
+2183#Sucking Stone_M-L_Level 4
+2184#Sucking Stone_M-L_Level 5
+3180#Sucking Stone_L_Level 1
+3181#Sucking Stone_L_Level 2
+3182#Sucking Stone_L_Level 3
+3183#Sucking Stone_L_Level 4
+3184#Sucking Stone_L_Level 5
+4180#Sucking Stone_XL_Level 1
+4181#Sucking Stone_XL_Level 2
+4182#Sucking Stone_XL_Level 3
+4183#Sucking Stone_XL_Level 4
+4184#Sucking Stone_XL_Level 5
+190#moonstone_level 1
+191#moonstone_level 2
+192#Moonstone_Level 3
+193#Moonstone_Level 4
+194#Moonstone_Level 5
+1190#Moonstone_M-S_Level 1
+1191#Moonstone_M-S_Level 2
+1192#Moonstone_M-S_Level 3
+1193#Moonstone_M-S_Level 4
+1194#Moonstone_M-S_Level 5
+2190#Moonstone_M-L_Level 1
+2191#Moonstone_M-L_Level 2
+2192#Moonstone_M-L_Level 3
+2193#Moonstone_M-L_Level 4
+2194#Moonstone_M-L_Level 5
+3190#Moonstone_L_Level 1
+3191#Moonstone_L_Level 2
+3192#Moonstone_L_Level 3
+3193#Moonstone_L_Level 4
+3194#Moonstone_L_Level 5
+4190#Moonstone_XL_Level 1
+4191#Moonstone_XL_Level 2
+4192#Moonstone_XL_Level 3
+4193#Moonstone_XL_Level 4
+4194#Moonstone_XL_Level 5
+200#Nibi Stone_Level 1
+201#Nibi Stone_Level 2
+202#Nibi Stone_Level 3
+203#Nibi Stone_Level 4
+204#Nibi Stone_Level 5
+1200#Nibi Stone_M-S_Level 1
+1201#Nibi Stone_M-S_Level 2
+1202#Nibi Stone_M-S_Level 3
+1203#Nibi Stone_M-S_Level 4
+1204#Nibi Stone_M-S_Level 5
+2200#Nibi Stone_M-L_Level 1
+2201#Nibi Stone_M-L_Level 2
+2202#Nibi Stone_M-L_Level 3
+2203#Nibi Stone_M-L_Level 4
+2204#Nibi Stone_M-L_Level 5
+3200#Nibi Stone_L_Level 1
+3201#Nibi Stone_L_Level 2
+3202#Nibi Stone_L_Level 3
+3203#Nibi Stone_L_Level 4
+3204#Nibi Stone_L_Level 5
+4200#Nibi Stone_XL_Level 1
+4201#Nibi Stone_XL_Level 2
+4202#Nibi Stone_XL_Level 3
+4203#Nibi Stone_XL_Level 4
+4204#Nibi Stone_XL_Level 5
+210#Glowstone_Level 1
+211#Glowstone_Level 2
+212#Glowstone_Level 3
+213#Glowstone_Level 4
+214#Glowstone_Level 5
+1210#Glowstone_M-S_Level 1
+1211#Glowstone_M-S_Level 2
+1212#Glowstone_M-S_Level 3
+1213#Glowstone_M-S_Level 4
+1214#Glowstone_M-S_Level 5
+2210#Glowstone_M-L_Level 1
+2211#Glowstone_M-L_Level 2
+2212#Glowstone_M-L_Level 3
+2213#Glowstone_M-L_Level 4
+2214#Glowstone_M-L_Level 5
+3210#Glowstone_L_Level 1
+3211#Glowstone_L_Level 2
+3212#Glowstone_L_Level 3
+3213#Glowstone_L_Level 4
+3214#Glowstone_L_Level 5
+4210#Glowstone_XL_Level 1
+4211#Glowstone_XL_Level 2
+4212#Glowstone_XL_Level 3
+4213#Glowstone_XL_Level 4
+4214#Glowstone_XL_Level 5
+220#black steel wire_level 1
+221#black steel wire_level 2
+222#Black Steel Wire_Level 3
+223#Black Steel Wire_Level 4
+230#gold steel wire_level 1
+231#Gold Steel Wire_Level 2
+232#Gold Steel Wire_Level 3
+240#Spider thread steel wire_Level 1
+241#Spider Thread Steel Wire_Level 2
+242#Spider thread steel wire_Level 3
+243#Spider thread steel wire_Level 4
+244#Steel wire spider thread_Level 5
+1240#Spider Thread Steel Wirestone_M-S_Level 1
+1241#Spider Thread Steel Wirestone_M-S_Level 2
+1242#Spider Thread Steel Wirestone_M-S_Level 3
+1243#Spider Thread Steel Wirestone_M-S_Level 4
+1244#Spider Thread Steel Wirestone_M-S_Level 5
+2240#Spider Thread Steel Wirestone_M-L_Level 1
+2241#Spider Thread Steel Wirestone_M-L_Level 2
+2242#Spider Thread Steel Wirestone_M-L_Level 3
+2243#Spider Thread Steel Wirestone_M-L_Level 4
+2244#Spider Thread Wirestone_M-L_Level 5
+3240#Spider Thread Wirestone_L_Level 1
+3241#Spider Thread Steel Wirestone_L_Level 2
+3242#Spider Thread Steel Wirestone_L_Level 3
+3243#Spider Thread Steel Wirestone_L_Level 4
+3244#Spider Thread Steel Wirestone_L_Level 5
+4240#Spider Thread Steel Wirestone_XL_Level 1
+4241#Spider Thread Steel Wirestone_XL_Level 2
+4242#Spider Thread Steel Wirestone_XL_Level 3
+4243#Spider Thread Steel Wirestone_XL_Level 4
+4244#Spider Thread Steel Wirestone_XL_Level 5
+250#Magic Shield Stone_Level 1
+251#Magic shield stone_Level 2
+252#Magic shield stone_Level 3
+253#Magic shield stone_Level 4
+254#Magic shield stone_Level 5
+1250#Magic Shield Stone_M-S_Level 1
+1251#Magic Shield Stone_M-S_Level 2
+1252#Magic Shield Stone_M-S_Level 3
+1253#Magic Shield Stone_M-S_Level 4
+1254#Magic shield stone_M-S_level 5
+2250#Magic Shield Stone_M-L_Level 1
+2251#Magic Shield Stone_M-L_Level 2
+2252#Magic Shield Stone_M-L_Level 3
+2253#Magic Shield Stone_M-L_Level 4
+2254#Magic Shield Stone_M-L_Level 5
+3250#Magic Shield Stone_L_Level 1
+3251#Magic shield stone_L_level 2
+3252#Magic shield stone_L_level 3
+3253#Magic shield stone_L_level 4
+3254#Magic shield stone_L_level 5
+4250#Magic Shield Stone_XL_Level 1
+4251#Magic Shield Stone_XL_Level 2
+4252#Magic Shield Stone_XL_Level 3
+4253#Magic Shield Stone_XL_Level 4
+4254#Magic Shield Stone_XL_Level 5
+260#Maruishi_Level 1
+261#Maruishi_Level 2
+262#Maruishi_Level 3
+300#Lendl DS
+301#Lendl DS + Demon Brand
+302#Lendl DS + Soul Brand
+310#Phalanx DS
+320#Referee DS
+330#Warrior of the Storm DS
+340#Storm Beast DS
+350#Chimera DS
+360#Old man in yellow DS
+370#Libra DS
+380#Big Spider DS
+390#Fat Demon DS
+400#Ore Spirit DS
+410#[Reinforcement reset item]

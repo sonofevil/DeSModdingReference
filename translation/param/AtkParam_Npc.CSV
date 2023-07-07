@@ -1,0 +1,537 @@
+ID#Name
+0#[System] Dummy Ammo
+101#NPC_test1
+102#NPC_test2
+103#NPC_test3
+104#NPC_test4_Guard
+105#NPC_test5_Big attack
+106#NPC_test6_Shield attack
+107#NPC_test7_Rush attack
+200#fall radius 1m
+201#Blowback (weak) Radius 1m
+202#Blow away (strong) Radius 1m
+300#molotov cocktail
+301#General Soldier Bowgun
+302#Assassin Knife Thrower
+303#King's Shield Javelin
+304#Phalanx Tiny Spear Shot
+305#Molotov cocktail ★Oujou 1 only★
+306#General soldier bowgun ★Oujou 1 only★
+307#prison guard bondage
+308#Kamisama Fireball
+309#Snake Soldier Bow
+310#Kamisama magic square activation attack
+311#Skeleton swordsman (different colors/bow)_Bow shooting
+312#scale miner's rock direct hit
+313#Big Spider Fireball
+314#Large spider thread
+315#octopus man_miracle
+317#c5080_Flycatcher_Flycatcher Fly
+318#c5080_fly-catcher_fly fly
+319#c5080_Fly-catcher_Wrap yourself in flies
+320#storm beast shooting scale
+321#c3040_Chimera_Roar 1
+322#c5060_Kamisama_Fake_Laser
+323#c3050_gargoyle_bowgun shooting
+324#c5080_Flycatcher_Flycatcher Fly (fast)
+340#Chimera Scream
+342#Fly trapping flies from shoulders
+343#Bonfire
+344#fly trap_fly explosion
+346#Hiru Demon_Hirudama
+347#c4030_octopus head_strong magic
+350#child stingray wind shooting
+351#child stingray wind shooting landing
+355#c3100_rock earthworm_lava jet
+356#c3100_rock earthworm_lava shower
+360#c2081_Prisoner_Fire magic
+362#c2081_Prisoner_Fire magic
+363#c2081_prisoner_ignition
+364#Scale Miner's Rock Landing
+366#light slug light slime
+370#Storm Beast Son Missile
+371#Large Spider_Close range flame direct hit
+372#Large Spider_Close Range Flame Landing
+374#c5070_centipede_vomit
+375#c5071_small centipede_vomit
+376#c3070_ slug slime
+377#c3090_Large mosquito poisonous blood Normal time
+378#c3090_ Large mosquito poisonous blood full stomach
+379#c3040_Chimera Soul Arrow
+380#c4010_wizard_magic attack
+381#c7230_Lendl King_Shockwave
+382#c2100_Corruption (Magician)_Poison Cloud [Dummy]
+384#Prison Castle 3 boss funnel
+385#c7230_King Lendl_Wide range attack
+392#c6040_Libra_Self-centered explosion
+394#c2075_ Captive ball magic arrow
+395#c3130_Large tardigrade death explosion
+397#c3131_medium tardigrade death explosion
+6000#King's sword → PC frontal stab
+6001#Kagejo → PC stabbed in the back
+6002#Hawk → PC Throw
+6003#Octopus → PC brain combo
+6004#King Lendl → PC grab throw
+10000#Royal Castle 1 Rumbling Iron Ball
+10010#Ojo 3 Rumbling straw
+10020#Ojo 2 barista arrow
+10030#Old Fort 1 Falling floor OBJ
+10040#Unclean 1 Falling rock
+10070#Ojo 3 Door that breaks OBJ
+10100#Prison 1 Puppet gimmick arrow
+10120#Tunnel 1 Falling rock
+10130#Tunnel 1 Explosive barrel
+10140#Tunnel 2 Trolley contact
+10150#Old fort 1 Trap spear
+10160#Tunnel 2 Will-O-Wisp
+10170#Old Fort 2 Will O'Wisp
+10190#Royal Castle 1 Explosive barrel (small)
+10200#Royal Castle 1 Explosive Barrel (Large)
+10210#Ojo 1 Rumbling Iron Ball/Enemy Version
+10300#Royal castle bonfire small
+10310#Royal castle bonfire straw ball
+10320#Tunnel 1 Continuous damage floor [lava]
+10330#Tunnel 2 Continuous damage floor [lava]
+10340#Tunnel 2 Continuous damage floor [Boss room lava]
+103000#c1300_Fat Demon_Normal attack
+103001#c1300_Fat Demon_For Attack
+103002#c1300_Movement winding (right leg)
+103003#c1300_Movement winding (left foot)
+103004#c1300_Fat Demon_Right mowing
+103005#c1300_Fat Demon_Swing down from the right
+103006#c1300_Fat Demon_Swing down from the left
+103007#c1300_Fat Demon_Jump in place
+103008#c1300_Fat Demon_Spot jump shock wave
+200000#c2000_slave soldier_slash 1
+200001#c2000_slave soldier_slashing 2-1
+200002#c2000_slave soldier_slash (large)
+200003#c2000_slave soldier_pounce (far)
+200004#c2000_slave soldier_pounce (near)
+200005#c2000_Slave soldier_Shake off
+200006#c2000_slave soldier_slashing 3
+200007#c2000_slave soldier_pounce (farther)
+200008#c2000_slave soldier_slashing 2-2
+200009#c2000_slave soldier_cut blindly
+200010#c2000_slave soldier_guard
+200050#c2000_Slave Soldier_Slash 1 ★For Royal Castle 1★
+200051#c2000_Slave Soldier_Slash 2-1 ★Castle 1 Only★
+200052#c2000_Slave Soldier_Slash (Large) ★Castle 1 only★
+200053#c2000_Slave Soldier_Pounce (far) ★Oujou 1 only★
+200054#c2000_Slave Soldier_Pounce (Near) ★Oujou 1 only★
+200055#c2000_Slave Soldier_Shake off★For royal castle 1★
+200056#c2000_Slave Soldier_Slashing 3 ★For King Castle 1★
+200057#c2000_slave soldier_pounce (more distant) ★Oujou 1 only★
+200058#c2000_Slave Soldier_Slash 2-2 ★Castle 1 only★
+200059#c2000_Slave Soldier_Kill blindly ★Oujou 1 only★
+200060#c2000_Slave Soldier_Guard ★For Royal Castle 1★
+201000#c2010_General soldier_Swing down
+201001#c2010_General soldier_Slashing
+201002#c2010_general soldier_swing down
+201003#c2010_general soldier_kick
+201004#c2010_General soldier_Slash with a run up
+201005#c2010_General soldier_Spear normal attack 1
+201006#c2010_General soldier_Spear normal attack 2
+201007#c2010_general soldier_mow down with running up
+201008#c2010_General soldier_Spear heavy attack
+201009#c2010_General soldier_Ax normal attack 1
+201010#c2010_General soldier_Aksu normal attack 2
+201011#c2010_general soldier_slamming with a run-up
+201012#c2010_General soldier_Aksu strong attack
+201013#c2010_general soldier_halberd normal attack 1
+201014#c2010_general soldier_halberd normal attack 2
+201015#c2010_general soldier_swinging with a run up
+201016#c2010_general soldier_halberd strong attack
+201050#c2010_general soldier_guard
+201030#c2010_General Soldier_Swinging ★Oujou 1 Only★
+201031#c2010_general soldier_slashing ★Ojou 1 only★
+201032#c2010_General Soldier_Pumping Down ★For Castle 1★
+201033#c2010_General Soldier_Kick ★Oujou 1 only★
+201034#c2010_General Soldier_Slash with a run-up★Ojou 1 only★
+201035#c2010_General Soldier_Spear Regular Attack 1 ★For Royal Castle 1★
+201036#c2010_General Soldier_Spear Regular Attack 2 ★For Royal Castle 1★
+201037#c2010_general soldier_mow down with run-up ★Oujou 1 only★
+201038#c2010_General Soldier_Spear Strong Attack ★For Royal Castle 1★
+201039#c2010_General Soldier_Aksu Normal Attack 1 ★For Royal Castle 1★
+201040#c2010_General Soldier_Aksu Normal Attack 2 ★For Royal Castle 1★
+201041#c2010_General Soldier_Apply a run-up and strike ★Ojou 1 only★
+201042#c2010_General Soldier_Aksu Strong Attack ★For Royal Castle 1★
+201043#c2010_General Soldier_Halberd normal attack 1 ★For royal castle 1★
+201044#c2010_General Soldier_Halberd normal attack 2 ★For royal castle 1★
+201045#c2010_General Soldier_Swinging with a running run★Ojo 1 only★
+201046#c2010_General Soldier_Halberd Strong Attack ★For Castle 1★
+201070#c2010_general soldier_guard ★Oujou 1 only★
+202000#c2020_knight_left robe cut
+202001#c2020_Knight_Right sweep
+202002#c2020_knight_thrust
+202003#c2020_Knight_Rush Thrust
+202004#c2020_knight_charging slash
+202005#c2020_knight_hitting with a shield
+202006#c2020_Knight_Claymore normal attack 1
+202007#c2020_Knight_Claymore normal attack 2
+202008#c2020_Knight_Claymore normal attack 3
+202009#c2020_knight_swing down
+202010#c2020_knight_claymore heavy attack
+202011#c2020_Knight_Claymore slashing with a run up
+202012#c2020_knight_spear normal attack 1
+202013#c2020_knight_spear normal attack 2
+202014#c2020_knight_spear normal attack 3
+202015#c2020_knight_spear heavy attack
+202016#c2020_knight_charge with spear
+202017#c2020_knight_finish with a spear
+202018#c2020_knight_swing down hard_final stage
+202050#c2020_knight_guard
+202020#c2020_knight_left robe cut ★Ojou 1 only★
+202021#c2020_Knight_Right Nagigi ★Oujou 1 only★
+202022#c2020_knight_butt ★Oujou 1 only★
+202023#c2020_Knight_Rush Thrust ★Exclusive to Ojo 1★
+202024#c2020_knight_charged slash ★Oujou 1 only★
+202025#c2020_Knight_Punching with a shield ★Exclusive to Royal Castle 1★
+202026#c2020_Knight_Claymore normal attack 1 ★For royal castle 1★
+202027#c2020_Knight_Claymore normal attack 2 ★For royal castle 1★
+202028#c2020_Knight_Claymore normal attack 3 ★For royal castle 1★
+202029#c2020_Knight_Swings down ★Oujou 1 only★
+202030#c2020_Knight_Claymore Heavy Attack ★For Castle 1★
+202031#c2020_Knight_Claymore slashing with run-up ★Oujou 1 only★
+202032#c2020_knight_swings down hard_final stage ★Oujou 1 only★
+202070#c2020_knight_guard ★Oujou 1 only★
+203000#c2030_Assassin_Knife 1st stage
+203001#c2030_assassin_knife 2nd stage
+203002#c2030_Assassin_Knife 3rd stage
+203003#c2030_Assassin_Sobat
+207000#c2070_prisoner_extrusion
+207001#c2070_prisoner_worship
+207002#c2070_Prisoner_Lower-back stabbing
+207003#c2070_Prisoner_Spear
+207004#c2070_Prisoner_Lower Stab (Poison)
+207500#c2075_Captive Ball_Attack 1
+207501#c2075_Captive Ball_Attack 2
+207502#c2075_Captive Ball_Attack 3
+207503#c2075_Captive Ball_Attack 4
+207504#c2075_Captive Ball_Attack 5
+207505#c2075_Captive Ball_Attack 6
+208000#c2080_Prisoner_Attack (near)
+208001#c2080_Prisoner_Decapitation
+208002#c2080_Prisoner_Attack (medium range)
+208003#c2081_Prisoner_Whip
+208004#c2082_Prisoner_whip
+208005#c2080_Prisoner_Move off
+209000#c2090_Former aristocratic lady stabbing 1
+209001#c2090_Former aristocratic lady stabbing 2
+210000#c2100_Corruption bit_hammer attack (small)
+210001#c2100_Corruption bit_hammer attack (medium)
+210002#c2100_Corruption bit_hammer rampage
+210003#c2100_Corruption bit_hammer attack with both hands
+210004#c2100_Rotten Bits_Push down
+210005#c2100_Corruption bite_per charge
+210006#c2100_Corruption bite_2 per charging object
+210010#c2100_Corruption human_tutorial_attack (small)
+210011#c2100_Corruption human_tutorial_attack (medium)
+210012#c2100_corruption human_tutorial_rampage
+210013#c2100_Corruption human_tutorial_attack with both hands
+210020#c2100_Rotten person_push down
+210021#c2100_Corruption Human_Spear Thrust
+210022#c2100_corrupted human_spear strike
+210023#c2100_Corrupted Human_Spear 2 thrusts
+210030#c2100_Decomposing Bites_Poison Attack (Small)
+210031#c2100_Decomposing Bites_Poison Attack (Medium)
+210032#c2100_Decomposing Bites_Very Poison Rampage
+210033#c2100_Decomposing Bites_Poison Attack with both hands
+210100#c2101_Corruption bite_Large scraping
+210101#c2101_Rotten Bits_Large Swing Down
+211000#c2110_scale miner (pickle)_swing down
+211001#c2110_scale miner (pickle) _ swing around
+211002#c2110_scale miner (pickle) _ swing around
+211003#c2110_scale miner (bag)_beating
+211004#c2110_scale miner (stiletto)_protrusion
+211005#c2110_Scale miner (Sword)_Rush
+211006#c2110_scale miner (big sword)_protrusion
+211007#c2110_Scale miner (great sword) _Sweeping
+211008#c2110_scale miner (pickle)_diving
+211009#c2110_Scale miner (hammer) _ swing down
+211010#c2110_Scale miner (hammer) _ swinging around
+211011#c2110_scale miner (hammer)_diving
+211012#c2110_Scale miner (bare hands)_punch
+211013#c2110_Scale miner (bare hands) _Two-handed punch
+211014#c2110_scale miner (pickle)_back attack
+211015#c2110_Scale miner (sword)_back attack
+211016#c2110_Scale miner (great sword)_back attack
+212000#c2120_Kagejin_Right hand attack
+212001#c2120_Kagejin_Left hand attack
+212002#c2120_Kagejin_Two-handed attack
+212004#c2120_shadow person_mow away
+212005#c2120_shadow person_beam from eyes
+212006#c2120_Kagejin_beam from eyes (top)
+212007#c2120_Kagehito_beam from eyes (below)
+213000#c2130_Kagejo_Right hand cut A
+213001#c2130_Kagejo_Rip left hand A
+213002#c2130_Kagejo_Right hand rip B
+213004#c2130_shadow woman_claw thrust
+301000#c3010_military dog_biting (small)
+301001#c3010_military dog_continuous biting
+301002#c3010_military dog_pounce
+301003#c3010_military dog_continuous biting 2nd row
+301004#c3010_military dog_pounce 2
+301005#c3010_military dog_pounce 3
+303000#c3030_hawk_scratch
+303001#c3030_hawk_poke
+303002#c3030_Hawk_continuous pecking
+303003#c3030_falcon_throw
+304000#c3040_Chimera_Right hand swing down
+304001#c3040_Chimera_both hands down
+304002#c3040_Chimera_Right hand punch (no stance)
+304004#c3040_Chimera_Tackle on the ground
+304006#c3040_Chimera_Aerial Tackle
+305000#c3050_Gargoyle_Stab sword 1
+305001#c3050_Gargoyle_Stabbing sword 2
+305002#c3050_Gargoyle_Stabbing sword 3
+305003#c3050_Gargoyle_Strike
+305004#c3050_Gargoyle_swinging sword
+305005#c3050_Gargoyle_Stabbing sword 4
+305006#c3050_Gargoyle_Dive attack
+305010#c3050_Bowgun shooting (air)
+305011#c3050_Bowgun shooting (ground)
+306000#c3060_Plague rat_Bite
+307000#c3070_big slug_body hit
+307001#c3070_Large slug_mucus
+307002#c3070_large slug_pounce
+307100#c3071_Large slug (light)_body hit
+307101#c3071_Large slug (light)_pounce
+307102#c3071 Large slug (light)_light mucus
+308000#c3080_cloudy jellyfish_tentacles
+309000#c3090_large mosquito_first blood sucking
+309001#c3090_big mosquito_body hit
+309002#c3090_large mosquito_sucking blood
+310000#c3100_Rock worm_Bite
+310001#c3100_Rock earthworm_Bite_Body
+310002#c3100_Rock earthworm_swallow
+310003#c3100_rock earthworm_mow
+312000#c3120_magma gecko_stretch attack
+312001#c3120_magma gecko_body flame
+312002#c3120_magma gecko_pounce
+313000#c3130_large water bear_stab
+313001#c3130_Large tardigrade_Rush
+313002#c3130_Large tardigrade_pounce
+313100#c3131_medium tardigrade_stab
+313101#c3131_medium tardigrade_rush
+313102#c3131_medium tardigrade_pounce
+313200#c3132_wing tardigrade_stab
+313300#c3133_small water bear_stab
+313301#c3133_small water bear_rush
+313302#c3133_small water bear_pounce
+318000#c3180_Big blood tick_Stab with mouth needle
+318001#c3180_Big blood tick_Venom blood
+400000#c4000_impossible_body attack
+400001#c4000_Failure_Attack 2
+400002#c4000_Failure_Retrospective attack
+401000#c4010_wizard_scythe attack (strong)
+401001#c4010_Wizard_Scythe Normal (Weak)
+401002#c4010_Wizard_swing down the sickle
+402000#c4020_Gold Skeleton_Slash A
+402001#c4020_Gold Skeleton_Slashing B
+402002#c4020_Gold Skull_Stepping Slash
+402003#c4020_Gold Skull_Swing down
+402004#c4020_Gold Skull_Rolling Slash
+402005#c4020_Gold skeleton_(forward roll)
+402006#c4020_Gold Skeleton_Round up top right
+402007#c4020_Gold Skeleton_Round up left
+402008#c4020_Gold Skull_Move off
+402009#c4020_Gold Skeleton_Guard
+402100#c4021_White Skeleton_Slash A
+402101#c4021_White Skeleton_Slash B
+402102#c4021_White Skeleton_Stepping Slash
+402103#c4021_White Skeleton_Tame Slash
+402105#c4021_White skeleton_roll slash
+402106#c4021_white skeleton_forward roll
+402210#c4022_Black Skeleton_Right Hand Slash
+402211#c4022_Black Skeleton_Right Hand Slashback
+402212#c4022_Black Skeleton_Left Hand Slash
+402213#c4022_Black Skeleton_Left Hand Slash Back
+402214#c4022_black skeleton_without iai
+402215#c4022_Black Skeleton_Charge Thrust
+402216#c4022_Black skeleton_Right hand strong slash
+402217#c4022_black skeleton_pounce
+402218#c4022_Black Skeleton_Double sword
+403010#c4030_octopus man_handbell
+403011#c4030_octopus man_throwing tentacles
+403012#c4030_octopus man_throwing tentacles_second half
+403013#c4030_black octopus man_handbell
+403014#c4030_Black Octopus Man_Tentacle Throw_Soul Steel
+403015#c4030_Black Octopus Man_Tentacle Throwing_Second Half_Soul Steel
+405000#c4050_Flame Monster_Punch 1
+405001#c4050_Flame Monster_Punch 2
+405002#c4050_Flame Monster_Punch 3
+405004#c4050_Flame Monster_Roar
+405005#c4050_Flame Monster_Stepping Fight
+405006#c4050_flame monster_punch 1 flame
+405007#c4050_flame monster_punch 2 fire
+405008#c4050_Flame monster_Punch 3 flames
+405009#c4050_flame monster_stepping in fighting flame
+405010#c4050_Flame monster_Punch 3 (explosion)
+405011#c4050_Flame Monster_Left Hammer
+405012#c4050_flame monster_sideways strike (large)
+405013#c4050_flame monster_two-handed punch_1
+405014#c4050_Flame Monster_Jump Dive Punch_1
+405015#c4050_Flame Monster_Left hammer (explosion)
+405016#c4050_flame monster_sideways strike (large) (explosion)
+405017#c4050_flame monster_two-handed punch (explosion)_1
+405018#c4050_Flame Monster_Jump Dive Punch_1 (explosion)
+405019#c4050_flame monster_two-handed punch_2
+405020#c4050_flame monster_two-handed punch (explosion)_2
+405021#c4050_Flame Monster_Jump Diving Strike_2
+405022#c4050_Flame Monster_Jump Dive Punch_2 (Explosion)
+405023#c4050_Flame Monster_Sweeping back
+405024#c4050_Flame monster_leg attack
+405025#c4050_Flame Monster_Arm Atari
+500000#c5000_Phalanx (Chibi)_Rush
+500001#c5000_Phalanx (Chibi)_Piercing with a spear
+500002#c5000_Phalanx (Chibi)_Spear firing
+500003#c5000_Phalanx (Chibi)_All Spear Shot
+500004#c5000_Phalanx (Chibi)_Wall spear shooting
+500005#c5000_Phalanx (Chibi)_Guard
+500100#c5001_Phalanx (Body)_Rush
+500101#c5001_ Phalanx (body) _ Pierce with a spear
+500103#c5001_Phalanx (Body)_All Spear Shot
+500104#c5001_Phalanx (Body)_Spear shot with wall attachment
+500105#c5001_Phalanx (Body)_Rush
+501000#c5010_King's Shield_Crush with a shield
+501001#c5010_King's shield_stomping (right)
+501002#c5010_King's Shield_Spear Lower
+501003#Ｃ5010_King's Shield_Spear Thrower
+501004#c5010_King's shield_stomping (left)
+501005#c5010_King's Shield_Backstep Engagement
+501006#c5010_King's shield_walking involvement (right)
+501007#c5010_King's shield_walking involvement (left)
+501008#c5010_King's Shield_Spear throwing involvement (right leg)
+501009#Ｃ5010_King's Shield_Spear off
+501010#c5010_King's Shield_Crush with a shield Shock wave
+501011#c5010_King's Shield_Stomping Left Shockwave
+501012#c5010_King's Shield_Falling Involvement 1
+501013#c5010_King's Shield_Falling Involvement 2
+501014#c5010_King's Shield_Rising Engagement Spear
+501015#c5010_King's Shield_Original Engagement Shield 1st Stage
+501016#c5010_King's Shield_Origin Engagement Shield 2nd Stage
+501017#c5010_King's Shield_Getting involved Shield 1st stage shock wave
+501018#c5010_King's Shield_Rising Engagement Shield 2nd Stage Shockwave
+502000#c5020_King's sword_upper swing
+502001#c5020_King's Sword_Tsubame Gaeshi
+502002#c5020_King's sword_thrust
+502003#c5020_King's Sword_Right sweep
+502004#c5020_King's sword_left sweep
+502005#c5020_King's sword_Right sweep feint thrust
+502006#c5020_King's sword_Left sweep feint thrust
+502007#c5020_King's Sword_Stabbing Throw
+502008#c5020_King's Sword_Guard
+502009#c5020_King's Sword_Stepping Slash
+503100#c5031Child Ray rush
+504000#c5040_Judge_Slash downward
+504001#c5040_judge_slash upwards
+504002#c5040_referee_attack with tongue
+504004#c5040_Referee_Tongue attack (to 2F)
+504005#c5040_Referee_Tongue attack (to 1F)
+504006#c5040_Referee_Tongue attack (to 3F)
+504007#c5040_Referee_Slam with your tongue (2F-3F)
+506000#c5060_Kamisama_Magic square installation
+507000#c5070_centipede_rush
+507001#c5070_centipede_tail
+507002#c5070_centipede_rush body
+507100#c5071_centipede_rush
+507101#c5071_centipede_tail
+507102#c5071_centipede_rush body
+508000#c5080_fly catching_punch with right arm
+508001#c5080_Fly-Taking_Right arm swing down
+508002#c5080_fly catching rampage
+509000#c5090_leech demon_slap
+509001#c5090_leech demon_swinging arms
+509002#c5090_Lech Demon_Raging violently
+509003#c5090_leech demon_leech attack
+510001#c5100 Large spider right leg
+510002#c5100 Large spider left leg
+510003#c5100 Large spider body attack
+510004#c5100 Large spider Great flame 1st stage
+510005#c5100 Large spider Great flame 2nd stage
+510006#c5100 Large spider Great flame 3rd stage
+510007#c5100 Large spider front leg attack
+510008#c5100 Large spider swings down right leg
+510009#c5100 Large spider left leg swing down
+510010#c5100 Large spider Swing both legs down
+510011#c5100_Large spider Main body when swinging down
+511000#c5110_Ore spirit bite
+512000#c5120_Long Wyvern_Tail attack
+512001#c5120_Long Wyvern_Breath A Passage first half
+512002#c5120_Long Wyvern_Breath B Passage middle
+512003#c5120_Long Wyvern_Breath C Passage latter half
+512004#c5120_Long Wyvern_Breath D First half of the square
+512005#c5120_Breath attack A between kings
+512006#c5120_King's Room Breath Attack B
+512007#c5120_Breath E Plaza middle
+512008#c5120_Long Wyvern_Breath F Second half of the square
+513000#c5130_Family Breath_Royal Castle 1_Castle wall
+513001#c5130_Family Breath_Royal Castle 1_Nest
+513002#c5130_Family Breath_Royal Castle 2_Castle wall
+513003#c5130_Family Breath_Royal Castle 1_Nest Long
+513004#c5130_Family Breath_Foot
+602000#c6020_Warrior of the Storm_Vertical swing down
+602001#c6020_Warrior of the Storm_Stab directly below
+602002#c6020_storm warrior_mow
+602003#c6020_Warrior of the Storm_rounded up
+602004#c6020_Warrior of the Storm_Stab directly below/Shockwave
+602005#c6020_Warrior of the Storm_Vertical swing down to the right
+602006#c6020_Warrior of the Storm_Vertical swing left direction
+602007#c6020_Warrior of the Storm_Step Engagement
+602008#c6020_storm warrior_pounce
+602009#c6020_storm warrior_mow down from the right
+602010#c6020_storm warrior_mow down from the left
+602011#c6020_storm warrior_slam
+603100#c6031_Old man in yellow _Move sideways
+603101#c6031_Old man in yellow _ Continuous mowing
+603106#c6031_Old man in yellow_guard
+604100#c6041_Unclean_(Adsorption) Beat
+605000#c6050_Dragon Demon (Mine)_Punch 1
+605001#c6050_Dragon Demon (pit)_Punch 2
+605002#c6050_Dragon Demon (pit)_Punch 3
+605003#c6050_Dragon Demon (pit)_Punch 4
+605004#c6050_Dragon Demon (pit)_Bite
+605005#c6050_Dragon Demon (pit)_Breath 1
+605006#c6050_Dragon Demon (pit)_Breath 2
+605007#c6050_Dragon Demon (pit)_Breath 3
+605008#c6050_Dragon Demon (pit)_Breath 4
+605009#c6050_Dragon Demon (pit)_Punch 1 left
+605010#c6050_Dragon Demon (Mine)_Punch 2 Left
+605011#c6050_Dragon Demon (pit)_Punch 3 left
+605012#c6050_Dragon Demon (pit)_Punch 4 left
+605013#c6050_Dragon Demon (pit)_Continuous bite
+605014#c6050_Dragon Demon (pit)_Short range breath
+605015#c6050_Dragon Demon (Mine)_Weak Breath Breath
+605016#c6050_Dragon Demon (pit)_Weakening bite 1
+605017#c6050_Dragon Demon (pit)_Weakening bite 2
+605018#c6050_Dragon Demon (Mine)_Punch 1 Shockwave
+605019#c6050_Dragon Demon (Mine)_Punch 2 Shockwave
+605020#c6050_Dragon Demon (Mine)_Punch 3 Shockwave
+605021#c6050_Dragon Demon (Mine)_Punch 4 Shockwave
+710000#c7100_beggar (man)_beating
+711000#c7110_ beggar (female) _ beating right
+711001#c7110_ beggar (female) _ beating left
+713000#c7130_Blacksmith (pit)_Hook
+713001#c7130_Blacksmith (pit)_Upper
+713002#c7130_Blacksmith (pit) _Swing down
+713003#c7130_blacksmith (pit) _back fist
+713004#c7130_Blacksmith (pit) _ Press with the bottom of your fist
+713005#c7130_Blacksmith (pit)_Jab
+713100#c7131_blacksmith (stone pillar)_hook
+713101#c7131_blacksmith (stone pillar)_upper
+713102#c7131_Blacksmith (stone pillar) _ Swing down
+713103#c7131_blacksmith (stone pillar)_back fist
+713104#c7131_Blacksmith (Stone Pillar)_Press with the bottom of the fist
+713105#c7131_blacksmith (stone pillar)_jab
+723000#c7230_Lendl King_Normal Slash A
+723001#c7230_Lendl King_Normal Slash B
+723002#c7230_Lendl King_Mow down
+723003#c7230_Lendl King_Forward Step Slash
+723004#c7230_Lendl King_Backward Step Slash
+723005#c7230_Lendl King_Heavy Slash
+723006#c7230_Forced Ghost Slash B
+723007#c7230_King Lendl_Slash from the dash
+723008#c7230_King Lendl_Grasp with left hand
+723009#c7230_Lendl King_Short jump attack
+723010#c7230_Lendl King_Rush
+723011#c7230_King Lendl_Parry

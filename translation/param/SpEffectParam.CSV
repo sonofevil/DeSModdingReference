@@ -1,0 +1,407 @@
+ID#Name
+0#for testing
+1#test_firebolt
+2#test_enchant weapon
+3#test_cure
+4#[System] SOSsign
+5#test_cureitem
+6#[system] kickout
+7#[System] leaveSession
+8#[System] Parameter change during ghost
+9#[System] Parameter change in black
+10#[System] Black_Soulsign
+11#[System] Black_ForceJoinSoulsign
+12#[System] BloodSign
+13#[System] Soul Steel [Multi]
+20#[System] Evaluation effect
+21#[System] Equipped with a point light source
+99#PG test
+201#[QWC] Area_NPC_+1
+202#[QWC] Area_NPC_+2
+203#[QWC] Area_NPC_+3
+206#[QWC] Area_NPC_-1
+207#[QWC] Area_NPC_-2
+208#[QWC] Area_NPC_-3
+211#[QWC] Area_Black_+1
+212#[QWC] Area_Black_+2
+221#[QWC] Area_White_+1
+222#[QWC] Area_White_+2
+231#[QWC] Area_Gray_+1
+232#[QWC] Area_Gray_+2
+236#[QWC] Area_Gray_-1
+237#[QWC] Area_Gray_-2
+311#[QWC] Player_Black_+1
+312#[QWC] Player_Black_+2
+321#[QWC] Player_White_+1
+322#[QWC] Player_White_+2
+331#[QWC] Player_Gray_+1
+332#[QWC] Player_Gray_+2
+336#[QWC] Player_Gray_-1
+337#[QWC] Player_Gray_-2
+1000#enhancement for weapon enchantment
+1001#Enhancement for higher weapon enchantment
+1002#Enhancement for Cursed Enchantment
+1004#Protective membrane
+1005#water screen
+1006#Perfect Shield
+1007#Poison for Poison Cloud
+1008#Corrosion for Corrosion Cloud
+1009#Plague for Deathcloud
+1010#Recover Others_HP Recovery
+1011#Auditory Hallucinations
+1012#Hidden
+1013#Black ghost
+1014#Soul Steel [AI]
+1015#Soul Steel [PC]
+1016#Recover Others_Recover Abnormal Status
+1500#HP Recovery
+1501#Large recovery of HP
+1502#Resurrection when dead
+1510#Regenerate
+1511#status ailment recovery
+1512#Ghost Camouflage
+1513#gate
+1514#Revival
+1515#Black Ghost Escape
+1516#Anti-Magic
+1517#Detoxification
+1518#Anti-Magic (for user)
+2000#equipment weight up
+2001#Loading weight increased
+2002#pinch attack power up
+2003#pinch defense power up
+2004#Stamina recovery up
+2005#MP recovery up
+2006#Light "Regenerate"
+2007#Fire Resistance
+2008#Poison Resistance
+2009#Magic Sensitive
+2010#magic desensitization
+2011#magical nature
+2012,Sincere Prayer
+2013#Strong Ghost
+2014#White Hope
+2015#Black Hope
+2016#Light "Hidden"
+2017#Light "Ghost Camouflage"
+2018#cat landing
+2019#Pheromones
+2020#greed
+2021#take care
+2023#Aim for Vital Points
+2024#Miraculous Nature
+2025#Bleed Resistance
+2026#plague resistance
+3000#Potion A
+3001#Potion B
+3002#Potion C
+3003#Potion D
+3004#Potion E
+3005#MP Potion A
+3006#MP Potion B
+3007#Antidote A
+3008#Antidote B
+3009#Panacea
+3010#Whetstone
+3011#rosin
+3012#Rosin that burns well
+3013#Stone of Light
+3020#Poison Throwing Knife
+3021#Soul Coin
+3022#telescope
+3023#gate
+3024#Resuscitator
+3026#Hemostat
+3027#Phalanx DS
+3028#King's Shield DS
+3029#King's Sword DS
+3030#Lendl DS
+3031#Referee DS
+3032#Storm Warrior DS
+3033#Storm Beast DS
+3034#Kamisama DS
+3035#Chimera DS
+3036,Old man in yellow DS
+3037#Hiru Demon DS
+3038#Colossal Fly DS
+3039#Libra DS
+3040#Large Spider DS
+3041#Flame Giant DS
+3042#Dragon Demon DS
+3043#Heroine DS
+3044#Fat Demon DS
+3045#Flying Ryuko DS
+3046#Flying dragon parent DS
+3047#Ore Spirit DS
+3048#Bad End DS
+3100#Nameless Warrior's Soul
+3101#Pure Soul of Nameless Warrior
+3102#Skilled Warrior's Soul
+3103#Pure Soul of a Skilled Warrior
+3104#The Soul of a Famous Warrior
+3105#Pure Soul of a Famous Warrior
+3106#Legendary Warrior's Soul
+3107#Pure Soul of Legendary Warrior
+3110#Infinite Gate
+4000#Continuous damage floor [pit 1 lava]
+4001#Continuous Damage Floor [Hiru Swamp]
+4002#Continuous damage floor [poison slow]
+4003#Continuous damage floor [slow foot for blood swamp]
+4004#Continuous damage [Thread]
+4005#PC Black Ghost [Old Man in Yellow] Doping
+4006#PC Black Ghost [Old man in yellow] Head SFX
+4011#Continuous Damage Floor_After [Hiru Swamp]
+4012#After Continuous Damage Floor [Poison]
+4013#After Continuous Damage Floor [Blood Swamp]
+4014#Rumbling Cannon Doping
+4015#gunpowder barrel doping
+4016#Continuous Damage Floor [Mine 2 Lava]
+4017#Continuous Damage Floor [Mine Boss Lava]
+5000#sleep restraint
+5001#Flame Monster Stage 1
+5002#Flame Monster Stage 2
+5003#Flame Monster Stage 3
+5004#Stage 4 of the Flame Monster
+5005#Thread Covered
+5006#Flycatcher
+5007#Forced Ghost Phase 1
+5008#Forced Ghost Phase 2
+5009#Forced ghost third stage
+5010#Gold Run Enhancement
+5011#Phalanx doping with chibi
+5012#Phalanx Doping with more tiny sticks
+5013#Enhanced Chimera
+5014#Covered with leeches
+5015#Okina Summon Black NPC Enhancement
+5016#Corrupt Poison Attack
+5017#Slave Soldier_Flame Dagger (Castle 1)
+5018#General soldier use recovery items
+5019#Knight use recovery items
+5020#Plague Mouse_Plague Attack
+5021#Blood mite_venomous blood
+5022#Black Octopus Head_Soul Steel
+5023#Centipede_Corrosion Attack
+5024#Bleeding attack (weak resistance/weak effect)
+5025#Bleeding attack (strong resistance/strong effect)
+5026#Slug_Poisonous slime
+5027#Large Mosquito_Venom Blood_Normal
+5028#Large Mosquito_Venomous Blood_Full Stomach
+5029#Corrupt_For Poison Cloud
+5030#Corrupt_Poison Attack
+5031#Soul Steel for King Lendor
+5032#Kami-Sama Magic Square_Kamishibari
+5033#for NPC overweight doping
+5034#No damage against fire
+5035#Remnants of Soul invalid
+5036#for NPC doping (damage x3.0)
+5037#for NPC doping (1.5 times defense)
+5038#for NPC doping (defense x2.0)
+5039#for NPC doping (fire resistant)
+5040#for NPC doping (double damage)
+5041#for NPC doping (0.5x damage)
+5042#for Doran reverse doping
+5043#Soul Steal invalid
+5044#Leech Demon recovery
+5045#Prison 3 Doping Level +5 ~ +1
+5046#Prison 3 Doping level +0 to -5
+5047#Prison 3 Doping level -6 to -10
+5048#Prison 3 Doping Level -11~
+5049#for NPC doping (MP recovery)
+5050#Leech Demon Recovery HP 100%~
+5051#Leech Demon Recovery HP 70%~
+5052#Leech Demon Recovery HP 40%~
+5053#Immunity to Poison
+5054#No Bleeding
+5055#Nullify plague
+5056#Immunity to Poison and Bleeding
+5057#Immunity to Poison and Plague
+5058#Immune to Bleeding & Plague
+5059#Immunity to Poison, Bleeding, and Plague
+5060#Prisoner_Poison attack
+5061#Slave Soldier_Flame Dagger (Oujou 2)
+5062#Royal Castle 1, 2 Prince Lendl (Defense x2.0)
+5063#Royal Castle 3 Prince Lendl (Defense x2.0)
+5064#Ojo 2, 3, 4 Biyo (Defense x2.5)
+5065#For strengthening the 3rd prisoner NPC
+5066#Phalanx Chibi Sticky Doping
+5067#King's Shield Level 1 Left Foot
+5068#King's Shield Level 2 Left Foot
+5069#King's Shield Level 3 Left Foot
+5070#King's shield level 1 right leg
+5071#King's shield level 2 right leg
+5072#King's shield level 3 right leg
+5073#Judge Abdominal Bleeding
+5074#NPC stamina attack power multiplier level 1
+5075#NPC stamina attack power multiplier level 2
+5076#NPC stamina attack power multiplier level 3
+5077#NPC stamina attack power multiplier level 4
+5078#NPC stamina attack power multiplier level 5
+5079#NPC stamina attack power multiplier level 6
+5080#NPC stamina attack power multiplier level 7
+5081#NPC stamina attack power multiplier level 8
+5082#NPC stamina attack power multiplier level 9
+5083#Libra recovery
+5084#for strengthening Doran
+6000#bleeding_1
+6001#bleeding_2
+6002#Bleeding_3
+6003#Bleeding_4
+6004#Bleeding_5
+6005#Bleeding_6
+6006#Bleeding_7
+6007#Bleeding_8
+6008#Bleeding_9
+6009#Bleeding_10
+6010#Poison 1
+6011#Poison 2
+6012#Poison 3
+6013#Poison 4
+6014#Poison 5
+6015#Poison 6
+6020#Torch Light
+6021#Max MP Up_Silver Catalyst
+6022#Max MP Down_Insanity Catalyst
+6025#Responds to fire [dragon stone]
+6030#MP recovery [equipment]
+6031#HP recovery [equipment]
+6032#Increase item drop rate
+6033#Plague_Baby's Claw
+6034#Soul Get_Needle of Anguish
+6035#Fire resistance_Keel crusher
+6036#Fire resistance_Keel crusher +1
+6037#Fire resistance_Keel crusher +2
+6038#Fire resistance_Keel crusher +3
+6039#Fire resistance_Keel crusher +4
+6040#Fire resistance_Keel crusher +5
+6041#MP Recovery_Misericorde
+6042#MP Recovery_Pole of Phosphorescence
+6043#MP Recovery_Misericorde +1
+6044#MP Recovery_Misericorde +2
+6045#MP Recovery_Misericorde +3
+6046#MP Recovery_Misericorde +4
+6047#MP Recovery_Misericorde +5
+6050#Magic Sensitive_Chris Knife
+6051#Magic Sensitivity_Chris Knife +1
+6052#Magic Sensitivity_Chris Knife +2
+6053#Magic Sensitivity_Chris Knife +3
+6054#Magic Sensitivity_Chris Knife +4
+6055#Magic Sensitivity_Chris Knife +5
+6060#Magic Defense Up_Runesword
+6061#Magic Defense Up_Runesword +1
+6062#Magic Defense Up_Runesword +2
+6063#Magic Defense Up_Runesword +3
+6064#Magic Defense Up_Runesword +4
+6065#Magic Defense Up_Runesword +5
+6066#Magic Defense Up_Rune Shield
+6070#Pinch Attack Power Up_Gloom Sword
+6071#Take damage yourself_no pattern
+6080#Makoto_self damage
+6081#Bleeding_Makoto
+6082#Bleeding_Makoto +1
+6083#Bleeding_Makoto +2
+6084#Bleeding_Makoto +3
+6085#Bleeding_Makoto +4
+6086#Bleeding_Makoto +5
+6090#Poison and Plague Resistance_Isterel
+6091#Poison and Plague Resistance_Istarel +1
+6092#Poison and Plague Resistance_Istarel +2
+6093#Poison and Plague Resistance_Istarel +3
+6094#Poison and Plague Resistance_Istarel +4
+6095#Poison and Plague Resistance_Istarel +5
+6100#HP Recovery_Meat Slicing Knife
+6101#Corrosion_Marice Lance
+6110#HP Recovery_Pavese
+6111#HP Recovery_Pavese +1
+6112#HP Recovery_Pavese +2
+6113#Recover HP_Pavese +3
+6114#Recover HP_Pavese +4
+6115#HP Recovery_Pavese +5
+6120#Magic Insensitivity_Breast Shield
+6121#Magic Insensitivity_Breast Shield +1
+6122#Magic Insensitivity_Breast Shield +2
+6123#Magic Insensitivity_Breast Shield +3
+6124#Magic Insensitivity_Breast Shield +4
+6125#Magic Insensitivity_Breast Shield +5
+6130#Max MP Up_Silver Coronet
+6131#Magic Sensitive_Yellow Crown
+6132#Obtain Soul Up_Silver Bracelet
+6135#Plague_Baby's Claw
+6136#Plague_Baby Claw +1
+6137#Plague_Baby Claw +2
+6138#Plague_Baby Claw +3
+6139#Plague_Baby Claw +4
+6140#Plague_Baby Claw +5
+6141#Pinch Attack Power Up_Gloom Sword
+6142#Pinch Attack Power Up_Groom Sword +1
+6143#Pinch Attack Power Up_Groom Sword +2
+6144#Pinch Attack Power Up_Groom Sword +3
+6145#Increase pinch attack power_Groom Sword +4
+6146#Pinch Attack Power Up_Groom Sword +5
+6150#MP recovery [missing month] +1
+6151#MP recovery [missing month] +2
+6152#MP recovery [missing month] +3
+6160#HP Recovery [Blessing] +1
+6161#HP Recovery [Blessing] +2
+6162#HP Recovery [Blessing] +3
+6170#MP Recovery_Pole of Phosphorescence
+6171#MP Recovery_Phosphorescence Pole +1
+6172#MP Recovery_Phosphorescence Pole +2
+6173#MP Recovery_Phosphorescence Pole +3
+6174#MP Recovery_Phosphorescence Pole +4
+6175#MP Recovery_Phosphorescence Pole +5
+6180#Poison and Plague Resistance_Bramed
+6181#Poison and Plague Resistance_Bramed +1
+6182#Poison and Plague Resistance_Bramed +2
+6183#Poison and Plague Resistance_Bramed +3
+6184#Poison and Plague Resistance_Bramed +4
+6185#Poison and Plague Resistance_Bramed +5
+6190#Magic Defense Up_Rune Shield
+6191#Magic Defense Up_Rune Shield +1
+6192#Magic Defense Up_Rune Shield +2
+6193#Magic Defense Up_Rune Shield +3
+6194#Magic Defense Up_Rune Shield +4
+6195#Magic Defense Up_Rune Shield +5
+6200#Stamina Recovery Down_Head_Level 1
+6201#Stamina recovery down_head_level 2
+6202#Stamina Recovery Down_Head_Level 3
+6203#Stamina recovery down_head_level 4
+6210#Stamina recovery down_torso_level 1
+6211#Stamina recovery down_torso_level 2
+6212#Stamina recovery down_torso_level 3
+6213#Stamina recovery down_torso_level 4
+6220#Stamina recovery down_arm_level 1
+6221#Stamina recovery down_arm_level 2
+6222#Stamina recovery down_arm_level 3
+6223#Stamina recovery down_arm_level 4
+6230#Stamina Recovery Down_Leg_Level 1
+6231#Stamina Recovery Down_Leg_Level 2
+6232#Stamina Recovery Down_Leg_Level 3
+6233#Stamina Recovery Down_Leg_Level 4
+6240#icon display only misericorde meat cleaver
+7001#Level 1 Royal Castle 1 Exclusive Reverse Doping
+7002#Level 2
+7003#Level 3
+7004#Level 4
+7005#Level 5
+7006#Level 6
+7007#Level 7
+7008#Level 8
+7009#Level 9
+7010#Level 10
+7100#soul black
+7400#Orbit Power Up [Test]
+7401#Orbit Power Up_ Level 1
+7402#Orbit Power Up_ Level 2
+7403#Orbit Power Up_Level 3
+7404#Orbit Power Up_ Level 4
+7405#Orbit Power Up_ Level 5
+7406#Orbit Power Up_Level 6
+7407#Orbit Power Up_ Level 7
+7408#Orbit Power Up_ Level 8
+7409#Orbit Power Up_ Level 9
+7410#Orbit Power Up_ Level 10
+7415#Orbit Power Up_ Level 5 Boss
+7500#Multi-doping_White alone
+7501#Multi-Doping_White Two People
+7900#reverse doping for tutorial
+10000#Flame Straw Test (Sieve)
