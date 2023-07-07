@@ -20,3 +20,4 @@ translations
 
 /script: Lua files with (machine-translated) English comments.
 
+/param: csv files with English param names, for DSMS import.
