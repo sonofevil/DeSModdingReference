@@ -1,0 +1,3 @@
+##Changing gender
+
+In the save file for a Demon's Souls character, change the hex value at position 0xf6 to 01 for male and 00 for female.
