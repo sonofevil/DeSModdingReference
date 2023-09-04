@@ -1,5 +1,9 @@
 Detailed info on selected functions.
-Copied and reformatted from 
+
+OnChrAnimEnd(<Event ID>, <Creature ID>, <Animation ID>, <function name>, <once/everytime>)
+	- Loads function at end of animation.
+
+Info below copied and reformatted from 
 https://github.com/Wulf2k/DeS-FunctionCall/blob/master/DeS-FunctionCall/DeS-FunctionCall.vb
 
 AddClearCount(<No Parameters>)
